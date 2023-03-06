@@ -5,6 +5,7 @@ categories:
   - "News"
 authors:
   - "Abdullah Farooq et al"
+slug: "reinstate-it-cannot-wait"
 tags:
   - "Vol. CXXVI, Issue 1"
 thumbnail: "img/2023/03/reinstate.png"

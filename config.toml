@@ -9,7 +9,10 @@ googleAnalytics = 'G-6SY1Q6GD78'
   shortcutIcon = "bigT.png" # Shortcut icon. Path relative to "static"
   post_meta = ["date", "categories", "authors"]
   list_post_meta = ["authors", "categories"]
-  Image = "bigT.png" # Path relative to "static"
+  opengraph = true
+  images = ["/bigT.png"]
+  readmore = true
+  description = "The California Tech is a student-run news organization that covers the latest news and events at Caltech and beyond."
 
 [Params.style.vars]
   highlightColor = "#cc5709" # Override highlight color

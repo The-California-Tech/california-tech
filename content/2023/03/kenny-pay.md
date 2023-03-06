@@ -19,6 +19,7 @@ widgets: # Enable sidebar widgets in given order per page
   - "categories"
   - "taglist"
   - "write-for-the-tech"
+summary: " "
 ---
 
 It was a simpler time three years ago. On March 3rd, 2020, students submitted their assignments they wrote up on sheets of paper to physical drop boxes, the most interesting thing that happened  on campus in the past two weeks was a party put on by the undergrad house we now know as Venerable, and the article with title "Coronavirus Cases Pop Up Across U.S. Over Weekend" wasn't a big enough deal to be the first thing you see as you picked up the day's issue of *The California Tech*.

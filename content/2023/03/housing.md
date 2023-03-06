@@ -16,6 +16,7 @@ widgets: # Enable sidebar widgets in given order per page
   - "categories"
   - "taglist"
   - "write-for-the-tech"
+summary: " "
 ---
 
 For almost as long as Caltech had undergraduate students, the institute has guaranteed its students housing on campus for four years. This policy stood until 2021, when the Institute had a record yield rate of 54% of admitted students. This, combined with the numerous students who took a gap year during the 2020-21 school year, meant that there were too many students for the nine residences; “there \[were\] approximately 870 beds available with approximately 970 undergraduate students,” as stated in the Assistant Director of Undergraduate Housing, Joe Benethaum’s initial email to the undergraduate students relaying the housing changes. According to the Caltech housing requirement as stated by Bennethum, “Caltech requires that all first and second-year students live in campus housing.” Thus, Housing was forced to make the decision that up to 100 third- and fourth-year students would not be able to live in on-campus housing for their first year back from the pandemic.

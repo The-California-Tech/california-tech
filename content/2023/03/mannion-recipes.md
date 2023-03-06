@@ -16,6 +16,7 @@ widgets: # Enable sidebar widgets in given order per page
   - "categories"
   - "taglist"
   - "write-for-the-tech"
+summary: "Tom Mannion is the Senior Director of Student Activities and Programs at the Office of Residential Experience and the instructor of Caltech's cooking class. These are two recipes from his collection!"
 ---
 
 **Smoked Salmon Tartare**

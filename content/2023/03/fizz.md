@@ -16,6 +16,7 @@ widgets: # Enable sidebar widgets in given order per page
   - "categories"
   - "taglist"
   - "write-for-the-tech"
+summary: "On the first day of winter term, on-campus students woke up to find small glossy flyers outside their doors, advertising an app called “Fizz”. Throughout the day, representatives gave out free donuts outside Hameetman to incentivize students to download the app. The invasion had begun."
 ---
 
 On the first day of winter term, on-campus students woke up to find small glossy flyers outside their doors, advertising an app called “Fizz”. Throughout the day, representatives gave out free donuts outside Hameetman to incentivize students to download the app. The invasion had begun. 

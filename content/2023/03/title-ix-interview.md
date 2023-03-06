@@ -16,6 +16,7 @@ widgets: # Enable sidebar widgets in given order per page
   - "categories"
   - "taglist"
   - "write-for-the-tech"
+summary: "Interview with Hima Vatti, Caltech's Title IX Coordinator and Director of the Equity and Title IX Office."
 ---
 
 **How long have you worked in the Equity and Title IX office?**
