@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ankita Nandi on The California Tech</title>
+    <link>/authors/ankita-nandi/</link>
+    <description>Recent content in Ankita Nandi on The California Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/authors/ankita-nandi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Growing Student Body Leads to Undergraduate Housing Shortage</title>
+      <link>/2023/03/housing/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/03/housing/</guid>
+      <description>For almost as long as Caltech had undergraduate students, the institute has guaranteed its students housing on campus for four years. This policy stood until 2021, when the Institute had a record yield rate of 54% of admitted students. This, combined with the numerous students who took a gap year during the 2020-21 school year, meant that there were too many students for the nine residences; “there [were] approximately 870 beds available with approximately 970 undergraduate students,” as stated in the Assistant Director of Undergraduate Housing, Joe Benethaum’s initial email to the undergraduate students relaying the housing changes.</description>
+    </item>
+    
+  </channel>
+</rss>
