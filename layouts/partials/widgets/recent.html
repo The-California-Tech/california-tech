@@ -1,0 +1,15 @@
+{{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
+
+{{- if $recent }}
+<div class="widget-recent widget">
+	<h3 class="widget__title">{{ T "recent_title" }}</h3>
+	<div class="widget__content">
+		<div class="widget__grid">
+			{{- range first $recent_num $recent }}
+			<li class="widget__item"><a class="widget__link" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+			{{- end }}
+		</div>
+	</div>
+</div>
+{{- end }}

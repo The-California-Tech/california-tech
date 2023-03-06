@@ -1,0 +1,45 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'The California Tech'
+theme = 'mainroad'
+
+[Params]
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Noto+Serif+Georgian:wght@500&family=Playfair+Display:wght@500;700&family=UnifrakturCook:wght@700&display=swap"
+  shortcutIcon = "bigT.png" # Shortcut icon. Path relative to "static"
+  post_meta = ["date", "categories", "authors"]
+  list_post_meta = ["authors", "categories"]
+
+[Params.style.vars]
+  highlightColor = "#cc5709" # Override highlight color
+  fontFamilyPrimary = "Noto Serif Georgian, serif"
+  # Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+  fontFamilyTitle = "'UnifrakturCook', cursive"
+  fontFamilyHeadlines = "'Playfair Display', serif"
+
+[Params.sidebar]
+  home = "left"
+  widgets = ["categories", "recent", "write-for-the-tech"]
+
+[menu]
+    [[menu.main]]
+      name = 'Home'
+      url = '/'
+      weight = 1
+    [[menu.main]]
+      name = 'News'
+      url = '/categories/news/'
+      weight = 2
+    [[menu.main]]
+      name = 'Culture'
+      url = '/categories/culture/'
+      weight = 3
+    [[menu.main]]
+      name = 'Campus'
+      url = '/categories/campus/'
+      weight = 4
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  author = 'authors'
