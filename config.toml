@@ -8,6 +8,7 @@ theme = 'mainroad'
   shortcutIcon = "bigT.png" # Shortcut icon. Path relative to "static"
   post_meta = ["date", "categories", "authors"]
   list_post_meta = ["authors", "categories"]
+  Image = "bigT.png" # Path relative to "static"
 
 [Params.style.vars]
   highlightColor = "#cc5709" # Override highlight color
