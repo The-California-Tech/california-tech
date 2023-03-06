@@ -2,6 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'The California Tech'
 theme = 'mainroad'
+googleAnalytics = 'G-6SY1Q6GD78'
 
 [Params]
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Noto+Serif+Georgian:wght@500&family=Playfair+Display:wght@500;700&family=UnifrakturCook:wght@700&display=swap"
