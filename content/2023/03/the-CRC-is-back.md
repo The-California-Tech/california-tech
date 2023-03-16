@@ -19,14 +19,15 @@ toc: true
 widgets: # Enable sidebar widgets in given order per page
   - recent
   - categories
-  - taglist
   - write-for-the-tech
+  - taglist
 summary: It’s no exaggeration to say life as we know it would not be possible without
   the Honor Code. We often take this implicit trust between students, faculty,
   and staff, for granted. But as in any relationship, this trust can start to
   degrade over time if it is not reassessed and reaffirmed.
-preview: /default.jpg
-slug: crc
+images:
+  - /default.jpg
+slug: the-crc-is-back
 ---
 
 One of the best things about Caltech is the autonomy that students are afforded. It’s no exaggeration to say life as we know it would not be possible without the Honor Code. We often take this implicit trust between students, faculty, and staff, for granted. But as in any relationship, this trust can start to degrade over time if it is not reassessed and reaffirmed. 

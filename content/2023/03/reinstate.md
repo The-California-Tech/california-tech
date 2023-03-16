@@ -1,23 +1,26 @@
 ---
-title: "Reinstate, It Cannot Wait: A collective call to action for an international scholar"
-date: "2023-03-03"
+title: "Reinstate, It Cannot Wait: A collective call to action for an international
+  scholar"
+date: 2023-03-03
 categories:
-  - "News"
+  - News
 authors:
-  - "Abdullah Farooq et al"
-slug: "reinstate-it-cannot-wait"
+  - Abdullah Farooq et al
+slug: reinstate-it-cannot-wait
 tags:
-  - "Vol. CXXVI, Issue 1"
-thumbnail: "img/2023/03/reinstate.png"
+  - Vol. CXXVI, Issue 1
+thumbnail: img/2023/03/reinstate.png
 # lead: "Example lead - highlighted near the title" # Lead text
-sidebar: "right" # Enable sidebar (on the right side) per page
+sidebar: right
 toc: true
 widgets: # Enable sidebar widgets in given order per page
-  - "recent"
-  - "categories"
-  - "taglist"
-  - "write-for-the-tech"
+  - recent
+  - categories
+  - taglist
+  - write-for-the-tech
 summary: " "
+images:
+  - /img/2023/03/reinstate.png
 ---
 
 Last Friday, on the 24th of February, a group of about 40 Caltech graduate students and postdoctoral researchers [delivered a petition](https://twitter.com/cgpu_uaw/status/1629190257458683904?cxt=HHwWgIDR9Yj6hZwtAAAA) signed by over 400 of our colleagues, in support of an international graduate student. Facing unjust retaliatory action from the Institute, the student risks losing their graduate student status at Caltech permanently, and with it, their legal immigration status in the US. Fully unfurled, the petition stretched seven feet long. Organized by our nascent union campaign, Caltech Grad Students and Postdocs United ([CGPU](https://caltechgpu.org/)), we rallied in support of the petition’s main demand: to unconditionally and immediately reinstate the student into the graduate program. 
