@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/179aa1bb-1122-4563-bcda-165e749d8c6c/deploy-status)](https://app.netlify.com/sites/the-california-tech/deploys)
