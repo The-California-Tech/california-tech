@@ -1,26 +1,32 @@
 ---
 # Common-Defined params
-title: "The CRC is Back"
-authors: ["Michael Gutierrez"]
-date: "2023-03-03"
+title: The CRC is Back
+authors:
+  - Michael Gutierrez
+date: 2023-03-03
 # description: "Example article description"
 categories:
-  - "News"
-  - "Culture"
+  - News
+  - Culture
 tags:
-  - "Vol. CXXVI, Issue 1"
+  - Vol. CXXVI, Issue 1
 
 # Theme-Defined params 
-thumbnail: "default.jpg" # Thumbnail image
+thumbnail: default.jpg
 # lead: "Example lead - highlighted near the title" # Lead text
-sidebar: "right" # Enable sidebar (on the right side) per page
+sidebar: right
 toc: true
 widgets: # Enable sidebar widgets in given order per page
-  - "recent"
-  - "categories"
-  - "taglist"
-  - "write-for-the-tech"
-summary: "It’s no exaggeration to say life as we know it would not be possible without the Honor Code. We often take this implicit trust between students, faculty, and staff, for granted. But as in any relationship, this trust can start to degrade over time if it is not reassessed and reaffirmed."
+  - recent
+  - categories
+  - taglist
+  - write-for-the-tech
+summary: It’s no exaggeration to say life as we know it would not be possible without
+  the Honor Code. We often take this implicit trust between students, faculty,
+  and staff, for granted. But as in any relationship, this trust can start to
+  degrade over time if it is not reassessed and reaffirmed.
+preview: /default.jpg
+slug: crc
 ---
 
 One of the best things about Caltech is the autonomy that students are afforded. It’s no exaggeration to say life as we know it would not be possible without the Honor Code. We often take this implicit trust between students, faculty, and staff, for granted. But as in any relationship, this trust can start to degrade over time if it is not reassessed and reaffirmed. 
