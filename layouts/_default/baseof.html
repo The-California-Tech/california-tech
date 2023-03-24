@@ -43,7 +43,6 @@
 	{{- end }}
 </head>
 <body class="body">
-	<div class="container container--outer">
 		{{ block "header" . }}{{ partial "header.html" . }}{{ end }}
 		<div class="wrapper flex">
 			<div class="primary">
@@ -58,7 +57,6 @@
 			{{ block "sidebar" . }}{{ partial "sidebar.html" . }}{{ end }}
 		</div>
 		{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
-	</div>
 <script async defer src="{{ "js/menu.js" | relURL }}"></script>
 {{ range .Site.Params.customJS -}}
 <script src="{{ . | relURL }}"></script>
