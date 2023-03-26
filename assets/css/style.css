@@ -482,8 +482,8 @@ select {
 	width: 100%;
 	padding: 0;
 	font: inherit;
-	color: #fff;
-	background: #2a2a2a;
+	color: #333;
+	background: #fff;
 	border: 0;
 	outline: 0;
 }
@@ -524,14 +524,17 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .menu__list {
 	list-style: none;
 	background: #FFFFFF;
+	overflow: auto;
+	-ms-overflow-style: none; /* IE and Edge */
+  	scrollbar-width: none; /* Firefox */
+}
+
+.menu__list::-webkit-scrollbar {
+	display: none;
 }
 
 .menu__item:hover {
 	background: #EEEEEE;
-}
-
-.menu__item:first-child {
-	border: 0;
 }
 
 /* .menu__item--active {
@@ -578,32 +581,34 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	font-family: {{ $fontFamilyPrimary }};
 }
 
-@media screen and (min-width: 767px) {
-	.menu {
-		border-bottom: 5px double #999999;
-	}
-
-	.menu__btn {
-		display: none;
-	}
-
+@media screen and (min-width: 768px) {
 	.menu__list,
-	.js .menu__list {
-		position: relative;
-		display: -webkit-flex;
-		display: flex;
-		-webkit-flex-wrap: wrap;
-		flex-wrap: wrap;
-		visibility: visible;
-		border: 0;
-		-webkit-transform: none;
-		transform: none;
-		justify-content: center;
-	}
+.js .menu__list {
+	justify-content: center;
+}
+}
 
-	.menu__item {
-		border-left: 1px solid rgba(255, 255, 255, .1);
-	}
+.menu {
+	border-bottom: 5px double #999999;
+}
+
+.menu__btn {
+	display: none;
+}
+
+.menu__list,
+.js .menu__list {
+	position: relative;
+	display: -webkit-flex;
+	display: flex;
+	visibility: visible;
+	border: 0;
+	-webkit-transform: none;
+	transform: none;
+}
+
+.menu__item {
+	border-left: 1px solid rgba(255, 255, 255, .1);
 }
 
 /* Posts/Pages */
@@ -921,8 +926,10 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .list__thumbnail img {
-	width: 100%;
+	width: 16vh;
+	height: 16vh;
 	max-width: 235px;
+	object-fit: cover;
 }
 
 .list__footer-readmore {
@@ -1228,17 +1235,8 @@ textarea {
 }
 
 /* Media Queries */
-@media screen and (max-width: 1475px) {
-	.container--outer {
-		width: 95%;
-	}
-}
 
 @media screen and (max-width: 900px) {
-	.container--outer {
-		width: 100%;
-		margin: 0 auto;
-	}
 
 	.widget {
 		margin-bottom: 20px;
@@ -1284,10 +1282,6 @@ textarea {
 
 	.sidebar {
 		margin-top: 20px;
-	}
-
-	.menu__item {
-		border: 1px solid #333;
 	}
 }
 
@@ -1357,9 +1351,5 @@ textarea {
 		display: block;
 		font-size: 11px;
 		font-size: .6875rem;
-	}
-
-	.banner {
-		display: none;
 	}
 }

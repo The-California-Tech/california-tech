@@ -23,7 +23,7 @@ theme = 'mainroad'
 
 [Params.sidebar]
   home = "left"
-  widgets = ["categories", "recent", "write-for-the-tech"]
+  widgets = ["write-for-the-tech"]
 
 [menu]
     [[menu.main]]
@@ -42,6 +42,18 @@ theme = 'mainroad'
       name = 'Campus'
       url = '/categories/campus/'
       weight = 4
+    [[menu.main]]
+      name = 'Opinion'
+      url = '/categories/opinion/'
+      weight = 5
+    [[menu.main]]
+      name = 'Sports'
+      url = '/categories/sports/'
+      weight = 6
+    [[menu.main]]
+      name = 'Humor'
+      url = '/categories/humor/'
+      weight = 7
 
 [taxonomies]
   category = 'categories'

@@ -1,25 +1,28 @@
 ---
 # Common-Defined params
-title: "I Haven't Been Paid for My Work in Three Years. What's Up With That?"
-authors: ["Kenny Thai"]
-date: "2023-03-03"
+title: I Haven't Been Paid for My Work in Three Years. What's Up With That?
+authors:
+  - Kenny Thai
+date: 2023-03-03
 # description: "Example article description"
 categories:
-  - "Letters from the Editor"
+  - Opinion
 tags:
-  - "Vol. CXXVI, Issue 1"
+  - Vol. CXXVI, Issue 1
 
 # Theme-Defined params 
-thumbnail: "img/2023/03/kenny-pay.jpg" # Thumbnail image
+thumbnail: img/2023/03/kenny-pay.jpg
 # lead: "Example lead - highlighted near the title" # Lead text
-sidebar: "right" # Enable sidebar (on the right side) per page
+sidebar: right
 toc: true
 widgets: # Enable sidebar widgets in given order per page
-  - "recent"
-  - "categories"
-  - "taglist"
-  - "write-for-the-tech"
+  - recent
+  - categories
+  - taglist
+  - write-for-the-tech
 summary: " "
+images:
+  - /img/2023/03/kenny-pay.jpg
 ---
 
 It was a simpler time three years ago. On March 3rd, 2020, students submitted their assignments they wrote up on sheets of paper to physical drop boxes, the most interesting thing that happened  on campus in the past two weeks was a party put on by the undergrad house we now know as Venerable, and the article with title "Coronavirus Cases Pop Up Across U.S. Over Weekend" wasn't a big enough deal to be the first thing you see as you picked up the day's issue of *The California Tech*.
