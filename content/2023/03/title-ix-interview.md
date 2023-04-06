@@ -1,23 +1,25 @@
 ---
-title: "Interview with Hima Vatti About the Caltech Title IX Program"
-date: "2023-03-03"
+title: Interview with Hima Vatti About the Caltech Title IX Program
+date: 2023-03-03
 categories:
   - Campus
 tags:
-  - "Vol. CXXVI, Issue 1"
+  - Vol. CXXVI, Issue 1
 authors:
   - Aditee Prabhutendolkar
-# lead: "Example lead - highlighted near the title" # Lead text
-sidebar: "right" # Enable sidebar (on the right side) per page
+sidebar: right
 toc: true
-thumbnail: "img/2023/03/vatti.jpg"
-widgets: # Enable sidebar widgets in given order per page
-  - "recent"
-  - "categories"
-  - "taglist"
-  - "write-for-the-tech"
-summary: "Interview with Hima Vatti, Caltech's Title IX Coordinator and Director of the Equity and Title IX Office."
+thumbnail: default.jpg
+widgets:
+  - recent
+  - categories
+  - taglist
+  - write-for-the-tech
+summary: Interview with Hima Vatti, Caltech's Title IX Coordinator and Director of the Equity and Title IX Office.
+show_thumbnail: false
 ---
+
+![Hima Vatti](/img/2023/03/vatti.jpg)
 
 **How long have you worked in the Equity and Title IX office?**
 

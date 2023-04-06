@@ -2,6 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'The California Tech'
 theme = 'mainroad'
+paginate = "100"
 
 [Params]
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Noto+Serif+Georgian:wght@500&family=Playfair+Display:wght@500;700&family=UnifrakturCook:wght@700&display=swap"
@@ -22,8 +23,8 @@ theme = 'mainroad'
   fontFamilyHeadlines = "'Playfair Display', serif"
 
 [Params.sidebar]
-  home = "left"
-  widgets = ["write-for-the-tech"]
+  home = false
+  widgets = ["featured","write-for-the-tech"]
 
 [menu]
     [[menu.main]]
@@ -31,29 +32,33 @@ theme = 'mainroad'
       url = '/'
       weight = 1
     [[menu.main]]
-      name = 'News'
-      url = '/categories/news/'
+      name = 'Campus'
+      url = '/categories/campus/'
       weight = 2
     [[menu.main]]
       name = 'Culture'
       url = '/categories/culture/'
       weight = 3
     [[menu.main]]
-      name = 'Campus'
-      url = '/categories/campus/'
-      weight = 4
-    [[menu.main]]
-      name = 'Opinion'
-      url = '/categories/opinion/'
+      name = 'Editorial'
+      url = '/categories/editorial/'
       weight = 5
     [[menu.main]]
-      name = 'Sports'
-      url = '/categories/sports/'
+      name = 'Puzzles'
+      url = '/categories/puzzles/'
       weight = 6
     [[menu.main]]
       name = 'Humor'
       url = '/categories/humor/'
       weight = 7
+    [[menu.main]]
+      name = 'Advertising'
+      url = '/Advertising/'
+      weight = 100
+    [[menu.main]]
+      name = 'About'
+      url = '/About/'
+      weight = 101
 
 [taxonomies]
   category = 'categories'

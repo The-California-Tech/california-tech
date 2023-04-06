@@ -7,22 +7,19 @@ tags:
   - Vol. CXXVI, Issue 1
 authors:
   - Justin Toyota
-thumbnail: img/2023/03/fizz.webp
-# lead: "Example lead - highlighted near the title" # Lead text
+thumbnail: /img/2023/03/fizz logo.webp
 sidebar: right
 toc: true
-widgets: # Enable sidebar widgets in given order per page
+widgets:
   - recent
   - categories
   - taglist
   - write-for-the-tech
-summary: On the first day of winter term, on-campus students woke up to find small
-  glossy flyers outside their doors, advertising an app called “Fizz”.
-  Throughout the day, representatives gave out free donuts outside Hameetman to
-  incentivize students to download the app. The invasion had begun.
+summary: On the first day of winter term, on-campus students woke up to find small glossy flyers outside their doors, advertising an app called “Fizz”...
 slug: fizz-comes-to-campus
 images:
-  - /default.jpg
+  - /img/2023/03/fizz logo.webp
+show_thumbnail: false
 ---
 
 On the first day of winter term, on-campus students woke up to find small glossy flyers outside their doors, advertising an app called “Fizz”. Throughout the day, representatives gave out free donuts outside Hameetman to incentivize students to download the app. The invasion had begun. 

@@ -2,21 +2,21 @@
 title: About
 authorbox: false
 sidebar: false
-menu: main
 ---
 
-*The Tech* is a student-run newspaper at The California Institute of Technology.
-
-We publish every other Friday during the school year (not published during vacation and examination periods). We typically run four pages of news and four of commentary.
-
-It is our policy to pay* all photographers, news writers and assigned opinion writers and three free academic credits are available per term for those who put in at least three hours per week.
-
-Editors distribute articles and photo tasks by individual assignment; the absolute deadline for each issue is 5:00 p.m. on the Wednesday before publication.
-
-Newcomers are welcome -- we need more writers! Feel free to join our [Discord server](https://discord.gg/YSDv9dQra5).
-
-The opinions expressed herein are strictly those of the authors.
-
-Contact us at tech@caltech.edu
-
-*Eventually. May or may not be in the form of Grubhub gift cards.
+*The California Tech* aims to publish biweekly except during vacation and examination periods by the Associated 
+Students of the California Institute of 
+Technology, Inc. The opinions expressed 
+herein are strictly those of the authors and 
+advertisers. Letters and submissions are 
+welcome; e-mail submissions to tech@caltech.edu as plain-text attachments, including the author’s name, by Thursday 
+of the week before publication. If you would like to write for *The Tech*, please join our [Discord server](https://discord.gg/Zaah8749s2) -- it is the editorial team's main method of communication. *The Tech* 
+does accept anonymous contributions 
+under special circumstances. The editors 
+reserve the right to edit and abridge all 
+submissions for any reason. All written 
+work remains property of its author. The 
+[advertising](/advertising) deadline is 12 pm on Friday; 
+all advertising should be submitted electronically or as camera ready art, but *The Tech* can also do simple typesetting and 
+arrangement. All advertising inquiries 
+should be directed to the business manager at tech@caltech.edu

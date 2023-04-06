@@ -1,23 +1,26 @@
 ---
-title: "Tom Mannion's Recipes"
-date: "2023-03-03"
+title: Tom Mannion's Recipes
+date: 2023-03-03
 categories:
   - Culture
 tags:
-  - "Vol. CXXVI, Issue 1"
+  - Vol. CXXVI, Issue 1
 authors:
-  - "Tom Mannion"
-thumbnail: "img/2023/03/mannion.jpg"
-# lead: "Example lead - highlighted near the title" # Lead text
-sidebar: "right" # Enable sidebar (on the right side) per page
+  - Tom Mannion
+thumbnail: img/2023/03/cooking.jpg
+sidebar: right
 toc: true
-widgets: # Enable sidebar widgets in given order per page
-  - "recent"
-  - "categories"
-  - "taglist"
-  - "write-for-the-tech"
-summary: "Tom Mannion is the Senior Director of Student Activities and Programs at the Office of Residential Experience and the instructor of Caltech's cooking class. These are two recipes from his collection!"
+widgets:
+  - recent
+  - categories
+  - taglist
+  - write-for-the-tech
+summary: Tom Mannion is the Senior Director of Student Activities and Programs at the Office of Residential Experience and the instructor of Caltech's cooking class. These are two recipes from his collection!
+show_thumbnail: true
 ---
+
+Tom Mannion is the Senior Director of Student Activities and Programs at the Office of Residential Experience and the instructor of Caltech's cooking class. These are two recipes from his collection!
+
 
 **Smoked Salmon Tartare**
 
@@ -47,3 +50,5 @@ Ingredients
 3. Remove cheese disc and center on a compartment of an egg carton - push in to make a tulip like cheese cup (must be done while cheese is hot and soft).
 4. Place 1 log goat cheese, Italian parsley fine chopped parsley, dash of white pepper and 4 teaspoons cream in the food processor, mix until fluffy and consistent. 
 5. Fill cups with mousse. Garnish with parsley. 
+
+![](/img/2023/03/mannion.jpg)
