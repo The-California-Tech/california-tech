@@ -4,7 +4,7 @@ authors:
   - Aelin Hunt
 date: 2023-04-04
 categories:
-  - Arts
+  - Art
 tags:
   - Vol. CXXVI, Issue 2
 weight: 0

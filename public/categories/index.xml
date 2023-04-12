@@ -6,11 +6,20 @@
     <description>Recent content in Categories on The California Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art</title>
+      <link>/categories/art/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/art/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Campus</title>
       <link>/categories/campus/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/categories/campus/</guid>
       <description></description>
@@ -19,18 +28,90 @@
     <item>
       <title>Culture</title>
       <link>/categories/culture/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/categories/culture/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Letters from the Editor</title>
-      <link>/categories/letters-from-the-editor/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <title>Humor</title>
+      <link>/categories/humor/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/categories/letters-from-the-editor/</guid>
+      <guid>/categories/humor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-Campus</title>
+      <link>/categories/off-campus/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/off-campus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinion</title>
+      <link>/categories/opinion/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puzzles</title>
+      <link>/categories/puzzles/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/puzzles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science &amp; Tech</title>
+      <link>/categories/science-tech/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/science-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>/categories/sports/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student Life</title>
+      <link>/categories/student-life/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/student-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial</title>
+      <link>/categories/editorial/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/editorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World</title>
+      <link>/categories/world/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/world/</guid>
       <description></description>
     </item>
     

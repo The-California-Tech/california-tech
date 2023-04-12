@@ -6,7 +6,7 @@ authors:
   - Alicia Zhang
 date: 2023-03-03
 categories:
-  - Arts
+  - Art
 tags:
   - Vol. CXXVI, Issue 1
 weight: 0
