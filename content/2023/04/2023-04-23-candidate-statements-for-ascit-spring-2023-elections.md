@@ -55,7 +55,7 @@ I would be honored to serve as your ASCIT President, and I am excited about the 
 
 ![](/img/2023/04/24/Alex.jpg)
 
-TLDR: Hi! I’m Alex and I am running for the position of ARC Chair. I have been ARC Secretary for the past year and want to continue working on your behalf to improve academics at Caltech. If elected, my main goals are to improve student experience in the core curriculum, strengthen academic and career advising on campus, help rebuild student-faculty relationships, and most importantly be your advocate to faculty and admin for everything related to academics and research.
+*TLDR: Hi! I’m Alex and I am running for the position of ARC Chair. I have been ARC Secretary for the past year and want to continue working on your behalf to improve academics at Caltech. If elected, my main goals are to improve student experience in the core curriculum, strengthen academic and career advising on campus, help rebuild student-faculty relationships, and most importantly be your advocate to faculty and admin for everything related to academics and research.*
 
 Hello! I’m Alex Burr, a junior in Venerable majoring in biology. I am your current ARC Secretary and a member of the Caltech Cross Country and Track & Field teams. I have served on the ARC as the Venerable House Rep and most recently as the ARC Secretary this past year. During this time, I have worked closely with the previous ARC Chair, the Center for Teaching Learning and Outreach (CTLO), various faculty members, and administration to improve the state of academics on campus. As a result, I know what it takes to work with groups outside the ARC to strengthen academics and research on campus and I am prepared to hit the ground running if elected as ARC Chair. Having been on the ARC for over a year and having worked closely with the current ARC Chair Twombly, I am familiar with the requirements and expectations of the position and would be honored to continue serving you on the ARC. I am excited about the chance to continue and expand our initiatives to provide the best resources, advice, and opportunities to everyone at Caltech.
 
@@ -91,7 +91,7 @@ Hopefully I’ve been able to convince you that I am qualified for the role of A
 
 ## ASCIT Director of Operations (1 Candidate)
 
-### Ankita Nandi (Page/Avery MS/En ’25)
+### Ankita Nandi (Page/Avery MS/En ’24)
 
 ![](/img/2023/04/24/ankita.jpg)
 
