@@ -1,0 +1,16 @@
+fragment PostParts on Post {
+  title
+  authors
+  date
+  categories
+  tags
+  weight
+  thumbnail
+  show_thumbnail
+  sidebar
+  toc
+  widgets
+  summary
+  images
+  body
+}
