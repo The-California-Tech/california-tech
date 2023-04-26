@@ -7,7 +7,7 @@ categories:
   - Campus
 tags:
   - Vol. CXXVI, Issue 3
-weight: -1
+weight: 0
 thumbnail: /img/2023/04/11/tacit.jpg
 sidebar: right
 toc: true

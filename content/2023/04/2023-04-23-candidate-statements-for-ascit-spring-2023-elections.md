@@ -6,7 +6,7 @@ categories:
   - Student Life
 tags:
   - Vol. CXXVI, Issue 4
-weight: -4
+weight: 0
 thumbnail: /img/2023/04/24/donut.png
 show_thumbnail: true
 sidebar: right
@@ -29,6 +29,7 @@ The voting period for the ASCIT Spring 2023 Elections closes at **11:59 PM on Mo
 ### Gabriella Twombly (Fleming CS ’24)
 
 ![](/img/2023/04/24/twombly.jpeg)
+{.post__image}
 
 Hello all,
 
@@ -54,6 +55,7 @@ I would be honored to serve as your ASCIT President, and I am excited about the 
 ### Alex Burr (Venerable Bi ’24)
 
 ![](/img/2023/04/24/Alex.jpg)
+{.post__image}
 
 *TLDR: Hi! I’m Alex and I am running for the position of ARC Chair. I have been ARC Secretary for the past year and want to continue working on your behalf to improve academics at Caltech. If elected, my main goals are to improve student experience in the core curriculum, strengthen academic and career advising on campus, help rebuild student-faculty relationships, and most importantly be your advocate to faculty and admin for everything related to academics and research.*
 
@@ -94,6 +96,7 @@ Hopefully I’ve been able to convince you that I am qualified for the role of A
 ### Ankita Nandi (Page/Avery MS/En ’24)
 
 ![](/img/2023/04/24/ankita.jpg)
+{.post__image}
 
 Hi! I’m Ankita, current junior and member of Page and Avery House majoring in Materials Science and English. I’m running to be Director of Operations to provide support for campus publications and clubs on campus. To give an example of my campus involvement, I’m a current reporter/columnist and former business manager for The California Tech and on the executive board of APIDA+. I’m also a Title IX advocate for Page/Avery and Orange Watch Coordinator for Page. Through these different commitments, I have an idea of the support clubs and publications need and aim to support the student body in this function as best I can. I’m always open to more suggestions on how to best serve the student body, I am always open to talking about what I plan to do as Director of Operations. If you have any questions, please feel free to reach out via Messenger or by email at anandi@caltech.edu. 
 
@@ -102,6 +105,7 @@ Hi! I’m Ankita, current junior and member of Page and Avery House majoring in 
 ### Jonathan Booker (Ricketts Ph/CS ’25)
 
 ![](/img/2023/04/24/booker.jpeg)
+{.post__image}
 
 For those who do not know me already, my name is Jonathan Booker; I am a sophomore in Ricketts studying Physics/CS, and I am running to be your next ASCIT Treasurer. 
 
@@ -118,6 +122,7 @@ If you have any questions, concerns, or just want to say hello, I’m usually ha
 ### Purvi Sehgal (Lloyd CS ’25)
 
 ![](/img/2023/04/24/purvi.jpeg)
+{.post__image}
 
 Hello everyone!
 
@@ -136,6 +141,7 @@ Please reach out to me at psehgal@caltech.edu if you have any questions! Thank y
 ### Snigdha Saha (Ricketts CS ’24)
 
 ![](/img/2023/04/24/snigdha.jpg)
+{.post__image}
 
 Hi everyone,
 
@@ -185,5 +191,6 @@ As your next ASCIT Social Director, I am committed to creating events that are n
 ### Diego Barcenas (Dabney Ay ‘26)
 
 ![](/img/2023/04/24/diego.jpeg)
+{.post__image}
 
 Hello, my name is Diego Barcenas and I am running for unaffiliated BOC rep. The honor code is something that is very special and unique to Caltech, as it allows us to have take-home exams. As a BOC rep, I would do my best to help enforce the honor code to ensure that the tradition of the honor code continues.

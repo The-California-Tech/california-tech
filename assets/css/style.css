@@ -694,6 +694,16 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	width: 100%;
 }
 
+.post__image {
+	text-align: center;
+	margin: 0 0 20px;
+	margin-bottom: 0 0 1.25rem;
+}
+
+.post__image img {
+	max-width: 50%;
+}
+
 .content a,
 .warning a,
 .authorbox__description a {
