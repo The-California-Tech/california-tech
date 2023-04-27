@@ -98,7 +98,6 @@ export default defineConfig({
             type: "string",
             name: "sidebar",
             label: "Sidebar",
-            list: true,
             options: [
               "left",
               "right",
