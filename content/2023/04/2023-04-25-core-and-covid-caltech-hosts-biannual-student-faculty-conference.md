@@ -22,28 +22,6 @@ images:
   - default2.jpg
 ---
 
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.438 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Tue Apr 25 2023 21:52:40 GMT-0700 (PDT)
-* Source doc: SFC Article
------>
-
-
 On Tuesday, April 18th, Caltech held its biannual Student Faculty Conference (SFC), an all-day forum between students and faculty about individual majors, and undergraduate academics as a whole. The conference, one of the few times the Caltech community gets to formally have their complaints heard, was held in person for the first time since 2019. 
 
 Throughout this past year, the Academics and Research Committee (ARC) planned the event, creating SFC committees composed of students and faculty that review certain issues. Individual, major-specific panels were hosted throughout the day. There were two special committees that presented.
@@ -83,3 +61,5 @@ For Ma1a, 70% found the class did not improve their understanding of calculus. F
 Overall, the committee wants core to allow students to explore fields of their choice, but still prepare them to succeed in their major-specific coursework. A total of 15 units from core are advised to be dropped.
 
 Possible topics to investigate in the future include teaching quality of core sciences, usefulness of pseudo-core classes like Ph 2 and Ma 3, and topic-splitting courses like B1 b, Bi 1 g, and Bi1 x.
+
+![](/img/2023/04/24/sfc_frosh_sched.png)
