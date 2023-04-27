@@ -26,41 +26,18 @@ images:
 slug: ihc-meeting-minutes-april-9-2023
 ---
 
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 1.247 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Tue Apr 25 2023 20:46:03 GMT-0700 (PDT)
-* Source doc: Copy of 4/9/23 ihc meeting PUBLIC NOTES
------>
-
-
 Present: Leo Williams, Aditee Prabhutendolkar, Sophie Elam, Rik Bose, Tomas Wexler, Parul Singh, Andrew Pasco, Emma Isella, Meg Robertson, Randy Ngo
 
 Floor: Luna Brooker
 
 Call to order: _2:06 pm_
 
-**<span style="text-decoration:underline;">Reminders</span>**
-
+__Reminders__:
 
 
 * Meeting with Vanessa Tues 12-1
 
-**<span style="text-decoration:underline;">Live transcript</span>**
+__Live transcript__
 
 SE: I met with Joe and he approved the Page room switch thing, but they don’t want to go under 34 Bechtel spots – frosh want the option to pre-opt to prevent anxiety, so they want to keep it at 34. But on Friday I got an email from Joe that said admissions is projecting a higher number of incoming students, so 8 more frosh spaces. So that’s the first order of business, is figuring out who wants to take the spots. 
 
