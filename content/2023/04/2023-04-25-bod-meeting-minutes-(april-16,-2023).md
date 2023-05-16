@@ -1,14 +1,14 @@
 ---
-title: BoD Meeting Minutes (April 16, 2023)
+title: 'BoD Meeting Minutes (April 16, 2023)'
 authors:
   - Jonathan Booker
-date: 2023-04-24
+date: 2023-04-24T00:00:00.000Z
 categories:
   - Campus
 tags:
-  - Vol. CXXVI, Issue 4
+  - 'Vol. CXXVI, Issue 4'
 weight: 0
-thumbnail: /default2.jpg
+thumbnail: 'https://assets.tina.io/5326ce05-2e1f-455a-9d90-61c478da8fe8/default4.jpg'
 show_thumbnail: true
 sidebar: right
 toc: true
@@ -17,9 +17,9 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
-summary: "Minutes for April 16, 2023. Taken by Jonathan Booker."
+summary: 'Minutes for April 16, 2023. Taken by Jonathan Booker.'
 images:
-  - /default2.jpg
+  - 'https://assets.tina.io/5326ce05-2e1f-455a-9d90-61c478da8fe8/default4.jpg'
 slug: bod-meeting-minutes-april-16-2023
 ---
 
@@ -37,44 +37,44 @@ Minutes for April 16, 2023. Taken by Jonathan Booker.
 
 President (Kavya)
 
-- VPSA Meeting on 4-19
-- We are potentially getting an active advisor. Guutz has been active with the current one.
-- Guutz: A lot of people are discouraged to take the journalism class because it is not a writing intensive.
+* VPSA Meeting on 4-19
+* We are potentially getting an active advisor. Guutz has been active with the current one.
+* Guutz: A lot of people are discouraged to take the journalism class because it is not a writing intensive.
 
 V.P of Academic Affairs (Twombly)
 
-- SFC is this this Tuesday. Everyone please attends.
-- There were issues with scheduling rooms, so the new list of rooms is about to be sent out.
-- There have been issues with Faculty ignoring the Vice-Provost's emails about the SFC.
+* SFC is this this Tuesday. Everyone please attends.
+* There were issues with scheduling rooms, so the new list of rooms is about to be sent out.
+* There have been issues with Faculty ignoring the Vice-Provost's emails about the SFC.
 
 V.P of Non-Academic Affairs (Sophie)
 
-- Nothing to Report
+* Nothing to Report
 
 Director of Operations (Shwetha)
 
-- Nothing to Report
+* Nothing to Report
 
 Treasurer (Rachel)
 
-- Dabney interhouse costs have been reimbursed.
-- Scaffolding is still in the SAC.
+* Dabney interhouse costs have been reimbursed.
+* Scaffolding is still in the SAC.
 
 Social Director (Matticus)
 
-- Still waiting on the pictures from the formal.
-- We are working on reimbursements for Uber rides from formal.
-- I am talking with the bus company to get some sort of refund for all the issues.
-- I will work on getting OW compensated.
+* Still waiting on the pictures from the formal.
+* We are working on reimbursements for Uber rides from formal.
+* I am talking with the bus company to get some sort of refund for all the issues.
+* I will work on getting OW compensated.
 
 Secretary (Jonathan)
 
-- Please start on transition guides for your successors so they don't have to figure out everything from scratch again.
+* Please start on transition guides for your successors so they don't have to figure out everything from scratch again.
 
 Tech Editor-in-Chief (Michael)
 
-- We have been making a new work flow to make operations significantly easier.
-- Adobe, Notion, and Discord are our main applications.
-- We have been branching out to social media as well.
+* We have been making a new work flow to make operations significantly easier.
+* Adobe, Notion, and Discord are our main applications.
+* We have been branching out to social media as well.
 
 ADJOURNED: 7:34
