@@ -17,7 +17,6 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
-  - featured
 summary: >-
   A new advice column about life, love, classes, and everything in between!
   Brought to you by the one and only California Tech.
