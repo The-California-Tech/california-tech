@@ -6,6 +6,7 @@ date: 2023-05-16T07:00:00.000Z
 categories:
   - Off-Campus
   - World
+  - Humor
 tags:
   - 'Vol. CXXVI, Issue 4'
 weight: -2
