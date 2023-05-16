@@ -1,12 +1,12 @@
 ---
-title: Question the Quail! (April 24, 2023)
+title: 'Question the Quail! (April 24, 2023)'
 authors:
   - Quail
-date: 2023-04-24
+date: 2023-04-24T00:00:00.000Z
 categories:
   - Humor
 tags:
-  - Vol. CXXVI, Issue 4
+  - 'Vol. CXXVI, Issue 4'
 weight: 0
 thumbnail: /img/2023/04/24/quail.png
 show_thumbnail: true
@@ -17,7 +17,9 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
-summary: A new advice column about life, love, classes, and everything in between! Brought to you by the one and only California Tech.
+summary: >-
+  A new advice column about life, love, classes, and everything in between!
+  Brought to you by the one and only California Tech.
 images:
   - /img/2023/04/24/quail.png
 slug: question-the-quail-april-24-2023
@@ -55,11 +57,11 @@ Good luck,
 
 Quail
 
-Quail, 
+Quail,
 
 I really want to eat breakfast at Browne so I can try those fluffy fluffy pancakes 🥞 but they stop serving them by 10:30am and I never get there on time. What do I do?
 
-Signed, 
+Signed,
 
 Pancake Pal
 
