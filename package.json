@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/179aa1bb-1122-4563-bcda-165e749d8c6c/deploy-status)](https://app.netlify.com/sites/the-california-tech/deploys)",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tinacms/cli": "^1.5.7",
-    "tinacms": "^1.5.0"
+    "@tinacms/cli": "^1.5.12",
+    "tinacms": "^1.5.5"
   }
 }
