@@ -5,10 +5,13 @@ on:
   schedule:
     # Run at 0815 daily
     - cron: '01 7 * * *'
+  push:
+    branches:
+      - master
 jobs:
   build:
     name: Request Netlify Webhook
     runs-on: ubuntu-latest
     steps:
       - name: Curl request
-        run: curl -X POST -d {} https://api.netlify.com/build_hooks/641e1cc2e0999f1bde5dba6a
+        run: curl -X POST -d {} $NETLIFY_BUILD_HOOK

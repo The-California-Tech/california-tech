@@ -43,7 +43,7 @@ export default defineConfig({
             name: "date",
             label: "Date",
             ui: {
-              dateFormat: "YYYY-MM-DD",
+              dateFormat: "YYYY-MM-DD"
             },
           },
           {
@@ -66,6 +66,9 @@ export default defineConfig({
               "Student Life",
               "Academics",
             ],
+            ui: {
+              component: "tags"
+            }
           },  
           {
             type: "string",
@@ -140,6 +143,22 @@ export default defineConfig({
             isBody: true,
           },
         ],
+        defaultItem: () => ({
+          title: "New Article",
+          authors: [],
+          date: new Date(),
+          categories: [],
+          tags: [],
+          weight: 0,
+          thumbnail: "/default3.jpg",
+          show_thumbnail: true,
+          sidebar: "right",
+          toc: true,
+          widgets: ["recent", "categories", "taglist", "write-for-the-tech"],
+          summary: "",
+          images: ["/default3.jpg"],
+          body: "",
+        }),
       },
     ],
   },
