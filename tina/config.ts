@@ -80,7 +80,11 @@ export default defineConfig({
               "Vol. CXXVI, Issue 2",
               "Vol. CXXVI, Issue 3",
               "Vol. CXXVI, Issue 4",
+              "Vol. CXXVI, Issue 5",
             ],
+            ui: {
+              component: "select"
+            }
           },
           {
             type: "number",
@@ -106,6 +110,9 @@ export default defineConfig({
               "right",
               "false",
             ],
+            ui: {
+              component: "select"
+            }
           },
           {
             type: "boolean",
