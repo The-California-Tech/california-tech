@@ -1,7 +1,7 @@
 ---
 title: Advertising
 authorbox: false
-sidebar: false
+sidebar: "false"
 ---
 
 The 

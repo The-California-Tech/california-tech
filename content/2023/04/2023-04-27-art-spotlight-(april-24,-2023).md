@@ -12,7 +12,7 @@ tags:
 weight: 0
 thumbnail: /img/2023/04/24/art/On the Run - Alicia Zhang.jpg
 show_thumbnail: false
-sidebar: false
+sidebar: "false"
 toc: true
 widgets:
   - recent

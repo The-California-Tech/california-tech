@@ -1,7 +1,7 @@
 ---
 title: About
 authorbox: false
-sidebar: false
+sidebar: "false"
 ---
 
 *The California Tech* aims to publish biweekly except during vacation and examination periods by the Associated 
