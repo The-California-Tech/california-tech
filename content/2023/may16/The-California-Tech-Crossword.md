@@ -24,4 +24,4 @@ summary: ''
 
 ## TCT Crossword - "Places" | Lilia Arrizabalaga
 
-{{\< crossword "https://crosshare.org/embed/SOLTe2g6eLNReGC6n8Fl/VQM0aP5H7ub7dlNlj293CyGQd1a2" >}}
+{{< crossword "https://crosshare.org/embed/SOLTe2g6eLNReGC6n8Fl/VQM0aP5H7ub7dlNlj293CyGQd1a2" >}}
