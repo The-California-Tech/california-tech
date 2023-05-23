@@ -45,6 +45,7 @@ export default defineConfig({
             ui: {
               dateFormat: "YYYY-MM-DD"
             },
+            description: "Date the article appeared in print",
           },
           {
             type: "string",
@@ -67,8 +68,9 @@ export default defineConfig({
               "Academics",
             ],
             ui: {
-              component: "tags"
-            }
+              direction: "horizontal"
+            },
+            description: "Choose one or two categories. If you're not sure, ask the editor-in-chief.",
           },  
           {
             type: "string",
@@ -90,6 +92,13 @@ export default defineConfig({
             type: "number",
             name: "weight",
             label: "Weight",
+            description: "Negative numbers will appear at the top of the front page. Fine to leave at 0 unless it's a special post.",
+          },
+          {
+            type: "boolean",
+            name: "show_thumbnail",
+            label: "Show Thumbnail",
+            description: "whether to show the thumbnail image at the top of the post. it will fill the width of the screen, and you'll have to scroll to get to the rest of the post. often better to leave this off and add the image to the body of the post.",
           },
           {
             type: "image",
@@ -97,9 +106,11 @@ export default defineConfig({
             label: "Thumbnail",
           },
           {
-            type: "boolean",
-            name: "show_thumbnail",
-            label: "Show Thumbnail",
+            type: "image",
+            name: "images",
+            label: "Opengraph Preview",
+            list: true,
+            description: "This will appear when you post a link to the article on social media. Fine to just use the thumbnail (need to reselect it).",
           },
           {
             type: "string",
@@ -110,20 +121,25 @@ export default defineConfig({
               "right",
               "false",
             ],
+            description: "whether to show the sidebar, and if so, which side. (on mobile it will always be at the bottom.) it shows other recent articles, so leave on unless it's an art feature or something that you want to have the whole screen width.",
             ui: {
-              component: "select"
+              component: "radio-group",
+              direction: "horizontal",
+              variant: "button",
             }
           },
           {
             type: "boolean",
             name: "toc",
             label: "Table of Contents",
+            description: "if you have any markdown headings ≥ #3 in the body of the post, this will generate a table of contents for them.",
           },
           {
             type: "string",
             name: "widgets",
             label: "Widgets",
             list: true,
+            description: "(leave as default probably)",
             options: [
               "recent",
               "categories",
@@ -131,17 +147,15 @@ export default defineConfig({
               "write-for-the-tech",
               "featured"
             ],
+            ui: {
+              direction: "horizontal"
+            }
           },
           {
             type: "string",
             name: "summary",
             label: "Summary Preview",
-          },
-          {
-            type: "image",
-            name: "images",
-            label: "Opengraph Preview",
-            list: true,
+            description: "This will appear on the front page. It should be a sentence or two, and it can have markdown components like links. The first sentence of the article is usually good.",
           },
           {
             type: "rich-text",
@@ -155,7 +169,7 @@ export default defineConfig({
           authors: [],
           date: new Date(),
           categories: [],
-          tags: [],
+          tags: ["Vol. CXXVI, Issue 5"],
           weight: 0,
           thumbnail: "/default3.jpg",
           show_thumbnail: true,

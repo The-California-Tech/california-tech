@@ -23,7 +23,7 @@ paginate = "100"
   fontFamilyHeadlines = "'Playfair Display', serif"
 
 [Params.sidebar]
-  home = false
+  home = "false"
   widgets = ["featured","write-for-the-tech"]
 
 [menu]
