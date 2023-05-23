@@ -9,7 +9,7 @@ categories:
   - Humor
 tags:
   - 'Vol. CXXVI, Issue 5'
-weight: -2
+weight: 0
 thumbnail: /img/2023/05/cristian.jpg
 sidebar: right
 widgets:
