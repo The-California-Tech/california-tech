@@ -23,7 +23,7 @@ images:
 show_thumbnail: false
 ---
 
-{{< crossword "https://crosshare.org/embed/718bjxSkb0FoI3B5zbqk/3wLJTk1ab6RKv77fS1ISUflqRpv2" >}}
+{{% crossword "https://crosshare.org/embed/718bjxSkb0FoI3B5zbqk/3wLJTk1ab6RKv77fS1ISUflqRpv2" %}}
 
 ---
 ---

@@ -162,6 +162,24 @@ export default defineConfig({
             name: "body",
             label: "Body",
             isBody: true,
+            templates: [
+              {
+                name: 'crossword',
+                label: 'crossword',
+                match: {
+                  start: '{{%',
+                  end: '%}}',
+                },
+                fields: [
+                  {
+                    name: '_value',
+                    label: 'crosshare embed link',
+                    type: 'string',
+                    required: true,
+                  },
+                ],
+              },
+            ],
           },
         ],
         defaultItem: () => ({
@@ -172,9 +190,9 @@ export default defineConfig({
           tags: ["Vol. CXXVI, Issue 5"],
           weight: 0,
           thumbnail: "/default3.jpg",
-          show_thumbnail: true,
+          show_thumbnail: false,
           sidebar: "right",
-          toc: true,
+          toc: false,
           widgets: ["recent", "categories", "taglist", "write-for-the-tech"],
           summary: "",
           images: ["/default3.jpg"],
