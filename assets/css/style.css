@@ -4,7 +4,6 @@
 {{- $fontMono := `SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace` -}}
 {{- $fontFamilyPrimary := .Site.Params.style.vars.fontFamilyPrimary | default $fontSans -}}
 {{- $fontFamilySecondary := .Site.Params.style.vars.fontFamilySecondary | default $fontMono -}}
-{{- $fontFamilyTitle := .Site.Params.style.vars.fontFamilyTitle | default $fontMono -}}
 {{- $fontFamilyHeadlines := .Site.Params.style.vars.fontFamilyHeadlines | default $fontMono -}}
 
 *,
@@ -53,8 +52,8 @@ html {
 body {
 	margin: 0;
 	font-family: {{ $fontFamilyPrimary }};
-	font-size: 14px;
-	font-size: .875rem;
+	font-size: 15px;
+	/* font-size: .875rem; */
 	line-height: 1.6;
 	word-wrap: break-word;
 	background: #fff;
@@ -395,13 +394,14 @@ select {
 }
 
 .logo {
-	padding: 10px;
+	/* padding: 10px; */
 	display: flex;
     justify-content: center;
 }
 
 .logo__link {
 	padding-top: 1%;
+	padding-bottom: 1%;
 }
 
 .logo--mixed svg {
@@ -414,17 +414,12 @@ select {
 	vertical-align: middle;
 }
 
-.logo__img {
-	max-height: 256px;
-}
-
 .logo--mixed .logo__item {
 	margin: .5rem auto;
 }
 
 .logo--mixed .logo__img {
-	max-width: 128px;
-	max-height: 128px;
+	width: 100vw;
 }
 
 .logo--mixed .logo__text {
@@ -437,7 +432,7 @@ select {
 	font-weight: 700;
 	line-height: 1;
 	color: #000;
-	font-family: {{ $fontFamilyTitle }};
+	font-family: {{ $fontFamilyHeadlines }};
 }
 
 .logo__tagline {
@@ -466,6 +461,8 @@ select {
     border-top-width: thick;
 	display: flex;
 	justify-content: space-around;
+	font-family: {{ $fontFamilyHeadlines }};
+	font-weight: 700;
 }
 
 .banner p, .banner a {
@@ -583,7 +580,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .menu__text {
-	font-family: {{ $fontFamilyPrimary }};
+	font-family: {{ $fontFamilyHeadlines }};
 }
 
 @media screen and (min-width: 768px) {
@@ -660,6 +657,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .meta__text {
 	vertical-align: middle;
+	font-family: {{ $fontFamilyHeadlines }};
 }
 
 .post__title {
@@ -932,6 +930,12 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	font-size: 2vw;
 }
 
+.latest-issue {
+	color: #FF6C0C;
+	/* font-size: 2rem; */
+	/* text-decoration: underline; */
+}
+
 .list__meta {
 	margin-top: 5px;
 }
@@ -939,6 +943,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .list__thumbnail {
 	float: left;
 	height: 50%;
+	margin-bottom: 0.5rem;
 }
 
 .list__thumbnail img {

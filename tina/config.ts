@@ -179,6 +179,22 @@ export default defineConfig({
                   },
                 ],
               },
+              {
+                name: 'list_stories',
+                label: 'list_stories',
+                match: {
+                  start: '{{<',
+                  end: '>}}',
+                },
+                fields: [
+                  {
+                    name: '_value',
+                    label: 'Tag',
+                    type: 'string',
+                    required: true,
+                  },
+                ],
+              },
             ],
           },
         ],

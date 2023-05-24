@@ -2,10 +2,10 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'The California Tech'
 theme = 'mainroad'
-paginate = "100"
+paginate = "12"
 
 [Params]
-  googleFontsLink = "https://fonts.googleapis.com/css2?family=Noto+Serif+Georgian:wght@500&family=Playfair+Display:wght@500;700&family=UnifrakturCook:wght@700&display=swap"
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:wght@400;700&display=swap"
   shortcutIcon = "bigT.png" # Shortcut icon. Path relative to "static"
   post_meta = ["date", "categories", "authors"]
   list_post_meta = ["authors", "categories"]
@@ -16,11 +16,10 @@ paginate = "100"
 
 [Params.style.vars]
   highlightColor = "#cc5709" # Override highlight color
-  fontFamilyPrimary = "Noto Serif Georgian, serif"
+  fontFamilyPrimary = "Georgia, serif"
   # Secondary font-family set responsible for pre, code, kbd, and samp tags font
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
-  fontFamilyTitle = "'UnifrakturCook', cursive"
-  fontFamilyHeadlines = "'Playfair Display', serif"
+  fontFamilyHeadlines = "'Libre Caslon Text', serif"
 
 [Params.sidebar]
   home = "false"

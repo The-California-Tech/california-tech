@@ -2,7 +2,7 @@
 	{{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
 	<header class="list__header">
 		<h2 class="list__title post__title">
-			<a href="{{ .RelPermalink }}" rel="bookmark">
+			<a href="{{ .RelPermalink }}" rel="bookmark" {{ if eq .Title "Read Our Latest Issue" }}class="latest-issue"{{ end }}>
 			{{ .Title }}
 			</a>
 		</h2>
@@ -14,7 +14,16 @@
 		{{- end }}
 	</header>
 	<div class="content list__excerpt post__content clearfix">
+		{{ if ne .Title "Read Our Latest Issue" }}
 		{{ .Summary }}
+		{{ else }}
+			{{ range where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+			{{ $tags := .Params.tags }}
+			{{ if in $tags "Vol. CXXVI, Issue 5" }}
+				<a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+			{{ end }}
+			{{ end }}
+		{{ end }}
 	</div>
 	
 </article>
