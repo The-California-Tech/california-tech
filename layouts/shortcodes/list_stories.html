@@ -3,7 +3,7 @@
   {{ $tags := .Params.tags }}
   {{ if in $tags $tag }}
     <li class="widget__item">
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+        <a style="color:#343a40" href="{{ .RelPermalink }}">{{ .Title }}</a><br>
     </li>
   {{ end }}
 {{ end }}

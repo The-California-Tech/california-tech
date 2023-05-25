@@ -20,7 +20,9 @@
 			{{ range where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 			{{ $tags := .Params.tags }}
 			{{ if in $tags "Vol. CXXVI, Issue 5" }}
-				<a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+			<li class="widget__item">
+				<a style="color:#343a40" href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+			</li>
 			{{ end }}
 			{{ end }}
 		{{ end }}
