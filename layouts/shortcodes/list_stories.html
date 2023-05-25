@@ -2,6 +2,8 @@
 {{ range where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
   {{ $tags := .Params.tags }}
   {{ if in $tags $tag }}
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+    <li class="widget__item">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+    </li>
   {{ end }}
 {{ end }}

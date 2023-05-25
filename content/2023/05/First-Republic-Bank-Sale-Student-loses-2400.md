@@ -43,7 +43,7 @@ In regards to SVB, the Federal Reserve said on March 12 that “All depositors o
 Instead of studying for his final, he carried out extensive market research. On Thursday March 16th, after the initial bank run earlier in the week, he “called up a whole bunch of the branches… about 15.” He wanted to see if people were still withdrawing by asking how busy each branch was. With this, he could see if First Republic’s stock had any hope of reverting back to normal.
 
 ![](/img/2023/05/cristian.jpg)
-{.post\_\_image}
+{.post__image}
 
 Cristian Ponce reflects upon the loss of nearly his entire portfolio
 

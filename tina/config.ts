@@ -180,17 +180,17 @@ export default defineConfig({
                 ],
               },
               {
-                name: 'list_stories',
-                label: 'list_stories',
+                name: 'post__image',
+                label: 'post__image',
                 match: {
-                  start: '{{<',
-                  end: '>}}',
+                  start: '{{%',
+                  end: '%}}',
                 },
                 fields: [
                   {
-                    name: '_value',
-                    label: 'Tag',
-                    type: 'string',
+                    name: 'image',
+                    label: 'Image',
+                    type: 'image',
                     required: true,
                   },
                 ],
