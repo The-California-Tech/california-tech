@@ -17,7 +17,7 @@
 		{{ if .Params.homepage_list }}
 		{{ $currentDate := now }}
 		{{ $mostRecentDate := now | time }}
-		{{ range .Site.Params.publicationDates }}
+		{{ range .Site.Params.CaliforniaTech.publicationDates }}
 		  {{ $parsedDate := . | time }}
 		  {{ if and (not $parsedDate.IsZero) (lt $parsedDate $currentDate) (or (not $mostRecentDate) (gt $parsedDate $mostRecentDate)) }}
 			{{ $mostRecentDate = $parsedDate }}
