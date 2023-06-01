@@ -11,8 +11,8 @@ paginate = "12"
   list_post_meta = ["authors", "categories"]
   opengraph = true
   images = ["/bigT.png"]
-  readmore = true
   description = "The California Tech is a student-run news organization that covers the latest news and events at Caltech and beyond."
+  mainSections = ["2023", "issues"]
 
 [Params.style.vars]
   highlightColor = "#cc5709" # Override highlight color
@@ -23,7 +23,32 @@ paginate = "12"
 
 [Params.sidebar]
   home = "false"
-  widgets = ["featured","write-for-the-tech"]
+  list= "false"
+  widgets = ["categories","taglist","write-for-the-tech"]
+
+[Params.widgets.recent]
+  cached = true
+
+[Params.widgets.categories]
+  cached = true
+
+[Params.widgets.taglist]
+  cached = true
+
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  author = 'authors'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      attribute = true
+      unsafe = true
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
 
 [menu]
     [[menu.main]]
@@ -59,16 +84,22 @@ paginate = "12"
       url = '/About/'
       weight = 101
 
-[taxonomies]
-  category = 'categories'
-  tag = 'tags'
-  author = 'authors'
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      attribute = true
-      unsafe = true
-      [markup.goldmark.parser.attribute]
-        block = true
-        title = true
+[Params.CaliforniaTech]
+  logo_image = "tech-fancy-2.svg"
+  current_volume = "Vol. CXXVI"
+  publicationDates = [
+    "2023-04-04",
+    "2023-04-11",
+    "2023-04-24",
+    "2023-05-16",
+    "2023-05-31",
+    "2023-06-13",
+  ]
+  publicationTags = [
+    "Vol. CXXVI, Issue 2",
+    "Vol. CXXVI, Issue 3",
+    "Vol. CXXVI, Issue 4",
+    "Vol. CXXVI, Issue 5",
+    "Vol. CXXVI, Issue 6",
+    "Vol. CXXVI, Issue 7",
+  ]

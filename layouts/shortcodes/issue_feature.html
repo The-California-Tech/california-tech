@@ -1,0 +1,34 @@
+{{- $issueTag := .Get "issue_tag" -}}
+{{- $issueDate := .Get "date" -}}
+
+{{ $currentDate := now }}
+{{ $mostRecentDate := now | time }}
+
+{{ range .Site.Params.publicationDates }}
+  {{ $parsedDate := . | time }}
+  {{ if and (not $parsedDate.IsZero) (lt $parsedDate $currentDate) (or (not $mostRecentDate) (gt $parsedDate $mostRecentDate)) }}
+    {{ $mostRecentDate = $parsedDate }}
+  {{ end }}
+{{ end }}
+
+<div class="issue-feature">
+  <div class="issue-feature__thumbnail">
+    <a href="/issues/{{ $issueDate }}.pdf"><img src="/issues/thumbnails/{{ $issueDate }}.jpg" alt="Issue Thumbnail"></a>
+  </div>
+  <div class="issue-feature__content">
+    <h2 class="issue-feature__title">{{ $issueTag }} | {{ ($issueDate | time).Format "January 2, 2006" }}</h2>
+    <div class="issue-feature__stories">
+        <li class="widget__item">
+            <a href="/issues/{{ $issueDate }}.pdf">View full PDF</a><br>
+          </li>
+        {{ range where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+        {{ $tags := .Params.tags }}
+        {{ if in $tags $issueTag }}
+            <li class="widget__item">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+        {{ end }}
+        {{ end }}
+    </div>
+  </div>
+</div>

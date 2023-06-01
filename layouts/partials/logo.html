@@ -1,11 +1,24 @@
 <div class="logo logo--mixed">
 	<a class="logo__link" href="{{ "" | relLangURL }}"{{ with .Site.Title }} title="{{ . }}"{{ end }} rel="home">
-		<img src="{{ "tech-fancy.svg" | relURL }}" alt="{{ .Site.Title }}" class="logo__img">
+		<img src="{{ .Site.Params.CaliforniaTech.logo_image | relURL }}" alt="{{ .Site.Title }}" class="logo__img">
   </a>
 </div>
 <div class="banner">
-  <p class="banner--item banner--hide">Vol. CXXVI</p>
+  <p class="banner--item banner--hide">{{ .Site.Params.CaliforniaTech.current_volume }}</p>
   <p class="banner--item banner--hide">Pasadena, CA</p>
-  <p class="banner--item">{{ now.Format "Monday, January 2, 2006"}}</p>
+  <p id="current-date" class="banner--item"></p>
   <a href="mailto:tech@caltech.edu" class="banner--item banner--hide">tech@caltech.edu</a>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+      var currentDateElement = document.getElementById("current-date");
+      var currentDate = new Date().toLocaleDateString(undefined, {
+          weekday: "long",
+          month: "long",
+          day: "numeric",
+          year: "numeric"
+      });
+      currentDateElement.textContent = currentDate;
+  });
+</script>

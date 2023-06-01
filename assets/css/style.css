@@ -484,7 +484,6 @@ select {
 	width: 100%;
 	padding: 0;
 	font: inherit;
-	color: #333;
 	background: #fff;
 	border: 0;
 	outline: 0;
@@ -496,7 +495,7 @@ select {
 	padding: 10px 15px;
 	padding: .625rem .9375rem;
 	font-weight: 700;
-	text-align: right;
+	text-align: left;
 	text-transform: uppercase;
 	cursor: pointer;
 	-webkit-user-select: none;
@@ -559,7 +558,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .js .menu__list {
 	position: absolute;
 	z-index: 1;
-	width: 100%;
+	/* width: 100%; */
 	visibility: hidden;
 	-webkit-transform: scaleY(0);
 	transform: scaleY(0);
@@ -569,10 +568,12 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .js .menu__list--active {
 	visibility: visible;
-	border-top: 1px solid rgba(255, 255, 255, .1);
-	border-bottom: 1px solid rgba(255, 255, 255, .1);
+	border-top: 1px solid rgba(255, 255, 255, 0);
+	border-bottom: 1px solid rgba(255, 255, 255, 0);
 	-webkit-transform: scaleY(1);
 	transform: scaleY(1);
+	outline: auto;
+	position: relative;
 }
 
 .menu__list--transition {
@@ -583,16 +584,18 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	font-family: {{ $fontFamilyHeadlines }};
 }
 
+.menu {
+	border-bottom: 5px double #000;
+
+}
+
 @media screen and (min-width: 768px) {
 	.menu__list,
 .js .menu__list {
 	justify-content: center;
 }
-}
 
-.menu {
-	border-bottom: 5px double #999999;
-}
+
 
 .menu__btn {
 	display: none;
@@ -612,7 +615,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .menu__item {
 	border-left: 1px solid rgba(255, 255, 255, .1);
 }
-
+}
 /* Posts/Pages */
 .post__header,
 .main__header {
@@ -932,8 +935,8 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .latest-issue {
 	color: #FF6C0C;
-	/* font-size: 2rem; */
-	/* text-decoration: underline; */
+	font-size: 1.4rem;
+	text-decoration: underline;
 }
 
 .list__meta {
@@ -1387,3 +1390,30 @@ textarea {
 		font-size: .6875rem;
 	}
 }
+
+
+.issue-feature {
+	display: flex;
+	/* align-items: center; */
+	margin-bottom: 20px;
+  }
+  
+  .issue-feature__thumbnail img {
+	width: 150px;
+	height: auto;
+	margin-right: 20px;
+  }
+  
+  .issue-feature__content {
+	flex: 1;
+  }
+  
+  .issue-feature__title {
+	font-size: 24px;
+	margin-bottom: 10px;
+  }
+  
+  .issue-feature__stories {
+	margin-top: 10px;
+  }
+  

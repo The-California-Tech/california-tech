@@ -2,7 +2,7 @@
 	{{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
 	<header class="list__header">
 		<h2 class="list__title post__title">
-			<a href="{{ .RelPermalink }}" rel="bookmark" {{ if eq .Title "Read Our Latest Issue" }}class="latest-issue"{{ end }}>
+			<a href="{{ .RelPermalink }}" rel="bookmark"{{ if .Params.homepage_list }} class="latest-issue"{{ end }}>
 			{{ .Title }}
 			</a>
 		</h2>
@@ -14,18 +14,28 @@
 		{{- end }}
 	</header>
 	<div class="content list__excerpt post__content clearfix">
-		{{ if ne .Title "Read Our Latest Issue" }}
-		{{ .Summary }}
+		{{ if .Params.homepage_list }}
+		{{ $currentDate := now }}
+		{{ $mostRecentDate := now | time }}
+		{{ range .Site.Params.publicationDates }}
+		  {{ $parsedDate := . | time }}
+		  {{ if and (not $parsedDate.IsZero) (lt $parsedDate $currentDate) (or (not $mostRecentDate) (gt $parsedDate $mostRecentDate)) }}
+			{{ $mostRecentDate = $parsedDate }}
+		  {{ end }}
+		{{ end }}
+		  {{ range first 7 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+		  		{{ if not .Params.homepage_list }}
+					<li class="widget__item">
+						[{{ .Date.Format "January 2" }}] <a style="color:#343a40" href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+					</li>
+				{{ end }}
+			{{ end }}
+		<li class="widget__item">
+			<a style="color:#343a40" href="/issues/{{ $mostRecentDate.Format "2006-01-02" }}.pdf">View full PDF</a><br>
+		  </li>
 		{{ else }}
-			{{ range where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-			{{ $tags := .Params.tags }}
-			{{ if in $tags "Vol. CXXVI, Issue 5" }}
-			<li class="widget__item">
-				<a style="color:#343a40" href="{{ .RelPermalink }}">{{ .Title }}</a><br>
-			</li>
-			{{ end }}
-			{{ end }}
+			{{ .Summary }}
 		{{ end }}
 	</div>
-	
+
 </article>

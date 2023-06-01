@@ -7,7 +7,7 @@ categories:
   - Culture
 tags:
   - 'Vol. CXXVI, Issue 5'
-weight: -2
+weight: 0
 show_thumbnail: false
 thumbnail: /default7.jpg
 images:

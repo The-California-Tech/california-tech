@@ -4,9 +4,7 @@ name: Trigger Netlify Build
 env:
   NETLIFY_BUILD_HOOK: ${{ vars.NETLIFY_BUILD_HOOK }}
 on:
-  schedule:
-    # Run at 0815 daily
-    - cron: '01 7 * * *'
+  workflow_dispatch
 
 jobs:
   build:

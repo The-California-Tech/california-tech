@@ -83,6 +83,8 @@ export default defineConfig({
               "Vol. CXXVI, Issue 3",
               "Vol. CXXVI, Issue 4",
               "Vol. CXXVI, Issue 5",
+              "Vol. CXXVI, Issue 6",
+              "Vol. CXXVI, Issue 7",
             ],
             ui: {
               component: "select"
@@ -209,7 +211,7 @@ export default defineConfig({
           show_thumbnail: false,
           sidebar: "right",
           toc: false,
-          widgets: ["recent", "categories", "taglist", "write-for-the-tech"],
+          widgets: ["write-for-the-tech", "taglist", "categories", "recent"],
           summary: "",
           images: ["/default3.jpg"],
           body: "",
