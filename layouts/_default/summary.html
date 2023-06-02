@@ -16,7 +16,7 @@
 	<div class="content list__excerpt post__content clearfix">
 		{{ if .Params.homepage_list }}
 		{{ $currentDate := now }}
-		{{ $mostRecentDate := now | time }}
+		{{ $mostRecentDate := "2000-01-01" | time }}
 		{{ range .Site.Params.CaliforniaTech.publicationDates }}
 		  {{ $parsedDate := . | time }}
 		  {{ if and (not $parsedDate.IsZero) (lt $parsedDate $currentDate) (or (not $mostRecentDate) (gt $parsedDate $mostRecentDate)) }}
