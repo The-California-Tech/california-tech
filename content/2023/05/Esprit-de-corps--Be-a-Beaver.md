@@ -40,6 +40,6 @@ This spring we are engaged in an awesome community building activity around our 
 
 I encourage you to be proud of your school and by extension of yourself.  This community is a wonderfully diverse and unique one.  Full of strong minds, personalities (and bodies) that are always made even better through collaboration and pulling together…like the Beaver making a Lodge (or a Dam)
 
-Betsy Mitchell, Caltech Director of Athletics, Physical Education and Recreation is a two time Olympic swimmer with gold and silver medals (1984 and 88), she is a multi-time Division 1 National Champion for the University of Texas at Austin, she is a former world and American record holder.  After her swimming career, she took up competitive rowing for fun and represented the US in the women’s double sculls in the 1994 World Rowing Championships.   
+*Betsy Mitchell, Caltech Director of Athletics, Physical Education and Recreation is a two time Olympic swimmer with gold and silver medals (1984 and 88), she is a multi-time Division 1 National Champion for the University of Texas at Austin, she is a former world and American record holder.  After her swimming career, she took up competitive rowing for fun and represented the US in the women’s double sculls in the 1994 World Rowing Championships.  * 
 
 [www.betsymitchell.us](http://www.betsymitchell.us/)
