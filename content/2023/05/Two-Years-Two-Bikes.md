@@ -10,9 +10,9 @@ tags:
   - 'Vol. CXXVI, Issue 5'
 weight: 0
 show_thumbnail: false
-thumbnail: /default3.jpg
+thumbnail: /img/2023/05/cut_lock.jpg
 images:
-  - /default3.jpg
+  - /img/2023/05/cut_lock.jpg
 sidebar: right
 toc: false
 widgets:
@@ -47,8 +47,4 @@ In all cases, the bike or scooter was registered with Caltech Security. Despite 
 
 The most frightening recurring theme of stolen bike vignettes is that of bike thieves entering undergraduate dorm courtyards. Blanchette claims to have witnessed an adult male waiting to follow individuals into the Venerable courtyard. The door closes slowly enough that a student who unlocked it could be already inside the building before it fully shuts, making it possible for a piggybacker to sneak in unnoticed. According to Blanchette, he encountered the suspect at night a month and a half ago inside the Venerable courtyard, where the individual was browsing the available bikes. 
 
-It is clear that bike and scooter theft on the Caltech campus is an issue that affects undergraduate to faculty bike owners. Given that an overwhelming majority of undergraduate students live on campus, the issue of bike theft from within student dormitories raises the concern of the ease with which an individual from the general public can enter the premises. 
-
-
-
-
+It is clear that bike and scooter theft on the Caltech campus is an issue that affects undergraduate to faculty bike owners. Given that an overwhelming majority of undergraduate students live on campus, the issue of bike theft from within student dormitories raises the concern of the ease with which an individual from the general public can enter the premises.
