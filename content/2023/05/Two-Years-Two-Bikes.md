@@ -2,7 +2,7 @@
 title: 'Two Years, Two Bikes'
 authors:
   - Adele Basturk
-date: 2023-05-31T07:00:00.000Z
+date: 2023-05-02T07:00:00.000Z
 categories:
   - Campus
   - Student Life
