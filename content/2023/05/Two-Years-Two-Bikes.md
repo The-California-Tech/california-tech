@@ -7,7 +7,7 @@ categories:
   - Campus
   - Student Life
 tags:
-  - 'Vol. CXXVI, Issue 5'
+  - 'Vol. CXXVI, Issue 6'
 weight: 0
 show_thumbnail: false
 thumbnail: /img/2023/05/cut_lock.jpg
