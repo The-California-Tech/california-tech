@@ -1,7 +1,7 @@
 ---
 title: Interview with a Bike Thief
 authors:
-  - Joe Kim
+  - Joseph Kim
 date: 2023-05-31T07:00:00.000Z
 categories:
   - Humor
