@@ -9,9 +9,10 @@ tags:
   - 'Vol. CXXVI, Issue 6'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/05//ditch_day.jpg
+thumbnail: /img/2023/05/ditch_day.jpg
 images:
-  - /default3.jpg
+  - /img/2023/05/ditch_day.jpg
+  - /img/2023/05/ditch_day.jpg
 sidebar: right
 toc: false
 widgets:
