@@ -12,7 +12,6 @@ show_thumbnail: false
 thumbnail: /img/2023/05/ditch_day.jpg
 images:
   - /img/2023/05/ditch_day.jpg
-  - /img/2023/05/ditch_day.jpg
 sidebar: right
 toc: false
 widgets:
