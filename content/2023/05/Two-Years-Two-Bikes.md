@@ -1,7 +1,7 @@
 ---
 title: 'Two Years, Two Bikes'
 authors:
-  - Bike Theft Article
+  - Adele Basturk
 date: 2023-06-03T00:09:05.412Z
 categories:
   - Campus
