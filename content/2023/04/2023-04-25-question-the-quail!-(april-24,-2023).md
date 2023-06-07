@@ -1,5 +1,5 @@
 ---
-title: 'Question the Quail! (April 24, 2023)'
+title: 'Question the Quail! #2'
 authors:
   - Quail
 date: 2023-04-24T00:00:00.000Z
