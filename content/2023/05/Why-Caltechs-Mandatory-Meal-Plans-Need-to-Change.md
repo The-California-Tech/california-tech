@@ -4,14 +4,12 @@ authors:
   - Joseph Kim
 date: 2023-05-31T07:00:00.000Z
 categories:
-  - Campus
-  - Student Life
-  - Editorial
+  - Opinion
 tags:
   - 'Vol. CXXVI, Issue 6'
 weight: 0
 show_thumbnail: false
-thumbnail: ''
+thumbnail: /meet.jpg
 sidebar: right
 toc: false
 widgets:
@@ -23,6 +21,8 @@ summary: >-
   Caltech's meal plan is mandatory for all students living on campus and the
   default plan will cost $8,259 next year. Joe Kim takes on why this should not
   and does not need to be the case.
+images:
+  - /meet.jpg
 ---
 
 “The meal plan should not be required in our housing contract. It is a financial burden—eating out and buying groceries would be cheaper.” – A Freshman Skurve
