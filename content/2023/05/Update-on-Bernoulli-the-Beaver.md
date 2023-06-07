@@ -41,4 +41,6 @@ To gauge the distribution of sentiment, the Tech ran a 24-hour approval poll for
 
 Overall, the event seemed to be a success, and the new name has certainly sparked discussions about school spirit. We will just have to wait and see if this continues.
 
+{{% post__image image="/img/2023/05/31/insta_poll.jpg" %}}
+
 {{% post__image image="/img/2023/05/31/fizz_poll.jpeg" %}}
