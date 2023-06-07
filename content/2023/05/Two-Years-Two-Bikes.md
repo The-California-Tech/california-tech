@@ -2,7 +2,7 @@
 title: 'Two Years, Two Bikes'
 authors:
   - Adele Basturk
-date: 2023-05-02T07:00:00.000Z
+date: 2023-05-16T07:00:00.000Z
 categories:
   - Campus
   - Student Life
@@ -20,7 +20,9 @@ widgets:
   - taglist
   - categories
   - recent
-summary: ''
+summary: >-
+  In my almost two years as an undergraduate at this school, I have had two
+  bikes stolen from me on campus.
 ---
 
 In my almost two years as an undergraduate at this school, I have had two bikes stolen from me on campus. After a lockless overnight stay outside of the Red Door third term frosh year, my beloved green Schwinn, that transported me to and from school for over 4 years, had disappeared from my life. Ok, lesson learned. I was immediately on the market for a new bike. 
