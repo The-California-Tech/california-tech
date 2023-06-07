@@ -10,7 +10,7 @@ tags:
   - 'Vol. CXXVI, Issue 6'
 weight: 0
 show_thumbnail: false
-thumbnail: ''
+thumbnail: /default5.jpg
 sidebar: right
 toc: false
 widgets:
@@ -19,6 +19,8 @@ widgets:
   - categories
   - recent
 summary: Reflections of Study Abroad student Lulu Kwan.
+images:
+  - /default5.jpg
 ---
 
 Studying abroad at Caltech has been an experience, to say the least. Before coming, I had heard that students do not leave campus at all during term time, and I was confident that that would not be me. It was. Well nearly. This was especially true during my first term when I took arguably the most difficult class with the highest workload I had ever seen. I think that shocked me into an 'I'm going to struggle with keeping up with the workload here for a whole year' mindset; however, I am pleased to say that I have not had a class with a similar workload since. It's been really refreshing to be in classes where everyone is so passionate about their subject and to have the opportunity to speak with people at different stages of life, whether it is undergraduates, undergrads who have previously studied at other universities, graduate students, or professors.
