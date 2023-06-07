@@ -8,7 +8,7 @@ categories:
 tags:
   - 'Vol. CXXVI, Issue 6'
 weight: 0
-show_thumbnail: false
+show_thumbnail: true
 thumbnail: /img/2023/05/31/beaver.jpg
 images:
   - /img/2023/05/31/beaver.jpg
