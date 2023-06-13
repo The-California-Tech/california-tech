@@ -5,6 +5,7 @@ authors:
 date: 2023-05-31T07:00:00.000Z
 categories:
   - Opinion
+  - Editorial
 tags:
   - 'Vol. CXXVI, Issue 6'
 weight: 0
