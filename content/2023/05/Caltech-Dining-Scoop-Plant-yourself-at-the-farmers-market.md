@@ -37,7 +37,8 @@ Sophie Polidoro (ME ‘25, Avery) was first in line at the farmers market to che
 
 {{% post__image image="/img/2023/06/13/Farmer's Market 6.jpg" %}}
 
-
 It seems like CDS is not stopping here and has some more surprises and experiments ready for the summer and fall, so keep an eye out for announcements from Caltech Dining! And keep giving the Food Committee feedback on these new changes and pop-up’s at [bit.ly/caltechfoodfeedback](bit.ly/caltechfoodfeedback "bit.ly/caltechfoodfeedback")!
+
+{{% post__image image="/img/2023/06/13/Farmer's Market 5.jpg" %}}
 
 {{% post__image image="/img/2023/06/13/Farmer's Market 4.jpg" %}}
