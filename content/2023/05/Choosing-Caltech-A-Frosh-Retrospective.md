@@ -20,10 +20,8 @@ widgets:
   - taglist
   - categories
   - recent
-summary: ''
+summary: I spent my first night at Caltech deciphering runes.
 ---
-
-Choosing Caltech: A Frosh Retrospective
 
 I spent my first night at Caltech deciphering runes.
 
@@ -49,4 +47,4 @@ Whether or not Caltech will really allow me to change the world remains to be se
 
 {{% post__image image="/img/2023/06/13/trebuchet.jpeg" %}}
 
-Image has the caption "Nika (left) and Jaylen (right), building a trebuchet for Blackerthon. ʎɐpoʇ ǝɹǝɥ llɐ noʎ pǝɹǝɥʇɐƃ ǝʌɐɥ I ʎɥʍ ƃuᴉɹǝpuoʍ ǝq ʎɐɯ no⅄.”
+"Nika (left) and Jaylen (right), building a trebuchet for Blackerthon. ʎɐpoʇ ǝɹǝɥ llɐ noʎ pǝɹǝɥʇɐƃ ǝʌɐɥ I ʎɥʍ ƃuᴉɹǝpuoʍ ǝq ʎɐɯ no⅄.”
