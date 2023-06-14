@@ -918,7 +918,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	border-left: 1px solid #ebebeb;
 	border-right: 1px solid #ebebeb;
 	width: 33.33%;
-	max-height: 500px;
+	/* max-height: 500px; */
 	padding-inline: 5px;
 	overflow: hidden;
 }

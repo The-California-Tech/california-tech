@@ -2,13 +2,13 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'The California Tech'
 theme = 'mainroad'
-paginate = "12"
+paginate = "24"
 
 [Params]
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:wght@400;700&display=swap"
   shortcutIcon = "bigT.png" # Shortcut icon. Path relative to "static"
   post_meta = ["date", "categories", "authors"]
-  list_post_meta = ["authors", "categories"]
+  list_post_meta = ["date", "authors", "categories"]
   opengraph = true
   images = ["/bigT.png"]
   description = "The California Tech is a student-run news organization that covers the latest news and events at Caltech and beyond."
@@ -88,6 +88,7 @@ paginate = "12"
   logo_image = "tech-fancy-2.svg"
   current_volume = "Vol. CXXVI"
   publicationDates = [
+    "2023-03-03",
     "2023-04-04",
     "2023-04-11",
     "2023-04-24",
@@ -96,6 +97,7 @@ paginate = "12"
     "2023-06-13",
   ]
   publicationTags = [
+    "Vol. CXXVI, Issue 1",
     "Vol. CXXVI, Issue 2",
     "Vol. CXXVI, Issue 3",
     "Vol. CXXVI, Issue 4",

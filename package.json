@@ -4,7 +4,8 @@
   "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/179aa1bb-1122-4563-bcda-165e749d8c6c/deploy-status)](https://app.netlify.com/sites/the-california-tech/deploys)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "yarn tinacms dev -c \"hugo server -D -p 1313\""
   },
   "keywords": [],
   "author": "",
