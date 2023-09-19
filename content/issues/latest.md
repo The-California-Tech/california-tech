@@ -18,6 +18,8 @@ images:
 slug: latest
 ---
 
+{{< issue_feature issue_tag="Vol. CXXVII, Issue 1" date="2023-09-19" >}}
+
 {{< issue_feature issue_tag="Vol. CXXVI, Issue 7" date="2023-06-13" >}}
 
 {{< issue_feature issue_tag="Vol. CXXVI, Issue 6" date="2023-05-31" >}}
