@@ -78,13 +78,8 @@ export default defineConfig({
             label: "Tags",
             list: true,
             options: [
-              "Vol. CXXVI, Issue 1",
-              "Vol. CXXVI, Issue 2",
-              "Vol. CXXVI, Issue 3",
-              "Vol. CXXVI, Issue 4",
-              "Vol. CXXVI, Issue 5",
-              "Vol. CXXVI, Issue 6",
-              "Vol. CXXVI, Issue 7",
+              "Vol. CXXVII, Issue 1",
+              "Vol. CXXVII, Issue 2",
             ],
             ui: {
               component: "select"
