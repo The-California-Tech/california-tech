@@ -200,7 +200,7 @@ export default defineConfig({
           authors: [],
           date: new Date(),
           categories: [],
-          tags: ["Vol. CXXVI, Issue 5"],
+          tags: ["Vol. CXXVII, Issue 2"],
           weight: 0,
           thumbnail: "/default3.jpg",
           show_thumbnail: false,

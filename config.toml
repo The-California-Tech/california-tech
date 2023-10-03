@@ -85,8 +85,8 @@ paginate = "24"
       weight = 101
 
 [Params.CaliforniaTech]
-  logo_image = "tech-fancy-2.svg"
-  current_volume = "Vol. CXXVI"
+  logo_image = "tech-new-2.png"
+  current_volume = "Vol. CXXVII"
   publicationDates = [
     "2023-03-03",
     "2023-04-04",
@@ -104,4 +104,6 @@ paginate = "24"
     "Vol. CXXVI, Issue 5",
     "Vol. CXXVI, Issue 6",
     "Vol. CXXVI, Issue 7",
+    "Vol. CXXVII, Issue 1",
+    "Vol. CXXVII, Issue 2",
   ]

@@ -6,7 +6,7 @@ date: 2023-09-19T07:00:00.000Z
 categories:
   - Culture
 tags:
-  - 'Vol. CXXVI, Issue 5'
+  - 'Vol. CXXVII, Issue 1'
 weight: 0
 show_thumbnail: true
 thumbnail: /img/2023/09/Movie Review Poster.jpg

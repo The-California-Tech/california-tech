@@ -7,7 +7,7 @@ categories:
   - Campus
   - Opinion
 tags:
-  - 'Vol. CXXVI, Issue 5'
+  - 'Vol. CXXVII, Issue 1'
 weight: 0
 show_thumbnail: false
 thumbnail: /default3.jpg
