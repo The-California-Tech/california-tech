@@ -19,7 +19,7 @@ widgets:
   - taglist
   - categories
   - recent
-summary: Of course not that it matters because you're reading it on line.
+summary: Of course none of this matters because you're reading it online.
 ---
 
-Of course not that it matters because you're reading it on line.
+Of course none of this matters because you're reading it online.
