@@ -2,7 +2,7 @@
 title: Censorship and Squirrels
 authors:
   - Anonymous
-date: 2023-10-03T18:29:07.409Z
+date: 2023-09-19T07:00:00.000Z
 categories:
   - Campus
   - Opinion
