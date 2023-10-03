@@ -2,7 +2,7 @@
 title: What to do with the Tech after you’ve read it
 authors:
   - Lilia Arrizabalaga
-date: 2023-10-03T18:31:59.749Z
+date: 2023-09-19T07:00:00.000Z
 categories:
   - Humor
 tags:
