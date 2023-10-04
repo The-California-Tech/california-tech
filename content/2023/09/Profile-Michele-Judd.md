@@ -1,5 +1,7 @@
 ---
-title: 'Profile: Michele Judd'
+title: >-
+  Profile: Michele Judd, Executive Director, W.M. Keck Institute for Space
+  Studies
 authors:
   - Margaret McVey Thomas
 date: 2023-09-19T07:00:00.000Z
@@ -8,10 +10,10 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 1'
 weight: 0
-show_thumbnail: false
-thumbnail: /img/2023/09/michele judd.jpg
+show_thumbnail: true
+thumbnail: /img/2023/09/judd.jpg
 images:
-  - /img/2023/09/michele judd.jpg
+  - /img/2023/09/judd.jpg
 sidebar: right
 toc: false
 widgets:
@@ -21,8 +23,13 @@ widgets:
   - categories
   - recent
 summary: >-
-  Profile – Michele Judd, Executive Director, W.M. Keck Institute for Space
-  Studies
+  In 1988, Mobil Oil Field foreman Michele Judd stood on top of an oil platform
+  in Paso Robles, California. She did not give much thought to the day ending or
+  the stars coming out. To Judd, this simply signified that the workday was
+  finishing and most of her workers would be heading home, leaving just a
+  skeleton crew to work through the night. But years later, she remembers
+  looking up into the darkening sky, wondering what it would be like working on
+  projects high in space rather than working with materials deep in the earth.
 ---
 
 In 1988, Mobil Oil Field foreman Michele Judd stood on top of an oil platform in Paso Robles, California. She did not give much thought to the day ending or the stars coming out. To Judd, this simply signified that the workday was finishing and most of her workers would be heading home, leaving just a skeleton crew to work through the night.
