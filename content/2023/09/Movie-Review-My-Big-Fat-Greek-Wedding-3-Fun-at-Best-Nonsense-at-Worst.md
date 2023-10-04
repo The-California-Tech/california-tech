@@ -8,7 +8,7 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 1'
 weight: 0
-show_thumbnail: true
+show_thumbnail: false
 thumbnail: /img/2023/09/Movie Review Poster.jpg
 images:
   - /img/2023/09/Movie Review Poster.jpg
@@ -24,6 +24,8 @@ summary: >-
   and 2016), My Big Fat Greek Wedding 3 cashes in on fans’ nostalgia and the
   chemistry the cast possesses.
 ---
+
+{{% post__image image="/img/2023/09/Movie Review Poster.jpg" %}}
 
 Following up on the success of the first two films (which premiered in 2002 and 2016), My Big Fat Greek Wedding 3 cashes in on fans’ nostalgia and the chemistry the cast possesses. The third film follows the Portokalos family as they travel back to their patriarch’s village in Greece for a family reunion. A significantly smaller cast from the first two films, partially due to the aging cast (Michael Constantine, who played the family patriarch in the first two films, passed away in 2021, and Lainie Kazan, the family matriarch, is in the film briefly, as her character is diagnosed with some form of dementia and unable to travel back to Greece) is still able to convey the joy and family dynamics that defined the first two films. Despite being released seven years after the second film, the movie is set only one year after the second, something that is not mentioned or explained in any way.
 
