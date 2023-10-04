@@ -4,7 +4,7 @@ authors:
   - Trinity Lee
 date: 2023-09-19T07:00:00.000Z
 categories:
-  - Campus
+  - Student Life
 tags:
   - 'Vol. CXXVII, Issue 1'
 weight: 0
@@ -25,6 +25,8 @@ summary: >-
 ---
 
 It has often been said that breakfast is the most important meal of the day. Does this ring true for Caltech undergrads? If you didn’t know, CDS breakfast is available every weekday at Browne Dining Hall, Red Door Cafe, Broad Cafe, and open kitchen, and it is also available on weekends at Browne only. However, for many of us busy beavers, breakfast is usually sacrificed for more sleep. Are we missing out? Or is it worth getting up earlier – or staying up past 7:00am – for a taste of that sweet, sweet Nutella Toast?
+
+{{% post__image image="/img/2023/09/toast.jpg" %}}
 
 The first stop for most breakfasters is often open kitchen, which usually offers an array of fruits, bagels, toast, and cereal. Sophie Dalfonzo (BE ‘25, Venerable) eats breakfast every day and typically enjoys oatmeal with peanut butter and some fruits. “I go to open kitchen every day and occasionally Browne or Red Door,” she explains. “But I like the setup of open kitchen! It’s really convenient and fast.” Most students would agree that the locations of the North, South, and Avery open kitchens make breakfast possible on those busy mornings when you need to fuel up before a morning practice or 9 am lecture. The grab-and-go nature of open kitchen is also much faster than waiting in line at Browne or Red Door for your food to be cooked. Additionally, some students with dietary restrictions – especially vegans or vegetarians – prefer choosing from a variety of items without having to ask anyone for modifications or substitutions. (Most breakfast items at Browne and Red Door contain eggs.) Although it is quick and easy, a stop at open kitchen is only reasonable if you are awake already and have 10-15 minutes to spare before class. I have never heard of anyone prioritizing the open kitchen spread over sleep, though I could be mistaken!
 
