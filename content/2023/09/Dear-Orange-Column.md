@@ -1,10 +1,10 @@
 ---
-title: Dear Orange Column
+title: 'Dear Orange - #1'
 authors:
   - Orange
 date: 2023-09-19T07:00:00.000Z
 categories:
-  - Campus
+  - Student Life
 tags:
   - 'Vol. CXXVII, Issue 1'
 weight: 0
@@ -19,20 +19,22 @@ widgets:
   - taglist
   - categories
   - recent
-summary: ''
+summary: >-
+  Dear Orange, What is this column about? I’m new to Caltech and don’t know much
+  about this paper, or Caltech at all for that matter. Please tell me more.
+  Sincerely, Curious
 ---
 
-Dear Orange,
-
-What is this column about? I’m new to Caltech and don’t know much about this paper, or Caltech at all for that matter. Please tell me more.
-
-Sincerely,
-
-Curious
+> **Dear Orange,**\
+> **What is this column about? I’m new to Caltech and don’t know much about this paper, or Caltech at all for that matter. Please tell me more.**\
+> **Sincerely,**\
+> **Curious**
 
 Well, hello Curious, I too am a newcomer myself! I am new to the Tech, in fact this is my very first feature in the paper, and I’ve got to say I am so happy to be here. My name is Orange and the simplest way to explain this column is to say that I’m here for you. A Caltech spin-off of Dear Sugar by Cheryl Strayed (also associated with Tiny Beautiful Things if you’ve read or watched the show on Hulu), Dear Orange is a platform to ask a question that may be dwelling on your mind or heart, share a pickle you may be in, open up about something that’s troubling you, or anything in between.
 
-“Orange… you seriously expect me to air my dirty laundry out in front of the entire school paper? You trippin.” Nay I say, young reader, for every submission will be completely anonymous to the public. Only I will have your name when you submit your story on the [Dear Orange Google Form](https://forms.gle/hd6EFNXoU9ZSfbuq5). You can rest assured that every thought, story, experience, or question that is submitted will remain between you and me, and that’s my word. The ONLY time I would ever share your submission to someone outside of my own brain would be if there was a concerning notion of harm to yourself or anyone around you. Beyond that, it’s just you and me, my friend.
+> **“Orange… you seriously expect me to air my dirty laundry out in front of the entire school paper? You trippin.” **
+
+Nay I say, young reader, for every submission will be completely anonymous to the public. Only I will have your name when you submit your story on the [Dear Orange Google Form](https://forms.gle/hd6EFNXoU9ZSfbuq5). You can rest assured that every thought, story, experience, or question that is submitted will remain between you and me, and that’s my word. The ONLY time I would ever share your submission to someone outside of my own brain would be if there was a concerning notion of harm to yourself or anyone around you. Beyond that, it’s just you and me, my friend.
 
 And to add another layer to this privacy, I will be an anonymous person too. You may be wondering, well what makes you all high and mighty and equipped with all the answers to our woes? I’ll be the first to tell you that I do not have all the answers and there is a whole lot I do not know, both in this life and relative to many folks on this campus. But I will say that I am an unbiased entity that has walked in similar high academic shoes and will always do my best to give you transparent feedback on whatever is on your mind. Just a couple of strangers talking about the highs and lows and curveballs of life here, because more often than not the person next to you is going through something similar.
 
