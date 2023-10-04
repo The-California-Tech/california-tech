@@ -18,6 +18,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: " "
 images:
   - /img/2023/04/aelin_art (1).jpg

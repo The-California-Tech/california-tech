@@ -4,7 +4,7 @@ date: "2023-03-03"
 categories:
   - 
 tags:
-  - "Vol. CXXVI, Issue 1"
+  - "Vol. CXXVII, Issue 1"
 authors:
   - 
 thumbnail: "img/2023/03/placeholder.png"
@@ -16,5 +16,6 @@ widgets: # Enable sidebar widgets in given order per page
   - "categories"
   - "taglist"
   - "write-for-the-tech"
+  - "editorial"
 ---
 

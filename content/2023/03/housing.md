@@ -15,6 +15,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: For almost as long as Caltech had undergraduate students, the institute has guaranteed its students housing on campus for four years. Almost.
 slug: growing-student-body-leads-undergraduate-housing-shortage
 show_thumbnail: true

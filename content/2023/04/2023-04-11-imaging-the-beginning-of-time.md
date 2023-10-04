@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: 'My research work at Caltech is trying to precisely address the most fundamental questions that have ever been posed by a human being: "How did the universe begin?”'
 images:
   - /img/2023/04/11/ourlab.jpg

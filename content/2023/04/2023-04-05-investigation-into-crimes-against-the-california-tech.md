@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: I aim to keep the general public informed about this dangerous individual as well as garner information which will help lead to his capture.
 images:
   - /img/2023/04/Conspiracy.jpg

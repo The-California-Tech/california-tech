@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: "#8 will SHOCK you!"
 images:
   - /img/2023/04/cool_s.png

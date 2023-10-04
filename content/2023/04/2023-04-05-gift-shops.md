@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: I love the little shops they have in museums and places. They're the best thing in the whole world. Every time I go into a new place I look and see if there are any little shops.
 images:
   - /img/2023/04/giftshops_qr.jpg

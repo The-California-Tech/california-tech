@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: "In the leadup to the third feature film in the Sonic the Hedgehog cinematic universe, the Sonic fandom eagerly awaits the answer to one of gaming’s most prominent questions: who will be Sonic’s relationship partner?"
 images:
   - /img/2023/04/Sonic-Movie-3_08-08-22.jpg

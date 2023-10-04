@@ -15,6 +15,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: On the first day of winter term, on-campus students woke up to find small glossy flyers outside their doors, advertising an app called “Fizz”...
 slug: fizz-comes-to-campus
 images:

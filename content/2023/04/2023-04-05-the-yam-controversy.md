@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: November 2021 – I was but a young naïve frosh, getting my dinner from open kitchen. I sighted orange disks of vegetables and was full of hope, sweet potatoes iare some of my favorite foods. However, my hope quickly turned to confusion when the person in front of me ordered “yams”.
 images:
   - /img/2023/04/yam.jpg

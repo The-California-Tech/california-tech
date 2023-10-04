@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: |-
   SE: The good way to make nachos is to use shredded cheese and put it in the oven, not the liquid cheese
   AdP: Seconded. Who uses liquid cheese?

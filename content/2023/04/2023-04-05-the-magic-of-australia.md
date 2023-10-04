@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: ˙ᴉdʎʇɐld ƃuᴉpnlɔuᴉ 'ǝɟᴉlplᴉʍ ǝsɹǝʌᴉp ʎllɐuoᴉʇdǝɔxǝ sʇᴉ ɹo ɟ uʍouʞ-llǝʍ sᴉ 'ǝɹǝɥdsᴉɯǝɥ uɹǝɥʇnos ǝɥʇ uᴉ ʎɹʇunoɔ ƃuᴉʞɐǝds-ɥsᴉlƃuƎ uɐ 'ɐᴉlɐɹʇsn∀
 images:
   - /img/2023/04/australia1.jpg

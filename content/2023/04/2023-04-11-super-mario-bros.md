@@ -18,6 +18,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: " I’ll make no bones about it. The Super Mario Bros. Movie was easily the most anticipated movie of the year, if not the last decade."
 images:
   - /img/2023/04/11/bowigi.png

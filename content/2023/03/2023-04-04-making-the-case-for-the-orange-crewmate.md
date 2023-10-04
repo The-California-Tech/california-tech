@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: " 2022's Frosh Camp Counselors attempted rallied in support of getting all incoming frosh orange crewmate plushies from the video game *Among Us*."
 images:
   - /img/2023/03/amogus.jpeg

@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: 'Minutes for April 16, 2023. Taken by Jonathan Booker.'
 images:
   - 'https://assets.tina.io/5326ce05-2e1f-455a-9d90-61c478da8fe8/default4.jpg'

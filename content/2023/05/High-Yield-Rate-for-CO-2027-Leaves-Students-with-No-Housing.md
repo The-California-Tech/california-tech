@@ -10,6 +10,7 @@ weight: 0
 sidebar: right
 widgets:
   - write-for-the-tech
+  - editorial
   - taglist
   - categories
   - recent

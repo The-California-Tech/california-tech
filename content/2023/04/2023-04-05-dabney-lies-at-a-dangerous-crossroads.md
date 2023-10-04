@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: What do you do when the cure is worse than the disease?
 images:
   - /img/2023/04/urine.jpg

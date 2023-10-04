@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: "Flashback to 1965. The integrated circuit was already heralding a revolution in computation, empowering Fairchild Semiconductor to become its sole profitable manufacturer in the United States."
 images:
   - /img/2023/04/24/moore2.jpg

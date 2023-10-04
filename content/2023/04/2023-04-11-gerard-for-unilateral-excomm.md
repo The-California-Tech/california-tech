@@ -19,6 +19,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: "Well folks, let me tell you something just awful and terrible that the stupid FRICKS at Ricketts Hovse have been hiding. Gerard Decker (’26, Ricketts), a fantastic guy, a really great guy, was robbed, yes robbed, of becoming the Unilateral Excomm of Ricketts Hovse."
 images:
   - default.jpg

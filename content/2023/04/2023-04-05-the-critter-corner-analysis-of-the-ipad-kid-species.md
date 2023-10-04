@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: "The Caltech undergraduate population has, despite its small size, a  diverse variety of species that make up the techer population. This week we'll embark on an in-depth analysis of a peculiar invasive species of Techer that has emerged in the Caltech ecosystem: the iPad Kid."
 images:
   - /img/2023/04/matty.png

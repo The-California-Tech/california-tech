@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: "Standing tall on Caltech campus, an Engelmann Oak towered over Hameetman Center right outside of the Red Door café exit. Then it fell on March 2."
 images:
   - /img/2023/04/24/tree.jpg

@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: This term, 3 new bylaws amendments have been proposed by Board of Directors of the Associated Students of the California Institute of Technology.
 images:
   - /default5.jpg

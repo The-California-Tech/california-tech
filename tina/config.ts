@@ -142,6 +142,7 @@ export default defineConfig({
               "categories",
               "taglist",
               "write-for-the-tech",
+              "editorial",
               "featured"
             ],
             ui: {
@@ -206,7 +207,7 @@ export default defineConfig({
           show_thumbnail: false,
           sidebar: "right",
           toc: false,
-          widgets: ["write-for-the-tech", "taglist", "categories", "recent"],
+          widgets: ["write-for-the-tech", "editorial", "taglist", "categories", "recent"],
           summary: "",
           images: ["/default4.jpg"],
           body: "",

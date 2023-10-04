@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: In November 2022, the Caltech Center for Inclusion and Diversity (CCID) welcomed a new Program Coordinator, Meri Makhmuryan, to join the staff.
 images:
   - default.jpg

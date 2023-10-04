@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: Je ne peux pas continuer comme ça. J’ai essayé très fort de faire cette relation travailler entre nous, mais ce n’est plus possible. J’espère que tu le vois aussi.  Si tu ne comprends pas, permets-moi de l’explique.
 images:
   - default.jpg

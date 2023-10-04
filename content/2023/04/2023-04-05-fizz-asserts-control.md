@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: Since the very first day I stepped foot on campus for winter term, I knew Fizz was going to be nothing but trouble. No worthwhile product has ever been advertised with colorful cardstock flyers delivered to doorsteps.
 images:
   - /img/2023/04/fizzassertscontrol.png

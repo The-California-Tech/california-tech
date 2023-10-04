@@ -19,6 +19,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: " "
 images:
   - /img/2023/04/24/art/On the Run - Alicia Zhang.jpg

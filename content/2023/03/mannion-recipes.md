@@ -15,6 +15,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: Tom Mannion is the Senior Director of Student Activities and Programs at the Office of Residential Experience and the instructor of Caltech's cooking class. These are two recipes from his collection!
 show_thumbnail: true
 ---

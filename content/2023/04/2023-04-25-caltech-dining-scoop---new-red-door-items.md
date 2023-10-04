@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: "Regardless of whether you’re an early bird or a night owl, you have probably noticed a difference or two in the Red Door menu this term."
 images:
   - meet.jpg

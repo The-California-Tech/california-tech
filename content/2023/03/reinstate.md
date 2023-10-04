@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: Last Friday, on the 24th of February, a group of about 40 Caltech graduate students and postdoctoral researchers delivered a petition signed by over 400 of our colleagues, in support of an international graduate student.
 images:
   - /img/2023/03/reinstate.png

@@ -19,6 +19,7 @@ sidebar: right
 toc: true
 widgets:
   - write-for-the-tech
+  - editorial
   - taglist
   - categories
   - recent

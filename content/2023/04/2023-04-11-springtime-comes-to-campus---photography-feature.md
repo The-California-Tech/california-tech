@@ -20,6 +20,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: Springtime is here, and the Tech is back on campus. The Tech's photography team has been out and about, capturing the beauty of the season on campus.
 images:
   - /img/2023/04/11/Abraham_CB4.jpg

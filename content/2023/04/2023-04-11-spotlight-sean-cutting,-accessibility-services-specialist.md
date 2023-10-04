@@ -18,6 +18,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: "According to a recent estimate, more than 250 students at Caltech receive some form of disability accommodation – academic, housing, dietary, or otherwise."
 images:
   - default.jpg

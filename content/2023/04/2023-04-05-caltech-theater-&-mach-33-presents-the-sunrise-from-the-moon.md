@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: “Space, Love, Loss, Jellyfish, and lots of Vanilla Coke.” Tickets available [here](https://www.eventbrite.com/e/the-sunrise-from-the-moon-tickets-615137301227)
 images:
   - /img/2023/04/moon_poster.jpeg

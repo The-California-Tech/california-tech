@@ -19,6 +19,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: >-
   Pasadena, CA (AP) - The world is on the brink of an unprecedented cataclysmic
   event known as "Ditch Day," set to occur tomorrow.

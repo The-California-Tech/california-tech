@@ -16,6 +16,7 @@ widgets:
   - recent
   - categories
   - write-for-the-tech
+  - editorial
   - taglist
 summary: It’s no exaggeration to say life as we know it would not be possible without the Honor Code. We often take this implicit trust between students, faculty, and staff, for granted. But as in any relationship, this trust can start to degrade over time if it is not reassessed and reaffirmed.
 images:

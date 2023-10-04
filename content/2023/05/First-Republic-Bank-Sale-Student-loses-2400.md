@@ -15,6 +15,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: >-
   “I sold $2,500 worth of FRB shares, for $41,” admits Cristian Ponce (BioE ‘25,
   Blacker). “I knew it was a risky investment, it didn’t work out.”

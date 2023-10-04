@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: It was a simpler time three years ago.
 images:
   - /img/2023/03/kenny-pay.jpg

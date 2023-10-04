@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: It’s spring, and with the changing of the season comes the fantastic sight of turtles zooming around campus. It can be very amusing to see turtles out as far as the Atheneum or swimming in the Caltech Hall Pond. But why do they do this, and should they be stopped?
 images:
   - /img/2023/04/24/turt.jpg

@@ -15,6 +15,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: Interview with Hima Vatti, Caltech's Title IX Coordinator and Director of the Equity and Title IX Office.
 show_thumbnail: false
 ---

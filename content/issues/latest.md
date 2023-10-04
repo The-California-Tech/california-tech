@@ -13,6 +13,7 @@ homepage_list: true
 widgets:
   - categories
   - write-for-the-tech
+  - editorial
 summary: 
 images:
 slug: latest

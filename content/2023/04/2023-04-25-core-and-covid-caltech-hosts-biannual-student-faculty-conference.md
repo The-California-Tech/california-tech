@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: On Tuesday, April 18th, Caltech held its biannual Student Faculty Conference (SFC), an all-day forum between students and faculty.
 images:
   - default2.jpg

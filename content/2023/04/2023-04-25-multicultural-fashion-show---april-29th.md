@@ -17,6 +17,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: >-
   Saturday 4/29 4:30-7pm -- Beckman Lawn -- Enjoy a show celebrating a diversity
   of cultures through clothing, music, performances, and food.

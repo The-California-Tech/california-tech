@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: Are you a REAL CALTECH STUDENT if you have never attended one of the Undergraduate Admission Office’s HOT, FACTUALLY-CORRECT, and VERY FUN tours lead by the current generation of Caltech students???
 images:
   - /img/2023/04/chen.webp

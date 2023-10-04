@@ -16,6 +16,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: " The voting period for the ASCIT Spring 2023 Elections closes at **11:59 PM on Monday, April 24th**. You can vote here: https://donut.caltech.edu/1/surveys"
 images:
   - default.jpg

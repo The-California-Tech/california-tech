@@ -19,6 +19,7 @@ widgets:
   - categories
   - taglist
   - write-for-the-tech
+  - editorial
 summary: " "
 images:
   - /img/2023/03/Ricketts (1).jpg
