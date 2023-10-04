@@ -202,13 +202,13 @@ export default defineConfig({
           categories: [],
           tags: ["Vol. CXXVII, Issue 2"],
           weight: 0,
-          thumbnail: "/default3.jpg",
+          thumbnail: "/default4.jpg",
           show_thumbnail: false,
           sidebar: "right",
           toc: false,
           widgets: ["write-for-the-tech", "taglist", "categories", "recent"],
           summary: "",
-          images: ["/default3.jpg"],
+          images: ["/default4.jpg"],
           body: "",
         }),
       },
@@ -217,6 +217,9 @@ export default defineConfig({
   search: {
     tina: {
       indexerToken: process.env.TINA_INDEXERTOKEN!,
-    }
+      stopwordLanguages: ['eng']
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100
   }
 });
