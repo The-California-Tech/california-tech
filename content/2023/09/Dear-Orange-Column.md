@@ -32,7 +32,7 @@ summary: >-
 
 Well, hello Curious, I too am a newcomer myself! I am new to the Tech, in fact this is my very first feature in the paper, and I’ve got to say I am so happy to be here. My name is Orange and the simplest way to explain this column is to say that I’m here for you. A Caltech spin-off of Dear Sugar by Cheryl Strayed (also associated with Tiny Beautiful Things if you’ve read or watched the show on Hulu), Dear Orange is a platform to ask a question that may be dwelling on your mind or heart, share a pickle you may be in, open up about something that’s troubling you, or anything in between.
 
-> **“Orange… you seriously expect me to air my dirty laundry out in front of the entire school paper? You trippin.” **
+> **“Orange… you seriously expect me to air my dirty laundry out in front of the entire school paper? You trippin.”**
 
 Nay I say, young reader, for every submission will be completely anonymous to the public. Only I will have your name when you submit your story on the [Dear Orange Google Form](https://forms.gle/hd6EFNXoU9ZSfbuq5). You can rest assured that every thought, story, experience, or question that is submitted will remain between you and me, and that’s my word. The ONLY time I would ever share your submission to someone outside of my own brain would be if there was a concerning notion of harm to yourself or anyone around you. Beyond that, it’s just you and me, my friend.
 
