@@ -4,7 +4,6 @@ authors:
   - Anonymous
 date: 2023-09-19T07:00:00.000Z
 categories:
-  - Campus
   - Opinion
 tags:
   - 'Vol. CXXVII, Issue 1'
