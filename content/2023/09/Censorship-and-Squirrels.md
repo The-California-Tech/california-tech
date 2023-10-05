@@ -8,7 +8,7 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 1'
 weight: 0
-show_thumbnail: false
+show_thumbnail: true
 thumbnail: /squirrel.jpg
 images:
   - /squirrel.jpg
