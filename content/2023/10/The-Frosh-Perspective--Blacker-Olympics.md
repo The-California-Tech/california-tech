@@ -1,5 +1,5 @@
 ---
-title: The Frosh Perspective – Blacker Olympics
+title: Blacker Olympics - The Frosh Perspective
 authors:
   - Ai-Dan Le
 date: 2023-10-03T07:00:00.000Z
@@ -9,7 +9,7 @@ tags:
   - 'Vol. CXXVII, Issue 2'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/10/BO_2_cropped.JPG
+thumbnail: /img/2023/10/BO_juggernaut.JPG
 images:
   - /img/2023/10/BO_2_cropped.JPG
 sidebar: right
