@@ -8,7 +8,7 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 2'
 weight: 0
-show_thumbnail: true
+show_thumbnail: false
 thumbnail: /cannon.png
 images:
   - /cannon.png
