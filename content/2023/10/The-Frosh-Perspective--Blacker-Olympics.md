@@ -20,7 +20,14 @@ widgets:
   - taglist
   - categories
   - recent
-summary: ''
+summary: >-
+  Following Dabney Boat Tours, Chill at Page, and Ricketts Open Mic Night, the
+  team-based, tournament-style competition centered around the promise of a
+  massive water fight at the end, which participants could use their tickets to
+  prepare for. Up for sale were water guns, tubs of water balloons, and
+  defensive materials like mattresses and cardboard. To earn tickets,
+  participants competed against each other in a series of games - ranging from
+  lock picking to tug of war.
 ---
 
 “Be there, do stuff,” the rotation activity announcement of Blacker Hovse, left much to be desired in terms of its specificity. Although Blacker is always famously doing a lot of “stuff,” the event in question was the Blacker Olympics, a newly minted annual tradition where lots of “stuff” happened indeed. 
