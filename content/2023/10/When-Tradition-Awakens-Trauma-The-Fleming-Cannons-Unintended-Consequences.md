@@ -2,7 +2,7 @@
 title: 'When Tradition Awakens Trauma: The Fleming Cannon''s Unintended Consequences'
 authors:
   - George Ore
-date: 2023-10-10T07:00:00.000Z
+date: 2023-10-03T07:00:00.000Z
 categories:
   - Opinion
 tags:
