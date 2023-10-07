@@ -3,7 +3,8 @@ title: The Truth About Not Eating When You’re Hungry
 authors:
   - Anonymous
 date: 2023-10-03T07:00:00.000Z
-categories: []
+categories:
+  - Opinion
 tags:
   - 'Vol. CXXVII, Issue 2'
 weight: 0
