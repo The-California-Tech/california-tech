@@ -1,7 +1,7 @@
 ---
 title: 'Today on: How badly can I represent this data'
 authors:
-  - Lilia Arrizabalga
+  - Lilia Arrizabalaga
 date: 2023-10-03T07:00:00.000Z
 categories:
   - Editorial
@@ -52,7 +52,7 @@ The data does not seem to support this claim; there are the same number of advan
 
 A quick note on terminology: here, Advanced Humanities (“advanced hums”) are 9-unit courses numbered 90 and above in English (En), History (H), History and the Philosophy of Science (HPS), Humanities (Hum), Music (Mu), Philosophy (Pl), and Visual Culture (VC) that can be taken on grades as per the Caltech Course Catalog. First-year Humanities (“frosh hums”) are 9-unit courses numbered below 60 in En, H, Pl, and VC. Students must take 18 units (2 classes) of frosh hums and advanced hums.
 
-**\[Correction: The maximum number for frosh hums has changed throughout the years: it was 10 and below for 2007-2008, 20 and below for 2008-2015, 50 and below for 2016-2019, and has been 60 and below since the 2021-2022 **academic** year. However this does not impact the data as it was already filtered by being in the humanities department.]**
+**\[Correction: The maximum number for frosh hums has changed throughout the years: it was 10 and below for 2007-2008, 20 and below for 2008-2015, 50 and below for 2016-2019, and has been 60 and below since the 2021-2022 academic year. However this does not impact the data as it was already filtered by being in the humanities department.]**
 
 If you compare the number of humanities in FA 2023 to WI 2022 or to 2021, as shown in figure 2,  there is a decrease, but historically there does not seem to be a trend supporting the claim that there are too few humanities offered this term. It is interesting to note that fall terms usually have the fewest number of Advanced Humanities available, likely due to less demand (the first-year class will not yet be taking Advanced Humanities).
 
