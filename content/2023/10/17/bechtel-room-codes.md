@@ -1,8 +1,8 @@
 ---
-title: 'Bechtel Room codes'
+title: Are Privacy and the Honor Code Compatible?
 authors:
   - Reiden Walker
-date: 2023-10-17
+date: 2023-10-17T00:00:00.000Z
 categories:
   - Campus
 tags:
@@ -21,8 +21,17 @@ widgets:
   - categories
   - recent
 summary: >-
-  It’s the beginning of term, and the new frosh class are met with their first challenge of the year: attempting to socialize with random upperclass students. Each night for their first week at Caltech they rotate, attending events from all the houses, trying to find the perfect fit for their four years at Caltech. Then comes the cannon fire, and rotation comes to an end. The end of rotation brings every frosh a new housing assignment they have to move into. A very exhausting day follows as frosh move across campus, the dread of the boat problem and the first week of sets lingering overhead all the while.
+  It’s the beginning of term, and the new frosh class are met with their first
+  challenge of the year: attempting to socialize with random upperclass
+  students. Each night for their first week at Caltech they rotate, attending
+  events from all the houses, trying to find the perfect fit for their four
+  years at Caltech. Then comes the cannon fire, and rotation comes to an end.
+  The end of rotation brings every frosh a new housing assignment they have to
+  move into. A very exhausting day follows as frosh move across campus, the
+  dread of the boat problem and the first week of sets lingering overhead all
+  the while.
 ---
+
 It’s the beginning of term, and the new frosh class are met with their first challenge of the year: attempting to socialize with random upperclass students. Each night for their first week at Caltech they rotate, attending events from all the houses, trying to find the perfect fit for their four years at Caltech. Then comes the cannon fire, and rotation comes to an end. The end of rotation brings every frosh a new housing assignment they have to move into. A very exhausting day follows as frosh move across campus, the dread of the boat problem and the first week of sets lingering overhead all the while.
 
 On October 1st, the day of move-in, an email was sent out by Emily Sanger, the Bechtel RLC (resident life coordinator). The email contained 63 temporary room codes, opening every frosh’s private room in Bechtel. These temporary room codes, while allegedly only lasting a few days, gave access to many student’s personal belongings. It’s unknown how many students these codes were sent to.
@@ -40,5 +49,3 @@ Some context that may be helpful for the student is that these codes are not per
 Understandably in a stressful situation, everyone is prone to mistakes, but I had several concerns with this response. Firstly, I was staying in my room, and I had told Sanger the night before moving the room number I was staying in. Yet I still got this email, and my code was included despite there being nobody moving into my room. Secondly, in her statement she mentioned that Title IX related students did not receive this email. However, this is problematic for many reasons because it implies the only concerns from TIX are from repeat offenders. Lastly, the only apology Sanger issued was in her response to Pearsons email with the concerns and she has not apologized to the frosh in Bechtel.
 
 A much better method of distributing these codes would have been sending them to each individual student. While this would have been more time consuming, the RLCs and RA’s biggest priority should be to keep their students safe. When asked how they were going to change this system in the future, we didn’t receive a response.
-
-
