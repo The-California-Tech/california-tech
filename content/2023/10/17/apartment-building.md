@@ -34,7 +34,7 @@ In an effort to provide more housing, Caltech bought an apartment building at 40
 
 On June 8th, Stephanie Berrocal, Associate Director of Housing, informed the tenants via email of the change in ownership, and that the tenants had until the end of September to move out. This email included a formal notice of eviction. They specified their desire to renovate the building before using it as graduate student housing and their desire to provide the tenants “with as much time as possible to relocate.”
 
-However, the tenants of the building felt this was unfair and too little notice. They created a tenants’ union, the Phoenix 400 (named after the address of the building), and held a press conference on June 28th. This press conference highlighted the impactful impactful effect of Caltech purchasing these homes had on residents.
+However, the tenants of the building felt this was unfair and too little notice. They created a tenants’ union, the Phoenix 400 (named after the address of the building), and held a press conference on June 28th. This press conference highlighted the impactful effect of Caltech purchasing these homes had on residents.
 
 Their primary concerns surrounded the abrupt relocation that these residents would have to endure. Not only would this cause financial instability but security issues for the residents. One resident commented, “I have lived in this building for 22 years," tenant Valerie Murphy said. "My mother lived in this building from 1990 until her death in 2001. At that time I moved into her unit and made 400 South Mentor my permanent home. I want it to remain my permanent home” (ABC News). This press conference sparked several news articles in the community, many putting Caltech in a negative light.
 
