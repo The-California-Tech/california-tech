@@ -21,15 +21,7 @@ widgets:
   - categories
   - recent
 summary: >-
-  It’s the beginning of term, and the new frosh class are met with their first
-  challenge of the year: attempting to socialize with random upperclass
-  students. Each night for their first week at Caltech they rotate, attending
-  events from all the houses, trying to find the perfect fit for their four
-  years at Caltech. Then comes the cannon fire, and rotation comes to an end.
-  The end of rotation brings every frosh a new housing assignment they have to
-  move into. A very exhausting day follows as frosh move across campus, the
-  dread of the boat problem and the first week of sets lingering overhead all
-  the while.
+  On October 1st, the day of move-in, an email was sent out by Emily Sanger, the Bechtel RLC (resident life coordinator). The email contained 63 temporary room codes, opening every frosh’s private room in Bechtel. These temporary room codes, while allegedly only lasting a few days, gave access to many student’s personal belongings. It’s unknown how many students these codes were sent to.
 ---
 
 It’s the beginning of term, and the new frosh class are met with their first challenge of the year: attempting to socialize with random upperclass students. Each night for their first week at Caltech they rotate, attending events from all the houses, trying to find the perfect fit for their four years at Caltech. Then comes the cannon fire, and rotation comes to an end. The end of rotation brings every frosh a new housing assignment they have to move into. A very exhausting day follows as frosh move across campus, the dread of the boat problem and the first week of sets lingering overhead all the while.
