@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 3'
 weight: 0
 show_thumbnail: false
-thumbnail: /default6.jpg
+thumbnail: /img/issues/thumbnails/2023-10-17.jpg
 images:
-  - /default6.jpg
+  - /img/issues/thumbnails/2023-10-17.jpg
 sidebar: right
 toc: false
 widgets:
