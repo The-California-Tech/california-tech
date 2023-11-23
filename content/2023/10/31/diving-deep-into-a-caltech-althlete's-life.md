@@ -1,5 +1,5 @@
 ---
-title: 'Diving Deep into a Caltech Athlete's Life: Featuring Sam Small'
+title: "Diving Deep into a Caltech Athlete's Life: Featuring Sam Small"
 authors:
   - Skye Ruedas
 date: 2023-10-31
