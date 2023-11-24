@@ -8,10 +8,10 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0
-thumbnail: /img/issues/thumbnails/2023-11-14.jpg
+thumbnail: /img/2023/nov14/Leo-Holberg.jpg
 show_thumbnail: false
 images:
-  - /img/issues/thumbnails/2023-11-14.jpg
+  - /img/2023/nov14/Leo-Holberg.jpg
 sidebar: right
 toc: false
 widgets:
@@ -25,7 +25,7 @@ summary: >-
   
   However, there's one aspect that has struck me more than any other - the complete disregard for environmental concerns.
 ---
-![](/img/2023/nov14/IMG_1022 - Leo Holberg.jpg)
+![](/img/2023/nov14/Leo-Holberg.jpg)
 
 Arriving at this institution from Denmark many tropes of the American, and indeed the Californian life seemed confirmed. Breakfasts of waffles, sweltering temperatures and affable attitudes.
 

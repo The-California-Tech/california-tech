@@ -8,10 +8,10 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0
-thumbnail: /img/issues/thumbnails/2023-11-14.jpg
+thumbnail: /img/2023/nov14/meditation.png
 show_thumbnail: false
 images:
-  - /img/issues/thumbnails/2023-11-14.jpg
+  - /img/2023/nov14/meditation.png
 sidebar: right
 toc: false
 widgets:

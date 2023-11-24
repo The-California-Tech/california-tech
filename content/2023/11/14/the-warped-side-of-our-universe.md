@@ -8,10 +8,10 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0
-thumbnail: /img/issues/thumbnails/2023-11-14.jpg
+thumbnail: /default2.jpg
 show_thumbnail: false
 images:
-  - /img/issues/thumbnails/2023-11-14.jpg
+  - /default2.jpg
 sidebar: right
 toc: false
 widgets:
