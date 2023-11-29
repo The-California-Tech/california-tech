@@ -6,7 +6,7 @@ categories:
   - Campus
   - Sports
 tags:
-  - 'Vol. CXXVII, Issue 5'
+  - 'Vol. CXXVII, Issue 6'
 weight: 0
 thumbnail: /default2.jpg
 show_thumbnail: false

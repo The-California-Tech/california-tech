@@ -6,7 +6,7 @@ date: 2023-11-28
 categories:
   - Outside News
 tags:
-  - 'Vol. CXXVII, Issue 5'
+  - 'Vol. CXXVII, Issue 6'
 weight: 0
 thumbnail: /img/2023/nov14/pleinair.jpg
 show_thumbnail: false

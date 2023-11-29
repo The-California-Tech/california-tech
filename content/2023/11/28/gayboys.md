@@ -6,7 +6,7 @@ date: 2023-11-28
 categories:
   - Campus
 tags:
-  - 'Vol. CXXVII, Issue 5'
+  - 'Vol. CXXVII, Issue 6'
 weight: 0
 thumbnail: /default.jpg
 show_thumbnail: false

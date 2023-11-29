@@ -6,7 +6,7 @@ date: 2023-11-28
 categories:
   - Humor
 tags:
-  - 'Vol. CXXVII, Issue 5'
+  - 'Vol. CXXVII, Issue 6'
 weight: 0
 thumbnail: /img/2023/05/31/quails.jpg
 show_thumbnail: false
