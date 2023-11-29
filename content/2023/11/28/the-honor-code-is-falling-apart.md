@@ -22,13 +22,7 @@ widgets:
   - categories
   - recent
 summary: >-
-  **RUMORS**
-
-_“Students run for the Board of Control so that they can acquit their friends of Honor Code violations.”_
-
-_“Faculty think I’m lying when I say I’m sick.”_
-
-_“Houses send out answer keys so that everyone can get the answers.”_
+  Caltech Faculty members have begun reevaluating the relevance of the Honor Code in their classrooms because they are losing faith in the ability of the student body to fulfill their responsibilities to the Honor Code. Students are worried about the state of the Honor Code because they think they are the only ones following it, believing faculty and administrative offices on campus are not held accountable for honor code violations. The number of reports of honor code violations has been elevated since the 2015-16 academic year, but during the year of online learning, reports of honor code violations further increased to 3 to 4 times the baseline case load. While the number of reports of honor code violations has fallen to the 2015-16 level, the stress placed on the Board of Control pushed it to the verge of failure. The BoC system implemented almost 100 years ago was not built to process this high case load, not built to withstand the ire of distrustful members of the Caltech community, and not built to protect a community, who, whether due to disinterest, fear, or overworkedness, is in some part negligent of the implications and applications of the Honor Code. 
 ---
 
 **RUMORS**
