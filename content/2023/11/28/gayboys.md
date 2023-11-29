@@ -1,5 +1,4 @@
 ---
-#TODO:Article title
 title: "Gayboys"
 authors:
   - Lilia Arrizabalaga
@@ -9,10 +8,10 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0
-thumbnail: /default3.jpg
+thumbnail: /default.jpg
 show_thumbnail: false
 images:
-  - /default3.jpg
+  - /default.jpg
 sidebar: right
 toc: false
 widgets:

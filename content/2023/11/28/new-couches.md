@@ -4,7 +4,7 @@ authors:
   - Lily Coffin
 date: 2023-11-28
 categories:
-  - Campus
+  - Opinion
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0

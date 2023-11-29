@@ -1,9 +1,10 @@
 ---
 title: "ARC Tip of the Week:"
-authors: []
+authors:
+ - The ARC
 date: 2023-11-28
 categories:
-  - Humor
+  - Tips
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0

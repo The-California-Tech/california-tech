@@ -1,5 +1,4 @@
 ---
-#TODO:Article title
 title: "Question the Quail"
 authors:
   - Quail
@@ -9,10 +8,10 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0
-thumbnail: /default3.jpg
+thumbnail: /img/2023/05/31/quails.jpg
 show_thumbnail: false
 images:
-  - /default3.jpg
+  - /img/2023/05/31/quails.jpg
 sidebar: right
 toc: false
 widgets:

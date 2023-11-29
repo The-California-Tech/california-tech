@@ -1,18 +1,17 @@
 ---
-#TODO:
 title: "Sportspabll"
-authors:
-  - Athman
+authors: []
 date: 2023-11-28
 categories:
   - Campus
+  - Sports
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0
-thumbnail: /default3.jpg
+thumbnail: /default2.jpg
 show_thumbnail: false
 images:
-  - /default3.jpg
+  - /default2.jpg
 sidebar: right
 toc: false
 widgets:

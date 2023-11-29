@@ -8,10 +8,10 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0
-thumbnail: /default3.jpg
+thumbnail: /img/2023/nov14/pleinair.jpg
 show_thumbnail: false
 images:
-  - /default3.jpg
+  - /img/2023/nov14/pleinair.jpg
 sidebar: right
 toc: false
 widgets:
