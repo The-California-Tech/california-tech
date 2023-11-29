@@ -7,7 +7,7 @@ date: 2023-11-28
 categories:
   - Campus
 tags:
-  - 'Vol. CXXVII, Issue 5'
+  - 'Vol. CXXVII, Issue 6'
 weight: 0
 thumbnail: /default3.jpg
 show_thumbnail: false
@@ -22,7 +22,7 @@ widgets:
   - categories
   - recent
 summary: >-
-The number of reports of honor code violations has been elevated since the 2015-16 academic year, but during the year of online learning, reports of honor code violations further increased to 3 to 4 times the baseline case load. While the number of reports of honor code violations has fallen to the 2015-16 level, the stress placed on the Board of Control pushed it to the verge of failure.
+  The number of reports of honor code violations has been elevated since the 2015-16 academic year, but during the year of online learning, reports of honor code violations further increased to 3 to 4 times the baseline case load. While the number of reports of honor code violations has fallen to the 2015-16 level, the stress placed on the Board of Control pushed it to the verge of failure.
 ---
 
 **RUMORS**
