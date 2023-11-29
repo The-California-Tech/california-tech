@@ -1,5 +1,5 @@
 ---
-title: 'Local Happenings in Pasadena'
+title: 'Housing painting over murals'
 authors:
   - Lilia Arrizabalaga
 date: 2023-11-14
