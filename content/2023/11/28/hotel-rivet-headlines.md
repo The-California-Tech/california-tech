@@ -5,7 +5,7 @@ date: 2023-11-28
 categories:
   - The Outside World
 tags:
-  - 'Vol. CXXVII, Issue 5'
+  - 'Vol. CXXVII, Issue 6'
 weight: 0
 thumbnail: /default3.jpg
 show_thumbnail: false
