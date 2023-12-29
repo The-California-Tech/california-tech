@@ -23,6 +23,7 @@ widgets:
 summary: >-
    Caltech is known for its rigorous academic environment, but beneath the surface lies a community of student-athletes who defy the odds daily, balancing their passion for their sport with the demands of academic life. One such athlete is Sam Small, a junior BioE major, minoring in Chemistry. His journey provides an enlightening perspective on what it's like to be a student-athlete at Caltech.
 ---
+
 Caltech is known for its rigorous academic environment, but beneath the surface lies a community of student-athletes who defy the odds daily, balancing their passion for their sport with the demands of academic life. One such athlete is Sam Small, a junior BioE major, minoring in Chemistry. His journey provides an enlightening perspective on what it's like to be a student-athlete at Caltech.
 
 Waking up at 6:30 am, Sam's day begins with a morning lift in the gym from 7 to 8:30 am. Refueling quickly with a coffee and snack, he goes off to his 9 am lab meeting. As a BioE major, Sam's academic plate is just as full as his athletic one. After his lab meeting, he makes some time for studying and lunch before attending his 1 pm to 2:30 pm class.
