@@ -8,9 +8,9 @@ tags:
   - 'Vol. CXXVI, Issue 6'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/05/2023-05-31_art.jpg
+thumbnail: /img/2023/may16/2023-05-31_art.jpg
 images:
-  - /img/2023/05/2023-05-31_art.jpg
+  - /img/2023/may16/2023-05-31_art.jpg
 sidebar: 'false'
 toc: false
 widgets:

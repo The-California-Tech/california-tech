@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 6'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/05/31/nye.jpg
+thumbnail: /img/2023/may16/31/nye.jpg
 images:
-  - /img/2023/05/31/nye.jpg
+  - /img/2023/may16/31/nye.jpg
 sidebar: right
 toc: false
 widgets:

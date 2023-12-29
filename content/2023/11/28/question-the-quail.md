@@ -8,10 +8,10 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 6'
 weight: 0
-thumbnail: /img/2023/05/31/quails.jpg
+thumbnail: /img/2023/may16/31/quails.jpg
 show_thumbnail: false
 images:
-  - /img/2023/05/31/quails.jpg
+  - /img/2023/may16/31/quails.jpg
 sidebar: right
 toc: false
 widgets:

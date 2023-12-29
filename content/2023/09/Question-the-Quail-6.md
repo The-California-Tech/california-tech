@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 1'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/05/31/quails.jpg
+thumbnail: /img/2023/may16/31/quails.jpg
 images:
-  - /img/2023/05/31/quails.jpg
+  - /img/2023/may16/31/quails.jpg
 sidebar: right
 toc: false
 widgets:

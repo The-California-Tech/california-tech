@@ -8,7 +8,7 @@ categories:
 tags:
   - 'Vol. CXXVI, Issue 5'
 weight: 0
-thumbnail: /img/2023/05/cristian.jpg
+thumbnail: /img/2023/may16/cristian.jpg
 sidebar: right
 widgets:
   - recent
@@ -20,7 +20,7 @@ summary: >-
   “I sold $2,500 worth of FRB shares, for $41,” admits Cristian Ponce (BioE ‘25,
   Blacker). “I knew it was a risky investment, it didn’t work out.”
 images:
-  - /img/2023/05/cristian.jpg
+  - /img/2023/may16/cristian.jpg
 ---
 
 “I sold $2,500 worth of FRB shares, for $41,” admits Cristian Ponce (BioE ‘25, Blacker). “I knew it was a risky investment, it didn’t work out.”
@@ -41,7 +41,7 @@ In regards to SVB, the Federal Reserve said on March 12 that “All depositors o
 
 Instead of studying for his final, he carried out extensive market research. On Thursday March 16th, after the initial bank run earlier in the week, he “called up a whole bunch of the branches… about 15.” He wanted to see if people were still withdrawing by asking how busy each branch was. With this, he could see if First Republic’s stock had any hope of reverting back to normal.
 
-![](/img/2023/05/cristian.jpg)
+![](/img/2023/may16/cristian.jpg)
 {.post__image}
 
 Cristian Ponce reflects upon the loss of nearly his entire portfolio

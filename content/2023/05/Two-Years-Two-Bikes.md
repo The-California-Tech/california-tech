@@ -10,9 +10,9 @@ tags:
   - 'Vol. CXXVI, Issue 6'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/05/cut_lock.jpg
+thumbnail: /img/2023/may16/cut_lock.jpg
 images:
-  - /img/2023/05/cut_lock.jpg
+  - /img/2023/may16/cut_lock.jpg
 sidebar: right
 toc: false
 widgets:
@@ -44,7 +44,7 @@ Sascha Goldsmith (ME 25’, Blacker) had her electric scooter stolen outside of 
 
 Ethan Lin (Ch 26’, Dabney) left his bike locked at the racks between SFL and Dabney Gardens over one weekend last term. When he returned, all he found was his lock, which had been cut. “The bike was around 500-600 dollars,” he told the Tech. “I had it for around 8 years and was really into mountain biking so it was my most precious possession in terms of personal significance.”
 
-![](/img/2023/05/cut_lock.jpg)
+![](/img/2023/may16/cut_lock.jpg)
 
 *A thief cut clean through the bike lock that once secured Lin’s bike.*
 

@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 6'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/05/jahner.jpg
+thumbnail: /img/2023/may16/jahner.jpg
 images:
-  - /img/2023/05/jahner.jpg
+  - /img/2023/may16/jahner.jpg
 sidebar: right
 toc: false
 widgets:

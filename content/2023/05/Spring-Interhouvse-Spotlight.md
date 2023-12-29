@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 6'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/05/lloyd-intehrouse.jpg
+thumbnail: /img/2023/may16/lloyd-intehrouse.jpg
 images:
-  - /img/2023/05/lloyd-intehrouse.jpg
+  - /img/2023/may16/lloyd-intehrouse.jpg
 sidebar: right
 toc: false
 widgets:
@@ -37,7 +37,7 @@ As always, the amount of effort students put into this one night event shines th
 
 Great job Lloyd House!
 
-{{% post__image image="/img/2023/05/lloyd-intehrouse.jpg" %}}
+{{% post__image image="/img/2023/may16/lloyd-intehrouse.jpg" %}}
 
 
 
@@ -60,7 +60,7 @@ Highlight of the party was Ricketts' very own professional DJ, Ramzi Saber (Rick
 
 Cheers to a continued tradition!
 
-{{% post__image image="/img/2023/05/BDR-1.jpg" %}}
+{{% post__image image="/img/2023/may16/BDR-1.jpg" %}}
 
 
 

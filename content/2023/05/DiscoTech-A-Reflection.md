@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 5'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/05/DiscoverCaltech-Egg Drop Competition-4508.jpg
+thumbnail: /img/2023/may16/DiscoverCaltech-Egg Drop Competition-4508.jpg
 images:
-  - /img/2023/05/DiscoverCaltech-Egg Drop Competition-4508.jpg
+  - /img/2023/may16/DiscoverCaltech-Egg Drop Competition-4508.jpg
 sidebar: right
 toc: false
 widgets:
@@ -39,7 +39,7 @@ Nat Hernandez, a DiscoTech protofrosh, participated in EcosySTEMs, a fully funde
 “It was overwhelming as far as the culture goes,” she said, recalling her first impression of Caltech. “I thought students would have no social life because of work. I liked the campus the first time I visited but I didn’t think it was the prettiest campus I had seen. Although I did come to love it over the four days. It really is for a very specific type of person.”
 Over the course of her time visiting Caltech, Nat and other admits were taken to “mini lectures” with every department, attended planned lunch events, competed in an egg drop contest, explored campus, and went to Griffith Observatory.
 
-{{% post__image image="/img/2023/05/DiscoverCaltech-Egg Drop Competition-4508.jpg" %}}
+{{% post__image image="/img/2023/may16/DiscoverCaltech-Egg Drop Competition-4508.jpg" %}}
 
 
 Hernandez emphasized the sense of community that protofrosh created together. “The highlight of my experience at DiscoTech was house dinner because I think sharing a meal as a community brings everyone together (as does throwing bread). I really got some insight into house life.”

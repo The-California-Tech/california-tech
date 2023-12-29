@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 6'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/05/31/beaver.jpg
+thumbnail: /img/2023/may16/31/beaver.jpg
 images:
-  - /img/2023/05/31/beaver.jpg
+  - /img/2023/may16/31/beaver.jpg
 sidebar: right
 toc: false
 widgets:
@@ -42,6 +42,6 @@ To gauge the distribution of sentiment, the Tech ran a 24-hour approval poll for
 
 Overall, the event seemed to be a success, and the new name has certainly sparked discussions about school spirit. We will just have to wait and see if this continues.
 
-{{% post__image image="/img/2023/05/31/insta_poll.jpg" %}}
+{{% post__image image="/img/2023/may16/31/insta_poll.jpg" %}}
 
-{{% post__image image="/img/2023/05/31/fizz_poll.jpeg" %}}
+{{% post__image image="/img/2023/may16/31/fizz_poll.jpeg" %}}

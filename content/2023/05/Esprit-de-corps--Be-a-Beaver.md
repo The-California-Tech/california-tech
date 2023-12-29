@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 5'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/05/beaver.jpeg
+thumbnail: /img/2023/may16/beaver.jpeg
 images:
-  - /img/2023/05/beaver.jpeg
+  - /img/2023/may16/beaver.jpeg
 sidebar: right
 toc: false
 widgets:

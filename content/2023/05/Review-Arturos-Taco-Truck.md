@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 5'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/05/Arturo's Taco Truck.jpg
+thumbnail: /img/2023/may16/Arturo's Taco Truck.jpg
 images:
-  - /img/2023/05/Arturo's Taco Truck.jpg
+  - /img/2023/may16/Arturo's Taco Truck.jpg
 sidebar: right
 toc: false
 widgets:

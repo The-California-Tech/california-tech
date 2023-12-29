@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 5'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/05/worldfest.png
+thumbnail: /img/2023/may16/worldfest.png
 images:
-  - /img/2023/05/worldfest.png
+  - /img/2023/may16/worldfest.png
 sidebar: right
 toc: false
 widgets:

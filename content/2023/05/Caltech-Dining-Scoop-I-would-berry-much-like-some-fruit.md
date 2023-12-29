@@ -10,7 +10,7 @@ tags:
   - 'Vol. CXXVI, Issue 5'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/05/berries.jpg
+thumbnail: /img/2023/may16/berries.jpg
 sidebar: right
 toc: false
 widgets:
@@ -23,7 +23,7 @@ summary: >-
   Fruit! Trinity explores the fruit options Caltech Dining Service (CDS)
   provides.
 images:
-  - /img/2023/05/berries.jpg
+  - /img/2023/may16/berries.jpg
 ---
 
 Fruit! Whether it is a refreshing dessert or a healthy snack, we all appreciate having it as an option to supplement our diet of Red Door sandwiches and other CDS fare. Even students who regularly cook their own food or eat out will often partake in open kitchen fruits for their daily dose of vitamin C or potassium. But are Caltech students satisfied with the array of fruit that CDS provides?
