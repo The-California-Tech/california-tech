@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 2'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/10/GSC Photos/IMG_9717.jpg
+thumbnail: /img/2023/oct03/GSC Photos/IMG_9717.jpg
 images:
-  - /img/2023/10/GSC Photos/IMG_9717.jpg
+  - /img/2023/oct03/GSC Photos/IMG_9717.jpg
 sidebar: right
 toc: true
 widgets:

@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 2'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/10/BO_juggernaut.JPG
+thumbnail: /img/2023/oct03/BO_juggernaut.JPG
 images:
-  - /img/2023/10/BO_2_cropped.JPG
+  - /img/2023/oct03/BO_2_cropped.JPG
 sidebar: right
 toc: false
 widgets:
@@ -38,7 +38,7 @@ summary: >-
 
 &#x9;Meanwhile, upstairs in Cannes Kitchen, two teams of prefrosh were tasked with re-creating a recipe under a time limit, while being judged on presentation and taste. Although participants attempted to strategize while waiting outside in the hallway, the recipes changed in between rounds, the requested food including quesadillas, eggs, and bacon. Under the restraints of the time limit, participants were cutting vegetables with questionable safety but unquestionable speed, their panic strongly juxtaposed by the serenity of the Ratatouille soundtrack playing in the background. Like a game of Overcooked projected into reality, some teams soared under the pressure, with other teams producing abominations that bordered on being classified as Chemical/Biological Incidents.
 
-![](/img/2023/10/exhibita.png)![](/img/2023/10/exhibitb.png)
+![](/img/2023/oct03/exhibita.png)![](/img/2023/oct03/exhibitb.png)
 
 (Exhibit A and Exhibit B, respectively. The chefs of Exhibit B would like it to be known that the bacon was good. The assigned recipe was eggs and bacon.)
 
@@ -48,6 +48,6 @@ summary: >-
 
 After a short strategy meeting within each team, the games began. In between phalanx-like formations - rows of defense with long range weapons, pushing mattresses slowly but surely forward with students’ knees, and dragging buckets of water behind them, victors emerged and the unfortunate faded into obscurity (more accurately, a wet downfall). The fierce battle produced various strategies as time went on, such as a full body suit of armor consisting of cardboard and a clear plastic helmet, a moving fortress, and rushing people. And with the enthusiastic commentary of two Blacker Hovse upperclassmen, Team 3 ultimately emerged victorious.
 
-![](/img/2023/10/BO_2_cropped.JPG)![](/img/2023/10/BO_juggernaut.JPG)
+![](/img/2023/oct03/BO_2_cropped.JPG)![](/img/2023/oct03/BO_juggernaut.JPG)
 
 &#x9;Even if people were on teams pitted against each other, the spirit of Caltech’s creativity and collaboration was still able to shine through - in the creative ways people circumvented elimination by forging their own makeshift armor, to the way that teams strategically split up and reunited to gain the most tickets possible. All in all, it was a way for pre-frosh to unwind, cool down on a warm day, and use their brains in a way that didn’t involve a pset.

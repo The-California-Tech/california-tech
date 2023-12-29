@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 2'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/10/surface.svg
+thumbnail: /img/2023/oct03/surface.svg
 images:
-  - /img/2023/10/surface.svg
+  - /img/2023/oct03/surface.svg
 sidebar: right
 toc: false
 widgets:
@@ -36,11 +36,11 @@ If you guessed The Total Number of Seats in Limited Enrollment Advanced Humaniti
 
 Each term, during the week preceding class registration for undergraduates, a common cry is heard: “There aren’t enough hums!” Much of registration day is spent consoling friends who didn’t get into the humanities course they wanted. But are these complaints warranted? Are there enough humanities classes for undergraduates to take? What does the data support?
 
-![](/img/2023/10/advanced_seats.svg)
+![](/img/2023/oct03/advanced_seats.svg)
 
 Figure 1. Total number of seats in limited enrollment advanced humanities classes.
 
-![](/img/2023/10/advanced_classes.svg)
+![](/img/2023/oct03/advanced_classes.svg)
 
 Figure 2. Total number of advanced humanities offered by year and term.
 
@@ -60,11 +60,11 @@ If you compare the number of humanities in FA 2023 to WI 2022 or to 2021, as sho
 
 So onto the claim that there are not enough spots in advanced humanities: if we assume ~1000 undergraduates and ~250 first-years, there are ~750 upperclassmen who might want to take an Advanced Humanities course during fall term. Over 10 total terms (12 minus the two required for frosh hums because they are prerequisites for other humanities), they must take two Advanced Humanities, so around 1/5 of the upperclassmen (~150 students) are likely to be taking an Advanced Humanities course during fall term. There are ~250 spots this term which means there is ample space for students to satisfy their requirements.
 
-![](/img/2023/10/frosh_classes.svg)
+![](/img/2023/oct03/frosh_classes.svg)
 
 Figure 3. Total number of First-year Humanities offered by year and term.
 
-![](/img/2023/10/frosh_seats.svg)
+![](/img/2023/oct03/frosh_seats.svg)
 
 Figure 4. Total number of seats in limited-enrollment First-year Humanities classes.
 

@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 2'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/10/yosemite3.png
+thumbnail: /img/2023/oct03/yosemite3.png
 images:
-  - /img/2023/10/yosemite3.png
+  - /img/2023/oct03/yosemite3.png
 sidebar: right
 toc: false
 widgets:
@@ -43,12 +43,12 @@ In the mystical realm of Yosemite National Park, where towering sequoias whisper
 
 &#x9;Overall, the four days of hiking was to be unanimously considered a “phenomenal experience” said first-year undergrad Justin Lee. “I appreciated how much we all looked out for one another, which is a value that is shared by Caltech at large. We took the hikes at our own pace, yet we made sure to stay together, even if it entailed curtailing our ambitions at times.” Lee reflected on his stargazing and camping experience in the valley, “I had opportunity to gaze at the stars without the blinding lights of streetside lamps and buildings polluting the sky; at Yosemite, the night sky appeared brighter and clearer than it ever had ever seemed in my recent memory."
 
-![](/img/2023/10/yosemite1.png)
+![](/img/2023/oct03/yosemite1.png)
 
-![](/img/2023/10/yosemite2.png)
+![](/img/2023/oct03/yosemite2.png)
 
-![](/img/2023/10/yosemite3.png)
+![](/img/2023/oct03/yosemite3.png)
 
-![](/img/2023/10/yosemite4.png)
+![](/img/2023/oct03/yosemite4.png)
 
-![](/img/2023/10/yosemite5.png)
+![](/img/2023/oct03/yosemite5.png)

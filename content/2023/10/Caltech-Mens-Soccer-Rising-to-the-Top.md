@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 2'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/10/original-8C2DBA54-941C-4F84-B3E0-80C455C1B573.jpeg
+thumbnail: /img/2023/oct03/original-8C2DBA54-941C-4F84-B3E0-80C455C1B573.jpeg
 images:
-  - /img/2023/10/original-8C2DBA54-941C-4F84-B3E0-80C455C1B573.jpeg
+  - /img/2023/oct03/original-8C2DBA54-941C-4F84-B3E0-80C455C1B573.jpeg
 sidebar: right
 toc: false
 widgets:
@@ -46,8 +46,8 @@ The Beavers’ success this season is a testament to their unwavering commitment
 
 The Caltech community has taken note of the team's impressive rise. As the Beavers continue their remarkable run, there's an unmistakable sense of anticipation on campus. Students and staff are rallying behind the team, excited to see how this memorable season unfolds. Hopes remain high for the Beavers to either maintain or surpass their current standing.
 
-![](/img/2023/10/original-8C2DBA54-941C-4F84-B3E0-80C455C1B573.jpeg)
+![](/img/2023/oct03/original-8C2DBA54-941C-4F84-B3E0-80C455C1B573.jpeg)
 
-![](/img/2023/10/original-BD624B0E-D3C2-4D26-9D36-35DCEC6B3CF5.jpeg)
+![](/img/2023/oct03/original-BD624B0E-D3C2-4D26-9D36-35DCEC6B3CF5.jpeg)
 
-![](/img/2023/10/original-E6FD2E8F-497C-4383-A85E-69B102905D33.jpeg)
+![](/img/2023/oct03/original-E6FD2E8F-497C-4383-A85E-69B102905D33.jpeg)
