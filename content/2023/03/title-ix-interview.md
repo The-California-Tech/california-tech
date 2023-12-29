@@ -20,7 +20,7 @@ summary: Interview with Hima Vatti, Caltech's Title IX Coordinator and Director 
 show_thumbnail: false
 ---
 
-![Hima Vatti](/img/2023/03/vatti.jpg)
+![Hima Vatti](/img/2023/mar03/vatti.jpg)
 
 **How long have you worked in the Equity and Title IX office?**
 

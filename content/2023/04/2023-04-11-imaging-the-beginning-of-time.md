@@ -8,7 +8,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 3
 weight: 0
-thumbnail: /img/2023/04/11/ourlab.jpg
+thumbnail: /img/2023/apr04/11/ourlab.jpg
 show_thumbnail: false
 sidebar: right
 toc: true
@@ -20,7 +20,7 @@ widgets:
   - editorial
 summary: 'My research work at Caltech is trying to precisely address the most fundamental questions that have ever been posed by a human being: "How did the universe begin?”'
 images:
-  - /img/2023/04/11/ourlab.jpg
+  - /img/2023/apr04/11/ourlab.jpg
 slug: imaging-the-beginning-of-time
 ---
 
@@ -36,15 +36,15 @@ These observations are very important in fundamental physics because they open a
 
 We successfully designed and deployed the first low-frequency BICEP Array receiver to the coldest place on Earth: the Amundsen-Scott South Pole Station, a place where the atmosphere is extremely cold and dry, and consequently transparent at millimeter wavelength. I went to the South Pole twice and stayed there for about 6 months total. It was an unforgettable experience for me.
 
-![](/img/2023/04/11/ourlab.jpg)
-![](/img/2023/04/11/teamwork.jpg)
+![](/img/2023/apr04/11/ourlab.jpg)
+![](/img/2023/apr04/11/teamwork.jpg)
 *This is me with our telescope in the 2022 season.*
 
 I also became the first Egyptian scientist to raise the Egyptian flag twice at the South Pole — in -60 °C — which made me something of a celebrity back home. I delivered science outreach events to various STEM schools around the world about our daily life and our science experiment while I was at the South Pole. These videos have reached millions of views on social media. It was really amazing.
 
 Such innovative events are needed to better engage students of all ages in science. These educational needs as well as my personal desire have motivated me to make astronomy (and science in general) accessible to a broader and more diverse demographic. I was really happy that my story inspired people, especially kids, to love and engage more in science. One of these schools awarded me an appreciation prize during my visit to Egypt.
 
-![](/img/2023/04/11/egyptian%20flag.jpg)
-![](/img/2023/04/11/School.PNG)
+![](/img/2023/apr04/11/egyptian%20flag.jpg)
+![](/img/2023/apr04/11/School.PNG)
 
 We still have so much to learn from our data taken from the sky at the South Pole. We are currently analyzing the hidden details in the data about the baby universe, and we expect interesting publications soon.

@@ -7,7 +7,7 @@ tags:
   - Vol. CXXVI, Issue 1
 authors:
   - Justin Toyota
-thumbnail: /img/2023/03/fizz logo.webp
+thumbnail: /img/2023/mar03/fizz logo.webp
 sidebar: right
 toc: true
 widgets:
@@ -19,7 +19,7 @@ widgets:
 summary: On the first day of winter term, on-campus students woke up to find small glossy flyers outside their doors, advertising an app called “Fizz”...
 slug: fizz-comes-to-campus
 images:
-  - /img/2023/03/fizz logo.webp
+  - /img/2023/mar03/fizz logo.webp
 show_thumbnail: false
 ---
 

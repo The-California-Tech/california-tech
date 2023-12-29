@@ -7,7 +7,7 @@ tags:
   - Vol. CXXVI, Issue 1
 authors:
   - Tom Mannion
-thumbnail: img/2023/03/cooking.jpg
+thumbnail: img/2023/mar03/cooking.jpg
 sidebar: right
 toc: true
 widgets:
@@ -52,4 +52,4 @@ Ingredients
 4. Place 1 log goat cheese, Italian parsley fine chopped parsley, dash of white pepper and 4 teaspoons cream in the food processor, mix until fluffy and consistent. 
 5. Fill cups with mousse. Garnish with parsley. 
 
-![](/img/2023/03/mannion.jpg)
+![](/img/2023/mar03/mannion.jpg)

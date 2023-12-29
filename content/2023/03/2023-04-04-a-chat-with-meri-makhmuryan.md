@@ -8,7 +8,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 1
 weight: 0
-thumbnail: /img/2023/03/meri.jpg
+thumbnail: /img/2023/mar03/meri.jpg
 sidebar: right
 toc: true
 widgets:
@@ -26,7 +26,7 @@ show_thumbnail: false
 
 _In November 2022, the Caltech Center for Inclusion and Diversity (CCID) welcomed a new Program Coordinator, Meri Makhmuryan, to join the staff.  On the second floor of the Center for Student Services, the CCID serves to “provide education, advocacy and allyship to foster an inclusive campus community across individuals from all student, postdoctoral scholar, faculty, and staff groups.”_
 
-![Meri Makhmuryan](/img/2023/03/meri.jpg)
+![Meri Makhmuryan](/img/2023/mar03/meri.jpg)
 
 **What drew you into working at Caltech?**
 

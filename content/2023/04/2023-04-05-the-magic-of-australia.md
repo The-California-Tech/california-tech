@@ -9,7 +9,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 2
 weight: 0
-thumbnail: /img/2023/04/australia1.jpg
+thumbnail: /img/2023/apr04/australia1.jpg
 sidebar: right
 toc: true
 widgets:
@@ -20,7 +20,7 @@ widgets:
   - editorial
 summary: ˙ᴉdʎʇɐld ƃuᴉpnlɔuᴉ 'ǝɟᴉlplᴉʍ ǝsɹǝʌᴉp ʎllɐuoᴉʇdǝɔxǝ sʇᴉ ɹo ɟ uʍouʞ-llǝʍ sᴉ 'ǝɹǝɥdsᴉɯǝɥ uɹǝɥʇnos ǝɥʇ uᴉ ʎɹʇunoɔ ƃuᴉʞɐǝds-ɥsᴉlƃuƎ uɐ 'ɐᴉlɐɹʇsn∀
 images:
-  - /img/2023/04/australia1.jpg
+  - /img/2023/apr04/australia1.jpg
 slug: magic-australia
 show_thumbnail: true
 ---

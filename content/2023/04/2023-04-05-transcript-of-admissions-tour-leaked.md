@@ -8,7 +8,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 2
 weight: 0
-thumbnail: /img/2023/04/chen.webp
+thumbnail: /img/2023/apr04/chen.webp
 sidebar: right
 toc: true
 widgets:
@@ -19,7 +19,7 @@ widgets:
   - editorial
 summary: Are you a REAL CALTECH STUDENT if you have never attended one of the Undergraduate Admission Office’s HOT, FACTUALLY-CORRECT, and VERY FUN tours lead by the current generation of Caltech students???
 images:
-  - /img/2023/04/chen.webp
+  - /img/2023/apr04/chen.webp
 slug: transcript-admissions-tour-leaked
 show_thumbnail: true
 ---

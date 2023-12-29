@@ -8,7 +8,7 @@ authors:
 slug: reinstate-it-cannot-wait
 tags:
   - Vol. CXXVI, Issue 1
-thumbnail: img/2023/03/reinstate.png
+thumbnail: img/2023/mar03/reinstate.png
 sidebar: right
 toc: true
 widgets:
@@ -19,7 +19,7 @@ widgets:
   - editorial
 summary: Last Friday, on the 24th of February, a group of about 40 Caltech graduate students and postdoctoral researchers delivered a petition signed by over 400 of our colleagues, in support of an international graduate student.
 images:
-  - /img/2023/03/reinstate.png
+  - /img/2023/mar03/reinstate.png
 show_thumbnail: true
 ---
 

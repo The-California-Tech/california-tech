@@ -9,7 +9,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 2
 weight: 0
-thumbnail: /img/2023/04/fizzassertscontrol.png
+thumbnail: /img/2023/apr04/fizzassertscontrol.png
 sidebar: right
 toc: true
 widgets:
@@ -20,7 +20,7 @@ widgets:
   - editorial
 summary: Since the very first day I stepped foot on campus for winter term, I knew Fizz was going to be nothing but trouble. No worthwhile product has ever been advertised with colorful cardstock flyers delivered to doorsteps.
 images:
-  - /img/2023/04/fizzassertscontrol.png
+  - /img/2023/apr04/fizzassertscontrol.png
 slug: fizz-asserts-control
 show_thumbnail: true
 ---
@@ -35,11 +35,11 @@ In fact, the mind-blowing awfulness of most Fizz content has led many, including
 
 On top of that, Fizz is not available for web or Android, which means these numbers only include iPhone users. This makes me extremely ඞSUSඞ of Fizz founders’ claim that “95% of Stanford undergraduates have downloaded the app.”
 
-![](/img/2023/04/fizz_1.png)
+![](/img/2023/apr04/fizz_1.png)
 
 _And now we’re sh*tting on the honor code! Wow guys, look at us and our clever, funny, relatable, cool, and good content! Hey, psst, what if… we collaborated on the 1 (one) non-collab problem on this set…? Haha, jk… unless?_
 
-![](/img/2023/04/fizz_2.png)
+![](/img/2023/apr04/fizz_2.png)
 
 _Do I even need to explain how toxic this is?_
 

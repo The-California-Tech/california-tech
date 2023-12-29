@@ -9,7 +9,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 3
 weight: 0
-thumbnail: /img/2023/04/11/sean.jpg
+thumbnail: /img/2023/apr04/11/sean.jpg
 show_thumbnail: false
 sidebar: right
 toc: true
@@ -34,7 +34,7 @@ For the entirety of the Winter 2023 term, they were only able to find an interim
 
 The new permanent director, Sean Cutting, didn’t start until Spring Break 2023. Dean Nye insisted that 3 months is a pretty short turnaround time for hiring in academia – “This is just what happens when a professional leaves.”
 
-![](/img/2023/04/11/sean.jpg)
+![](/img/2023/apr04/11/sean.jpg)
 
 ***Meet Sean!***
 

@@ -9,7 +9,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 3
 weight: 0
-thumbnail: /img/2023/04/11/bowigi.png
+thumbnail: /img/2023/apr04/11/bowigi.png
 show_thumbnail: false
 sidebar: right
 toc: true
@@ -21,7 +21,7 @@ widgets:
   - editorial
 summary: " I’ll make no bones about it. The Super Mario Bros. Movie was easily the most anticipated movie of the year, if not the last decade."
 images:
-  - /img/2023/04/11/bowigi.png
+  - /img/2023/apr04/11/bowigi.png
 slug: super-mario-bros
 ---
 
@@ -37,7 +37,7 @@ In this film, the Mario brothers are humble plumbers in a futuristic dictatorshi
 
 The Super Mario Bros. Movie should also be celebrated for its representation of LBGTQ characters, which is refreshingly novel for an Illumination film. Contrary to what you might expect, they were not satisfied with just including Birdo for a short gag. The mainstream media will likely focus on the lesbian relationship that blossoms between the historically helpless “Princesses'' Peach and Daisy (befitting this film’s progressive sentiments, these characters have been changed from actual monarchs to mafia bosses). But attention should also be given to the strong erotic undertones that were painted between Luigi and Bowser. While not an explicit relationship like Peasy, Bow-igi felt raw and visceral from the moment Bowser first caressed Luigi’s cheek. The depth of visual references to common yaoi tropes was a welcome surprise.
 
-![Bow-igi](/img/2023/04/11/bowigi.png)
+![Bow-igi](/img/2023/apr04/11/bowigi.png)
 *Art credit: [@marsoid](https://marsoid.tumblr.com/) on Tumblr*
 
 I want to end on one final note: this movie succeeds as a love letter to the fans. A good film is a good film, of course, and this film can be enjoyed by anyone. But when it comes to an adaptation, especially an adaptation of something as widespread and beloved as Mario, it’s gratifying to see a true passion for the source material shine through. As I mentioned above, the story itself is heavily inspired by some of the great Mario stories that have come before; I’m sure any fan of these stories will be happy to see them revived on the big screen. But there are little touches too: cameos of characters both beloved and obscure, subtle visual flairs calling back to past games, and references to well-known memes and in-jokes from the fan community. The one that will likely receive the most buzz was the short appearance of Bowsette, a popular fan character. (Another win for the trans community!)

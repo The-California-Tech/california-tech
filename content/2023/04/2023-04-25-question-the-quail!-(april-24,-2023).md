@@ -8,7 +8,7 @@ categories:
 tags:
   - 'Vol. CXXVI, Issue 4'
 weight: 0
-thumbnail: /img/2023/04/24/quail.png
+thumbnail: /img/2023/apr04/24/quail.png
 show_thumbnail: true
 sidebar: right
 toc: true
@@ -22,7 +22,7 @@ summary: >-
   A new advice column about life, love, classes, and everything in between!
   Brought to you by the one and only California Tech.
 images:
-  - /img/2023/04/24/quail.png
+  - /img/2023/apr04/24/quail.png
 slug: question-the-quail-april-24-2023
 ---
 

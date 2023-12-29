@@ -8,7 +8,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 4
 weight: 0
-thumbnail: /img/2023/04/24/tree.jpg
+thumbnail: /img/2023/apr04/24/tree.jpg
 show_thumbnail: false
 sidebar: right
 toc: true
@@ -20,13 +20,13 @@ widgets:
   - editorial
 summary: "Standing tall on Caltech campus, an Engelmann Oak towered over Hameetman Center right outside of the Red Door café exit. Then it fell on March 2."
 images:
-  - /img/2023/04/24/tree.jpg
+  - /img/2023/apr04/24/tree.jpg
 slug: red-door-tree
 ---
 
 Standing tall on Caltech campus, an Engelmann Oak towered over Hameetman Center right outside of the Red Door café exit. Then it fell on March 2. The fallen tree blocked the walkway from the North Houses and Browne Dining Hall to Spalding and Keck. Security soon surrounded the tree and blocked off the area with caution tape. Upon questioning about the fate of the tree, security responded that the arborist would come to cut down the tree, and the walkway was free the next day. To this day, no replacement tree has been planted and there is a vacant pit where the original tree stood. 
 
-![](/img/2023/04/24/tree.jpg)
+![](/img/2023/apr04/24/tree.jpg)
 {.post__image}
 One day later: “The larger they are, the faster the groundkeepers bring out the chainsaws.” - Anonymous
 {style="text-align: center;font-size: 0.8em;"}

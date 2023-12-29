@@ -7,7 +7,7 @@ authors:
   - Ankita Nandi
 tags:
   - Vol. CXXVI, Issue 1
-thumbnail: img/2023/03/housing.jpg
+thumbnail: img/2023/mar03/housing.jpg
 sidebar: right
 toc: true
 widgets:

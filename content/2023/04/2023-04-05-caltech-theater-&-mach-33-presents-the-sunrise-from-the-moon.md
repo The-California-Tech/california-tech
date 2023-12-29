@@ -8,7 +8,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 3
 weight: 0
-thumbnail: /img/2023/04/11/tacit.jpg
+thumbnail: /img/2023/apr04/11/tacit.jpg
 sidebar: right
 toc: true
 widgets:
@@ -19,7 +19,7 @@ widgets:
   - editorial
 summary: “Space, Love, Loss, Jellyfish, and lots of Vanilla Coke.” Tickets available [here](https://www.eventbrite.com/e/the-sunrise-from-the-moon-tickets-615137301227)
 images:
-  - /img/2023/04/moon_poster.jpeg
+  - /img/2023/apr04/moon_poster.jpeg
 show_thumbnail: true
 ---
 

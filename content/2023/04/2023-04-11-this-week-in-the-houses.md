@@ -9,7 +9,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 3
 weight: 0
-thumbnail: /img/2023/04/11/this_week_in_the_houses.png
+thumbnail: /img/2023/apr04/11/this_week_in_the_houses.png
 show_thumbnail: false
 sidebar: right
 toc: true
@@ -21,7 +21,7 @@ widgets:
   - editorial
 summary: " "
 images:
-  - /img/2023/04/11/this_week_in_the_houses.png
+  - /img/2023/apr04/11/this_week_in_the_houses.png
 ---
 
-![](/img/2023/04/11/this_week_in_the_houses.png)
+![](/img/2023/apr04/11/this_week_in_the_houses.png)

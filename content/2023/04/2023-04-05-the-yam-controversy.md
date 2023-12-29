@@ -8,7 +8,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 2
 weight: 0
-thumbnail: /img/2023/04/yam.jpg
+thumbnail: /img/2023/apr04/yam.jpg
 sidebar: right
 toc: true
 widgets:
@@ -19,7 +19,7 @@ widgets:
   - editorial
 summary: November 2021 – I was but a young naïve frosh, getting my dinner from open kitchen. I sighted orange disks of vegetables and was full of hope, sweet potatoes iare some of my favorite foods. However, my hope quickly turned to confusion when the person in front of me ordered “yams”.
 images:
-  - /img/2023/04/yam.jpg
+  - /img/2023/apr04/yam.jpg
 slug: yam-controversy
 show_thumbnail: true
 ---

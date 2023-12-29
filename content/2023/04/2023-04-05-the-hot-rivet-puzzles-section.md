@@ -9,7 +9,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 2
 weight: 0
-thumbnail: /img/2023/04/last_week_crossword.jpg
+thumbnail: /img/2023/apr04/last_week_crossword.jpg
 sidebar: right
 toc: false
 widgets:
@@ -20,7 +20,7 @@ widgets:
   - editorial
 summary: " "
 images:
-  - /img/2023/04/last_week_crossword.jpg
+  - /img/2023/apr04/last_week_crossword.jpg
 show_thumbnail: false
 ---
 
@@ -30,10 +30,10 @@ show_thumbnail: false
 ---
 
 ## Challenge Puzzles
-![](/img/2023/04/puzzle_2.png)
+![](/img/2023/apr04/puzzle_2.png)
 
 ### Bonus Question
-![](/img/2023/04/puzzle_1.png)
+![](/img/2023/apr04/puzzle_1.png)
 
 ---
 

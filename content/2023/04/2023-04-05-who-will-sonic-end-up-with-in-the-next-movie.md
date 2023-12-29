@@ -9,7 +9,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 2
 weight: 0
-thumbnail: /img/2023/04/Sonic-Movie-3_08-08-22.jpg
+thumbnail: /img/2023/apr04/Sonic-Movie-3_08-08-22.jpg
 sidebar: right
 toc: true
 widgets:
@@ -20,7 +20,7 @@ widgets:
   - editorial
 summary: "In the leadup to the third feature film in the Sonic the Hedgehog cinematic universe, the Sonic fandom eagerly awaits the answer to one of gaming’s most prominent questions: who will be Sonic’s relationship partner?"
 images:
-  - /img/2023/04/Sonic-Movie-3_08-08-22.jpg
+  - /img/2023/apr04/Sonic-Movie-3_08-08-22.jpg
 show_thumbnail: true
 ---
 _With a cast as large as Sonic the Hedgehog's, Sonic has no shortage of potential romantic partners._

@@ -11,7 +11,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 1
 weight: 0
-thumbnail: /img/2023/03/Ravery3.png
+thumbnail: /img/2023/mar03/Ravery3.png
 sidebar: right
 toc: true
 widgets:
@@ -22,7 +22,7 @@ widgets:
   - editorial
 summary: " "
 images:
-  - /img/2023/03/Ricketts (1).jpg
+  - /img/2023/mar03/Ricketts (1).jpg
 slug: winter-term-interhouse-spotlight
 show_thumbnail: false
 ---
@@ -55,9 +55,9 @@ A: To prepare, we obviously had the task of building the dance floor, setting up
 
 A: There are always a few complications with being the first one. The first is time: we just have to rush and build the party as fast as we can, which can be really stressful. Secondly, we definitely set the tone for how parties are run, expectations for the party and future interhouses can definitely be set and that comes with the entire process, from how construction is done to the kinds of cool things that are built and made to how problems are solved during the party. I think we did a really good job of that, and the parties that came after us were able to learn from our mistakes and throw even better parties which was awesome to see.
 
-![](/img/2023/03/Page%20(1).JPG)
-![](/img/2023/03/Page%20(2).JPG)
-![](/img/2023/03/Page%20(3).JPG)
+![](/img/2023/mar03/Page%20(1).JPG)
+![](/img/2023/mar03/Page%20(2).JPG)
+![](/img/2023/mar03/Page%20(3).JPG)
 
 ## Ravery: The Last Airbender
 
@@ -91,10 +91,10 @@ _Q: How were the turnouts? Did you get more or less people than expected?_
 
 A: I think it was about as much as we expected. It was good, and it was nice that it was not during another Interhouse like it was last year. So, I think we had a very good turnout. Avery had a good time. Everything was pretty well-attended. The food we ran out of and the games were well-attended the whole time. The dance floor takes a while to warm up, but I think it got pretty well-populated at the end.
 
-![](/img/2023/03/Ravery1.png)
-![](/img/2023/03/Ravery2.png)
-![](/img/2023/03/Ravery3.png)
-![](/img/2023/03/Ravery4.png)
+![](/img/2023/mar03/Ravery1.png)
+![](/img/2023/mar03/Ravery2.png)
+![](/img/2023/mar03/Ravery3.png)
+![](/img/2023/mar03/Ravery4.png)
 
 ## Ricketts Interhovse — A Once in a Lifetime Trip to Camp Rowdy!
 
@@ -116,11 +116,11 @@ A: The better question is what wasn’t difficult. We had to hire roofers to ins
 
 We definitely worked up until the final moments before Interhouse, especially on the bigger set pieces. We really gave our all to create all the decorations, and, in the end, it all came together beautifully. 
 
-![](/img/2023/03/Ricketts%20(1).jpg)
-![](/img/2023/03/Ricketts%20(2).jpg)
-![](/img/2023/03/Ricketts%20(3).jpg)
-![](/img/2023/03/Ricketts%20(4).jpg)
-![](/img/2023/03/Ricketts%20(5).jpg)
+![](/img/2023/mar03/Ricketts%20(1).jpg)
+![](/img/2023/mar03/Ricketts%20(2).jpg)
+![](/img/2023/mar03/Ricketts%20(3).jpg)
+![](/img/2023/mar03/Ricketts%20(4).jpg)
+![](/img/2023/mar03/Ricketts%20(5).jpg)
 
 ## OPI: A Story of Fairytales and Shrek
 
@@ -156,10 +156,10 @@ I: Come if you want! OPI isn’t a party where we try to make everyone come. It�
 
 K: I think we did a really good job this year. I’m gonna be really stressed finishing it up because of course I will be. I hope people can come and have a good time. 
 
-![](/img/2023/03/OPI_1.jpg)
-![](/img/2023/03/OPI_2.jpg)
-![](/img/2023/03/OPI_3.jpg)
-![](/img/2023/03/OPI_4.jpg)
+![](/img/2023/mar03/OPI_1.jpg)
+![](/img/2023/mar03/OPI_2.jpg)
+![](/img/2023/mar03/OPI_3.jpg)
+![](/img/2023/mar03/OPI_4.jpg)
 
 
 ## Dabney's Eldritch Interhovse: Deep Sea Horror
@@ -194,4 +194,4 @@ _Q: Who made the flier?_
 
 A: Jen Hu
 
-![](/img/2023/03/DEI.png)
+![](/img/2023/mar03/DEI.png)

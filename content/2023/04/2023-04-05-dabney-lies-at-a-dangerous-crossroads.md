@@ -8,7 +8,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 2
 weight: 0
-thumbnail: /img/2023/04/urine.jpg
+thumbnail: /img/2023/apr04/urine.jpg
 sidebar: right
 toc: true
 widgets:
@@ -19,7 +19,7 @@ widgets:
   - editorial
 summary: What do you do when the cure is worse than the disease?
 images:
-  - /img/2023/04/urine.jpg
+  - /img/2023/apr04/urine.jpg
 slug: dabney-lies-dangerous-crossroads
 show_thumbnail: true
 ---

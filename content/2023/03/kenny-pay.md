@@ -9,7 +9,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 1
 weight: 0
-thumbnail: img/2023/03/kenny-pay.jpg
+thumbnail: img/2023/mar03/kenny-pay.jpg
 sidebar: right
 toc: true
 widgets:
@@ -20,7 +20,7 @@ widgets:
   - editorial
 summary: It was a simpler time three years ago.
 images:
-  - /img/2023/03/kenny-pay.jpg
+  - /img/2023/mar03/kenny-pay.jpg
 show_thumbnail: true
 ---
 

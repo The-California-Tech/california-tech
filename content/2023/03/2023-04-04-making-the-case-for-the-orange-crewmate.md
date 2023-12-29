@@ -8,7 +8,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 1
 weight: 0
-thumbnail: /img/2023/03/amogus.jpeg
+thumbnail: /img/2023/mar03/amogus.jpeg
 sidebar: right
 toc: true
 widgets:
@@ -19,7 +19,7 @@ widgets:
   - editorial
 summary: " 2022's Frosh Camp Counselors attempted rallied in support of getting all incoming frosh orange crewmate plushies from the video game *Among Us*."
 images:
-  - /img/2023/03/amogus.jpeg
+  - /img/2023/mar03/amogus.jpeg
 show_thumbnail: true
 ---
 

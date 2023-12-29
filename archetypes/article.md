@@ -7,7 +7,7 @@ tags:
   - "Vol. CXXVII, Issue 1"
 authors:
   - 
-thumbnail: "img/2023/03/placeholder.png"
+thumbnail: "img/2023/mar03/placeholder.png"
 # lead: "Example lead - highlighted near the title" # Lead text
 sidebar: "right" # Enable sidebar (on the right side) per page
 toc: true

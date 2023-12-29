@@ -8,7 +8,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 1
 weight: 0
-thumbnail: /img/2023/03/quail.png
+thumbnail: /img/2023/mar03/quail.png
 sidebar: right
 toc: false
 widgets:
@@ -19,7 +19,7 @@ widgets:
   - editorial
 summary: A new advice column about life, love, classes, and everything in between! Brought to you by the one and only California Tech.
 images:
-  - /img/2023/03/quail.png
+  - /img/2023/mar03/quail.png
 slug: question-quail-1
 show_thumbnail: true
 ---

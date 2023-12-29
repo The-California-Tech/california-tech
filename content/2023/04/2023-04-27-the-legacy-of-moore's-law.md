@@ -8,7 +8,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 4
 weight: 0
-thumbnail: /img/2023/04/24/moore1.jpg
+thumbnail: /img/2023/apr04/24/moore1.jpg
 show_thumbnail: false
 sidebar: right
 toc: true
@@ -20,8 +20,8 @@ widgets:
   - editorial
 summary: "Flashback to 1965. The integrated circuit was already heralding a revolution in computation, empowering Fairchild Semiconductor to become its sole profitable manufacturer in the United States."
 images:
-  - /img/2023/04/24/moore2.jpg
-  - /img/2023/04/24/moore1.jpg
+  - /img/2023/apr04/24/moore2.jpg
+  - /img/2023/apr04/24/moore1.jpg
 slug: legacy-moore-law
 ---
 
@@ -35,7 +35,7 @@ In the same year in 1975, Moore revised his original forecast rate. Based upon t
 
 The principal technique used to deliver Moore’s Law is by making transistors tinier and tinier. Smaller transistors are faster and more energy-efficient, and have often been cheaper. In fact, it is this reduction in cost that led to Moore’s second law, which formulated that as research and development costs continued to soar to accommodate ‘cramming’ of more and more components into smaller and smaller transistors, the cost of such fabrication plants would increase exponentially over time due to the drop in costs for consumers. 
 
-![Moore’s Law](/img/2023/04/24/moore1.jpg)
+![Moore’s Law](/img/2023/apr04/24/moore1.jpg)
 {.post__image}
 *Gordon Moore and Robert Noyce at Intel in 1970*
 {style="font-size: 0.8em;text-align: center"}
@@ -44,7 +44,7 @@ Today, Moore’s Law has become an almost self-fulfilling prophecy. Numerous org
 
 Moore dedicated his life to constructing revolutionary computer chips, as one of the stalwarts at Fairchild Semiconductor and as one of the founders of what eventually became Intel. Since his passing one month ago today on March 24, where does Moore’s eponymous law leave us?
 
-![Moore’s Law](/img/2023/04/24/moore2.jpg)
+![Moore’s Law](/img/2023/apr04/24/moore2.jpg)
 {.post__image}
 *Salmon fishing with Gordon Moore near Mavericks. Still searching for Moore’s Law of fishing.... “[Moore Fish](https://www.flickr.com/photos/jurvetson/368370/)” by [Steve Jurvetson](https://www.flickr.com/photos/jurvetson/) CC BY 2.0*
 {style="font-size: 0.6em;text-align: center"}

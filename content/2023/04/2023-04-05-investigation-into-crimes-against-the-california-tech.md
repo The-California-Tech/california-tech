@@ -8,7 +8,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 2
 weight: 0
-thumbnail: /img/2023/04/Conspiracy.jpg
+thumbnail: /img/2023/apr04/Conspiracy.jpg
 sidebar: right
 toc: false
 widgets:
@@ -19,7 +19,7 @@ widgets:
   - editorial
 summary: I aim to keep the general public informed about this dangerous individual as well as garner information which will help lead to his capture.
 images:
-  - /img/2023/04/Conspiracy.jpg
+  - /img/2023/apr04/Conspiracy.jpg
 show_thumbnail: true
 ---
 

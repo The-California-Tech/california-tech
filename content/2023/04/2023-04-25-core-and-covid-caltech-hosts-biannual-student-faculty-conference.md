@@ -63,4 +63,4 @@ Overall, the committee wants core to allow students to explore fields of their c
 
 Possible topics to investigate in the future include teaching quality of core sciences, usefulness of pseudo-core classes like Ph 2 and Ma 3, and topic-splitting courses like B1 b, Bi 1 g, and Bi1 x.
 
-![](/img/2023/04/24/sfc_frosh_sched.png)
+![](/img/2023/apr04/24/sfc_frosh_sched.png)

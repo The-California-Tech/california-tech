@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/04/fizzassertscontrol.png
+thumbnail: /img/2023/apr04/fizzassertscontrol.png
 images:
-  - /img/2023/04/fizzassertscontrol.png
+  - /img/2023/apr04/fizzassertscontrol.png
 sidebar: right
 toc: false
 widgets:
