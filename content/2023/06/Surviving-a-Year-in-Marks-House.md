@@ -10,9 +10,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/06/13/housing_marxroom.png
+thumbnail: /img/2023/june13/13/housing_marxroom.png
 images:
-  - /img/2023/06/13/housing_marxroom.png
+  - /img/2023/june13/13/housing_marxroom.png
 sidebar: right
 toc: false
 widgets:

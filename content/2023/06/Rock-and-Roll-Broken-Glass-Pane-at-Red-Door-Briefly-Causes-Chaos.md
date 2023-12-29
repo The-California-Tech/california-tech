@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/06/13/broken_window.jpg
+thumbnail: /img/2023/june13/13/broken_window.jpg
 images:
-  - /img/2023/06/13/broken_window.jpg
+  - /img/2023/june13/13/broken_window.jpg
 sidebar: right
 toc: false
 widgets:
@@ -37,4 +37,4 @@ Chatting with the security officers and curious bystanders at the scene gave thi
 
 Soon after leaving the scene, the author of this article coincidentally ran into student responsible for the damage, who concurred with reports from bystanders that they were simply trying to get the attention of a friend inside the cafe by "\[rolling] a rock to them." However, this plan went away when the rock "skipped" up one of the cracks in the sidewalk and made contact with the glass panel. Security officers were on scene, so it is not unreasonable to assume that administrators know this student's identity. Only time will tell us if our rock roller is CRCed for their crack.
 
-{{% post__image image="/img/2023/06/13/broken_window.jpg" %}}
+{{% post__image image="/img/2023/june13/13/broken_window.jpg" %}}

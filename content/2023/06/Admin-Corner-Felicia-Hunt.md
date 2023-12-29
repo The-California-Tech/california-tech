@@ -8,9 +8,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/06/13/ORE_Staff_1.width-1600.png
+thumbnail: /img/2023/june13/13/ORE_Staff_1.width-1600.png
 images:
-  - /img/2023/06/13/ORE_Staff_1.width-1600.png
+  - /img/2023/june13/13/ORE_Staff_1.width-1600.png
 sidebar: right
 toc: false
 widgets:

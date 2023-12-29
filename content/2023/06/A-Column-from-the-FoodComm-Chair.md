@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/06/13/Farmer's Market 5.jpg
+thumbnail: /img/2023/june13/13/Farmer's Market 5.jpg
 images:
-  - /img/2023/06/13/Farmer's Market 5.jpg
+  - /img/2023/june13/13/Farmer's Market 5.jpg
 sidebar: right
 toc: false
 widgets:

@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/06/13/magic_eye2.png
+thumbnail: /img/2023/june13/13/magic_eye2.png
 images:
-  - /img/2023/06/13/magic_eye2.png
+  - /img/2023/june13/13/magic_eye2.png
 sidebar: right
 toc: false
 widgets:

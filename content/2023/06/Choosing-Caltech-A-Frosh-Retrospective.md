@@ -10,9 +10,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/06/13/trebuchet.jpeg
+thumbnail: /img/2023/june13/13/trebuchet.jpeg
 images:
-  - /img/2023/06/13/trebuchet.jpeg
+  - /img/2023/june13/13/trebuchet.jpeg
 sidebar: right
 toc: true
 widgets:
@@ -46,6 +46,6 @@ Caltech is where I learned how to deal with not understanding something, and to 
 
 Whether or not Caltech will really allow me to change the world remains to be seen. But so far, it’s lived up to its lofty promises. I couldn’t be happier about choosing Caltech.
 
-{{% post__image image="/img/2023/06/13/trebuchet.jpeg" %}}
+{{% post__image image="/img/2023/june13/13/trebuchet.jpeg" %}}
 
 "Nika (left) and Jaylen (right), building a trebuchet for Blackerthon. ʎɐpoʇ ǝɹǝɥ llɐ noʎ pǝɹǝɥʇɐƃ ǝʌɐɥ I ʎɥʍ ƃuᴉɹǝpuoʍ ǝq ʎɐɯ no⅄.”

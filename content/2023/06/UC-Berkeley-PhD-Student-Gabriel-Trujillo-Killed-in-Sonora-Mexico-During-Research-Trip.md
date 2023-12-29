@@ -10,9 +10,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/06/gabriel_trujillo_finelab.jpeg
+thumbnail: /img/2023/june13/gabriel_trujillo_finelab.jpeg
 images:
-  - /img/2023/06/gabriel_trujillo_finelab.jpeg
+  - /img/2023/june13/gabriel_trujillo_finelab.jpeg
 sidebar: right
 toc: false
 widgets:
@@ -38,4 +38,4 @@ He will have two funeral services: a traditional one in Fenton, Michigan on July
 
 [https://www.gofundme.com/f/gabriel-trujillos-funeral-celebration-of-life](https://www.gofundme.com/f/gabriel-trujillos-funeral-celebration-of-life) [https://www.sharpfuneralhomes.com/obituaries/gabriel-trujillo](https://www.sharpfuneralhomes.com/obituaries/gabriel-trujillo)
 
-{{% post__image image="/img/2023/06//gabriel_trujillo_buttonwood_mexico.jpg" %}}
+{{% post__image image="/img/2023/june13//gabriel_trujillo_buttonwood_mexico.jpg" %}}

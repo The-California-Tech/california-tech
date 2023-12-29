@@ -41,8 +41,8 @@ Tolerance of these behaviors breeds the grounds for sexual assault and violence.
 
 Some may point out that this is true of most colleges and maybe even worse at others. But isn't the goal of Caltech to be Less Like Other Colleges and create a space that actually feels safe for the 45% of undergraduates who chose to attend this school for its professed values? We deserve to be somewhere where we can learn and thrive, not somewhere that tells us that the consequence for sexual assault is being banished to the newest and nicest housing development on campus. Not somewhere that, despite all of their lofty announcements about increasing equity, continues to send the message every day that the Title IX office is just a building where you can expect to hear a response that ChatGPT and a lawyer could have generated. Caltech, please do better.
 
-{{% post__image image="/img/2023/09/Gender-UndergradsGrads-Fall2022.max-1400x800.jpg" %}}
+{{% post__image image="/img/2023/sept19/Gender-UndergradsGrads-Fall2022.max-1400x800.jpg" %}}
 
-{{% post__image image="/img/2023/09/Gender-postdocs-fall2022.original.jpg" %}}
+{{% post__image image="/img/2023/sept19/Gender-postdocs-fall2022.original.jpg" %}}
 
-{{% post__image image="/img/2023/09/Gender-facultystaff-fall2022.original.jpg" %}}
+{{% post__image image="/img/2023/sept19/Gender-facultystaff-fall2022.original.jpg" %}}

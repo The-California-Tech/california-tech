@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/06/13/thanhthanh_comic.JPG.jpg
+thumbnail: /img/2023/june13/13/thanhthanh_comic.JPG.jpg
 images:
-  - /img/2023/06/13/thanhthanh_comic.JPG.jpg
+  - /img/2023/june13/13/thanhthanh_comic.JPG.jpg
 sidebar: right
 toc: false
 widgets:

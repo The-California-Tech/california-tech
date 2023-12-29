@@ -10,9 +10,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/06/13/tetris_grid.png
+thumbnail: /img/2023/june13/13/tetris_grid.png
 images:
-  - /img/2023/06/13/tetris_grid.png
+  - /img/2023/june13/13/tetris_grid.png
 sidebar: right
 toc: false
 widgets:

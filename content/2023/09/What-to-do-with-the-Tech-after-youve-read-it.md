@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 1'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/09/after you read.png
+thumbnail: /img/2023/sept19/after you read.png
 images:
-  - /img/2023/09/after you read.png
+  - /img/2023/sept19/after you read.png
 sidebar: right
 toc: false
 widgets:

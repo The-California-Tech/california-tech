@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 1'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/09/anakin.jpg
+thumbnail: /img/2023/sept19/anakin.jpg
 images:
-  - /img/2023/09/anakin.jpg
+  - /img/2023/sept19/anakin.jpg
 sidebar: right
 toc: false
 widgets:

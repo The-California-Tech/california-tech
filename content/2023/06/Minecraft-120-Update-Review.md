@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/06/13/camel.webp
+thumbnail: /img/2023/june13/13/camel.webp
 images:
-  - /img/2023/06/13/camel.webp
+  - /img/2023/june13/13/camel.webp
 sidebar: right
 toc: false
 widgets:
@@ -45,11 +45,11 @@ There is a single new biome added, the Cherry Blossom Biome, and it is a gorgeou
 
 The winner of the most recent mob vote and the most talked-about mob in this update is the Sniffer. It resembles a moss-covered dinosaur with a large yellow snout. The mob comes from eggs that can be obtained either from breeding two adult Sniffers or, according to Mojang, from brushing suspicious sand (see the Archeology section) in warm ocean ruins. The eggs hatch faster when placed on moss blocks and are almost one square meter in size. The Sniffers will wander around, looking for plants which the player can collect, and will occasionally lay down. They are passive, but not domesticable mobs, meaning that they will need to be fenced in or attached to a lead to prevent them from wandering off.
 
-{{% post__image image="/img/2023/06/13/sniff.webp" %}}
+{{% post__image image="/img/2023/june13/13/sniff.webp" %}}
 
 The other mob released in this update is the camel. The camel, in my opinion, is a mob that is aesthetically very nice but not particularly useful. They sit and move like real-life camels, and as a result, they are very slow. Though in the update, they were boasted to be able to jump great distances, the leap is almost entirely horizontal in its nature and does little for traversing any upward slope. The other main benefit of this mob is that two players can ride it at a time, however, overall, I don’t see much use for this mob practically aside from providing more fauna to the desert biomes.
 
-{{% post__image image="/img/2023/06/13/camel.webp" %}}
+{{% post__image image="/img/2023/june13/13/camel.webp" %}}
 
 ### The Armor Trims
 

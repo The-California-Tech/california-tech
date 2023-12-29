@@ -12,9 +12,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/06/13/housing_guutzinmarx.png
+thumbnail: /img/2023/june13/13/housing_guutzinmarx.png
 images:
-  - /img/2023/06/13/housing_guutzinmarx.png
+  - /img/2023/june13/13/housing_guutzinmarx.png
 sidebar: right
 toc: true
 widgets:
@@ -46,12 +46,12 @@ For the last seven years, Caltech has admitted progressively fewer students to e
 
 Comparable universities such as MIT, Harvard, and Stanford all have had yield rates in the high 70% or low 80% for the past 10 years. Current trends show that Caltech’s yield rate is increasing faster than that of similar colleges, but there is still a large gap. In addition, many of these other institutions have much larger class sizes, around 1,100 for MIT and around 1,500 for Harvard. This means that small changes in yield will not affect them as much. Other universities also have housing lotteries that occur before the decision date in May, but they simply have more space, so a slightly higher than average class size will not be as impactful.
 
-![](/img/2023/06/13/housing_graph1.png)
+![](/img/2023/june13/13/housing_graph1.png)
 
 Timeline of the number of admitted students, since 2002. In the last ten years, Caltech has progressively admitted fewer and fewer students.
 
 
-![](/img/2023/06/13/housing_graph2.png)
+![](/img/2023/june13/13/housing_graph2.png)
 
 Timeline of first-year class size, courtesy of Jared Leadbetter. The incoming class sizes have historically been up and down, with unprecedented peaks in the past that are similar to our current situation.
 
@@ -69,11 +69,11 @@ There are two types of housing available on campus. The most popular is living i
 
 The second type is unaffiliated housing, meant for students who are not a member of a house. Bechtel is one such option. Opening in 2018 and offering a whopping 212 beds, it is the top choice among unaffiliated students. Then comes Marks and Braun. While originally meant to house 30 and 29 students respectively, extra beds and desks have been added to their rooms, thus doubling their original capacity. Not only does the cramped living space make this an undesirable residence for students, but residents there cite constant maintenance issues, including a lack of hot water and broken laundry machines.
 
-{{% post__image image="/img/2023/06/13/housing_marxroom.png" %}}
+{{% post__image image="/img/2023/june13/13/housing_marxroom.png" %}}
 
 A room in Marks, which was originally intended to be a single. Since the pandemic, however, Marks rooms have been adapted to become uncomfortably crowded doubles. That’s one of the reasons why students would prefer to live in Bechtel, if they cannot live in a house.
 
-{{% post__image image="/img/2023/06/13/housing_guutzinmarx.png" %}}
+{{% post__image image="/img/2023/june13/13/housing_guutzinmarx.png" %}}
 
 The Laundry Machine in Marks. There are two washers and two dryers for around 50 residents, the same as in Braun. Michael Gutierrez, 6’1”, shows the cramped space, and comments on the rank smell, not present in the other residences. 
 

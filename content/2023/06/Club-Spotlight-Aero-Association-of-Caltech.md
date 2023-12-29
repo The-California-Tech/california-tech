@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/06/13/adele_aacit.jpg
+thumbnail: /img/2023/june13/13/adele_aacit.jpg
 images:
-  - /img/2023/06/13/adele_aacit.jpg
+  - /img/2023/june13/13/adele_aacit.jpg
 sidebar: right
 toc: false
 widgets:
@@ -32,7 +32,7 @@ Learn to Fly with the Aero Association of Caltech (AACIT)
 
 While Techer culture boasts many peculiarities in the form of zany pranks, Ditch Days, interhouses, LN2 dipped pumpkins shattering at terminal velocity, and many more activities contributing to the “quirkiness” of a Caltech undergraduate experience, unbeknownst to most is the existence of the Aero Association of Caltech (AACIT), founded by chemical physics graduate student Dave Cartwright in 1966. A little over 58 and a half years ago, the following was posted in the California Tech, ‘Anyone interested in flying, learning to fly, buying a plane, sightseeing, etc., come to the meeting of the Caltech Flying Club tonight at 7:30 in Winnett Clubroom 1.’ ([Learn to Fly](http://caltechcampuspubs.library.caltech.edu/639/1/1964_11_12_66_08.pdf), The California Tech, November 12, 1964.) (The California Tech LXVI). 
 
-{{% post__image image="/img/2023/06/13/aacit.png" %}}
+{{% post__image image="/img/2023/june13/13/aacit.png" %}}
 
 From its humble 18 member and single Cessna 150 origins, present day AACIT owns and maintains a fleet of 7 single-engine land airplanes based out of the San Gabriel Valley Airport (KEMT), colloquially referred to at El Monte. AACIT was founded for members of the Caltech and JPL community with the certainty that some Caltech students are going to fly, more literally than figuratively. This certainty should be compensated with the allocation of a club in which students could fly safely, in addition to “providing more available flying time for less money” (aacit.org). With several full and part-time instructors, AACIT members are granted the opportunity to train for any of several pilot certificates, including Private Pilot, Instrument Flight Rating (IFR), Commercial Pilot, and more.
 

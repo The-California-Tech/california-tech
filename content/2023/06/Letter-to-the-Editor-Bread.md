@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/06/13/garlicbread.JPG
+thumbnail: /img/2023/june13/13/garlicbread.JPG
 images:
-  - /img/2023/06/13/garlicbread.JPG
+  - /img/2023/june13/13/garlicbread.JPG
 sidebar: right
 toc: false
 widgets:

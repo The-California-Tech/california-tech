@@ -11,9 +11,9 @@ tags:
   - 'Vol. CXXVII, Issue 1'
 weight: 0
 show_thumbnail: true
-thumbnail: /img/2023/09/judd.jpg
+thumbnail: /img/2023/sept19/judd.jpg
 images:
-  - /img/2023/09/judd.jpg
+  - /img/2023/sept19/judd.jpg
 sidebar: right
 toc: false
 widgets:

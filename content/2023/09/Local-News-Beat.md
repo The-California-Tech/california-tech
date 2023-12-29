@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 1'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2023/09/local-news-porkchop.png
+thumbnail: /img/2023/sept19/local-news-porkchop.png
 images:
-  - /img/2023/09/local-news-porkchop.png
+  - /img/2023/sept19/local-news-porkchop.png
 sidebar: right
 toc: false
 widgets:
@@ -35,7 +35,7 @@ Pasadena recently considered changing their urban wildlife management plan to in
 
 A new city project is set to make a 1.06-mile stretch of Lake more walkable. The project has a budget of ~$3,000,000 with improvements between California Boulevard and the Gold Line station at Corson Street. The project includes 64 new pedestrian streetlights, curb extensions and ADA compliant curbs in addition to the modifications listed in the figure below. The project is set to start construction in September 2023 and finish by spring 2024.
 
-{{% post__image image="/img/2023/09/local-news-porkchop.png" %}}
+{{% post__image image="/img/2023/sept19/local-news-porkchop.png" %}}
 
 The intersection at union street has what the city dubs a “pork chop island” so called due to its tenuous resemblance to the food.
 
