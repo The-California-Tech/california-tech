@@ -5,7 +5,7 @@ authors:
   - Alex Burr
 date: 2023-11-28
 categories:
-  - Campus
+  - Editorial
 tags:
   - 'Vol. CXXVII, Issue 6'
 weight: 0

@@ -4,7 +4,7 @@ authors:
   - Ai-Dan Le
 date: 2023-11-28
 categories:
-  - Campus
+  - Culture
 tags:
   - 'Vol. CXXVII, Issue 6'
 weight: 0

@@ -5,6 +5,7 @@ authors:
 date: 2023-10-17
 categories:
   - Humor
+  - Campus
 tags:
   - 'Vol. CXXVII, Issue 3'
 weight: 0
