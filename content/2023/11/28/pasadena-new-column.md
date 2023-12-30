@@ -4,7 +4,7 @@ authors:
   - Alicia Zhang
 date: 2023-11-28
 categories:
-  - Outside World
+  - Outside News
 tags:
   - 'Vol. CXXVII, Issue 6'
 weight: 0
@@ -21,9 +21,7 @@ widgets:
   - categories
   - recent
 summary: >-
-  Looking to get your holiday light fix? Check out these locations:
-    **Holiday Light Spotting in the Neighborhoods:**
-    **Christmas Tree Lane**
+  Come enjoy the true holiday spirit at one of the oldest Christmas light displays in a tradition going back over a hundred years. The all-volunteer group bedazzles nearly a mile of the street with lights lining all the trees in a beautiful display of community. Be sure to come to the Lighting Ceremony and Winter Festival on December 9 at the Altadena Public Library.
 ---
 
 Looking to get your holiday light fix? Check out these locations:
