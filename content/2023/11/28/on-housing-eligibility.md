@@ -5,7 +5,7 @@ authors:
   - Sam Foxman
 date: 2023-11-28
 categories:
-  - Universe
+  - Letter to the Community
 tags:
   - 'Vol. CXXVII, Issue 6'
 weight: 0

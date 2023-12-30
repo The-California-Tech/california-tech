@@ -21,7 +21,8 @@ widgets:
   - categories
   - recent
 summary: >-
-  * Unleash Your Inner Prankster with Caltech's Official Prank Club!
+  WHY JOIN US?
+  Dive into a world where cunningness knows no bounds! The Caltech Prank Club is your ticket to a community of masterminds who transform the ordinary into the extraordinary. Our pranks are legendary, and our laughter is contagious. From harmless hijinks to mind-bending setups, we redefine the meaning of fun!
 ---
 
 
