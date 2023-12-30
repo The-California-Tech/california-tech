@@ -1,5 +1,5 @@
 ---
-title: "CalTech Eliminates All Waste from Campus Operations – Part of a long-term push for (.*)-neutrality, Institute says"
+title: "CalTech Eliminates All Waste from Campus Operations"
 authors:
   - Michael Gutierrez
 date: 2023-11-28

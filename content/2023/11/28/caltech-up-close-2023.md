@@ -5,7 +5,7 @@ authors:
   - Michael Gutierrez
 date: 2023-11-28
 categories:
-  - Humor
+  - News
 tags:
   - 'Vol. CXXVII, Issue 6'
 weight: 0
