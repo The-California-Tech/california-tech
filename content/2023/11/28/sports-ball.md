@@ -1,5 +1,5 @@
 ---
-title: "Sportspabll"
+title: "Embracing the Joy of Loss: A Heartfelt Reflection on Dabney’s Spirited Interhouse Basketball Season"
 authors: []
 date: 2023-11-28
 categories:
