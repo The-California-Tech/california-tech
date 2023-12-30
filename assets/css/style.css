@@ -429,8 +429,8 @@ select {
 }
 
 .logo--mixed .logo__img {
-	width: 10vw;
-	border-radius: 50%;
+	width: 100vw;
+	/* border-radius: 50%; */
 }
 
 .logo--mixed .logo__text {
