@@ -23,7 +23,7 @@ widgets:
   - taglist
   - categories
   - recent
-summary: ''
+summary: 'Oh, and I was a first-term freshman.'
 ---
 
 This is two-years-old news by now, because the Tech wasn’t publishing much in 2021. But I feel it’s an important story to document nevertheless.
