@@ -8,7 +8,7 @@ date: 2024-01-16T20:14:39.702Z
 categories:
   - Editorial
 tags:
-  - 'Vol. CXXVII, Issue 2'
+  - 'Vol. CXXVII, Issue 7'
 weight: 0
 show_thumbnail: true
 thumbnail: /img/2024/jan16/pants.png
@@ -16,6 +16,7 @@ images:
   - /img/2024/jan16/pants.png
 sidebar: right
 toc: false
+slug: pants-fire-frosh-evicted
 widgets:
   - write-for-the-tech
   - editorial

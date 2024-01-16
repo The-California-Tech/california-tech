@@ -80,6 +80,11 @@ export default defineConfig({
             options: [
               "Vol. CXXVII, Issue 1",
               "Vol. CXXVII, Issue 2",
+              "Vol. CXXVII, Issue 3",
+              "Vol. CXXVII, Issue 4",
+              "Vol. CXXVII, Issue 5",
+              "Vol. CXXVII, Issue 6",
+              "Vol. CXXVII, Issue 7",
             ],
             ui: {
               component: "select"
