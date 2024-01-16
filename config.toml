@@ -12,7 +12,7 @@ paginate = "24"
   opengraph = true
   images = ["/bigT.png"]
   description = "The California Tech is a student-run news organization that covers the latest news and events at Caltech and beyond."
-  mainSections = ["2023", "issues"]
+  mainSections = ["2024", "2023", "issues"]
 
 [Params.style.vars]
   highlightColor = "#cc5709" # Override highlight color
@@ -100,7 +100,8 @@ paginate = "24"
     "2023-10-17",
     "2023-10-31",
     "2023-11-14",
-    "2023-11-28"
+    "2023-11-28",
+    "2024-01-16"
   ]
   publicationTags = [
     "Vol. CXXVI, Issue 1",
@@ -116,4 +117,5 @@ paginate = "24"
     "Vol. CXXVII, Issue 4",
     "Vol. CXXVII, Issue 5",
     "Vol. CXXVII, Issue 6",
+    "Vol. CXXVII, Issue 7",
   ]
