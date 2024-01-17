@@ -138,7 +138,7 @@ The unexpected delays are justified by Vatti, who says, “Oftentimes, the compl
 > We are aware and deeply empathize with the frustration and stress that parties experience with timeline extensions. While I cannot share specifics about this matter, the time it has taken reflects the dedication of many people to administer this process not only as required but also with a high degree of care for respecting and protecting the privacy interests inherent in a matter where a hidden camera device was placed in a private residential bathroom.\
 > \
 > We always welcome dialogue with our community members about our processes and obligations, as well as matters in which they are involved. We will keep the community apprised as our required process changes over the next few months, in response to the new regulations anticipated to be released in October.\
->
+> \
 > Best Wishes,\
->
+> \
 > Hima
