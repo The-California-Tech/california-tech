@@ -2,7 +2,7 @@
 title: Feel Free to Cancel Me It’s ok
 authors: 
     - Umran Koca
-date: 2024-01-16T20:14:39.702Z
+date: 2024-01-16
 categories:
     - Opinion
 tags:

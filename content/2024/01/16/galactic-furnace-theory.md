@@ -2,7 +2,7 @@
 title: Galactic Furnace Theory
 authors:
   - Monte Dale
-date: 2024-01-16T20:14:39.702Z
+date: 2024-01-16
 categories:
   - Letter to the Community
 tags:

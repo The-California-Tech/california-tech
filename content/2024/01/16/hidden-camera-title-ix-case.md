@@ -3,7 +3,7 @@ title: Hidden Camera Title IX Case Drags to an End After 16 Months
 authors:
   - Maxwell Montemayor
   - Cristian Ponce
-date: 2024-01-16T08:00:00.000Z
+date: 2024-01-16
 categories:
   - News
 tags:

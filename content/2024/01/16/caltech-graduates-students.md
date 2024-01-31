@@ -3,7 +3,7 @@ title: Caltech Graduate Students and Postdocs Will Vote on Unionization
 authors: 
     - David Abramovitch
     - Sam Whitehead
-date: 2024-01-16T20:14:39.702Z
+date: 2024-01-16
 categories:
     - Opinion
 tags:
