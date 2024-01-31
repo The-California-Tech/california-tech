@@ -2,7 +2,7 @@
 title: Free As In Speech, Not As In Laundry
 authors: 
     - Alem Snyder
-date:
+date: 2024-01-16T20:14:39.702Z
 categories:
     - Opinion
 tags:

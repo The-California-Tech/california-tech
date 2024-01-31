@@ -2,7 +2,7 @@
 title: Dear Orange
 authors: 
     - Coach Annie
-date:
+date: 2024-01-16T20:14:39.702Z
 categories:
     - Caltech Students
 tags:

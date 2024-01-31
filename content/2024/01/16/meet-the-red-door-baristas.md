@@ -2,7 +2,7 @@
 title: Meet the Red Door Baristas
 authors: 
     - Damian Wilson 
-date:
+date: 2024-01-16T20:14:39.702Z
 categories:
     - Humans of Caltech
 tags:

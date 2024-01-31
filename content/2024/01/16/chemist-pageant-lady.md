@@ -2,7 +2,7 @@
 title: "Chemist? Nah, Definitely A Secretary or Pageant Lady (Lessons In Chemistry Apple TV+ series: Season 1 Episode 1: Little Miss Hastings)"
 authors: 
     - Victoria Davis | Managing Editor
-date:
+date: 2024-01-16T20:14:39.702Z
 categories:
     - Culture
 tags:

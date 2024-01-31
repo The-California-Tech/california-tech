@@ -2,7 +2,7 @@
 title: Corrections
 authors:
   - Monte Dale
-date:
+date: 2024-01-16T20:14:39.702Z
 categories:
   - Corrections
 tags:

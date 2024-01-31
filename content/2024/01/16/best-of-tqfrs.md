@@ -2,7 +2,7 @@
 title: "Best of: TQFRs"
 authors: 
     - Tech Staff
-date:
+date: 2024-01-16T20:14:39.702Z
 categories:
     - Academics
 tags:
