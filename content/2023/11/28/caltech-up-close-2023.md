@@ -22,9 +22,7 @@ widgets:
   - categories
   - recent
 summary: >-
-  In mid-October, the Caltech Undergraduate Admissions Office held their annual Caltech Up Close (CUC) event. This year the program accepted 194 high school seniors, nearly double the 103 present the previous year. 
-
-  According to the Undergraduate Admissions website, the program is designed for “students of exceptional promise and will focus on the experiences of students from historically underserved backgrounds in STEM.” Selected participants have opportunities to “Explore Caltech's campus; Connect with campus community members, including faculty and current students; discover undergrad academics, research and internships, as well as student life; Grasp admissions and financial aid processes; and experience a glimpse of life in Southern California.”
+  In mid-October, the Caltech Undergraduate Admissions Office held their annual Caltech Up Close (CUC) event. This year the program accepted 194 high school seniors, nearly double the 103 present the previous year.
 ---
 
 ## INTRODUCTION

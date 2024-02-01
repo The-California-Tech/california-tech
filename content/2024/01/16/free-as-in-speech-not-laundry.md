@@ -14,7 +14,6 @@ images:
 show_thumbnail: false
 sidebar: right
 toc: true
-homepage_list: true
 widgets:
   - write-for-the-tech
   - editorial

@@ -22,7 +22,7 @@ widgets:
   - recent
 summary: >-
   _Introduction:_
-  In the dystopian world of Panem, where each choice defines destinies and the division between good and evil is blurred more often than not, "The Hunger Games: The Ballad of Songbirds and Snakes" dives into the core conflicts present in the entire Hunger Games franchise. Themes of desperation, morality, and the human condition are revisited by diving into the origin story of the tyrannical President Coriolanus Snow, the originator of the state of the Games that we saw in the main franchise. For ASCIT’s annual free movie night held on November 19th, 2023, Caltech students were teleported into the world of the twelve districts and the Capitol to follow along as Coriolanus goes from ambitious student to cold-blooded manipulator. 
+  In the dystopian world of Panem, where each choice defines destinies and the division between good and evil is blurred more often than not, "The Hunger Games: The Ballad of Songbirds and Snakes" dives into the core conflicts present in the entire Hunger Games franchise.
 ---
 
 _Introduction:_

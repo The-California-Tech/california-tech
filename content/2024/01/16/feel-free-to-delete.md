@@ -14,7 +14,7 @@ images:
 show_thumbnail: false
 sidebar: right
 toc: true
-homepage_list: true
+slug: feel-free-to-cancel-me-its-ok
 widgets:
   - write-for-the-tech
   - editorial

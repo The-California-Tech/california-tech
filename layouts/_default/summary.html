@@ -23,7 +23,7 @@
 			{{ $mostRecentDate = $parsedDate }}
 		  {{ end }}
 		{{ end }}
-		  {{ range first 7 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+		  {{ range first 8 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 		  		{{ if not .Params.homepage_list }}
 					<li class="widget__item">
 						[{{ .Date.Format "January 2" }}] <a style="color:#343a40" href="{{ .RelPermalink }}">{{ .Title }}</a><br>

@@ -1,10 +1,10 @@
 ---
 title: Dear Orange
 authors: 
-    - Coach Annie
+    - Orange
 date: 2024-01-16
 categories:
-    - Caltech Students
+    - Culture
 tags:
     - 'Vol. CXXVII, Issue 7'
 weight: 0
@@ -14,7 +14,6 @@ images:
 show_thumbnail: false
 sidebar: right
 toc: true
-homepage_list: true
 widgets:
   - write-for-the-tech
   - editorial

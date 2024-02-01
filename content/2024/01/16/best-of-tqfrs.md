@@ -1,7 +1,6 @@
 ---
 title: "Best of: TQFRs"
 authors: 
-    - Tech Staff
 date: 2024-01-16
 categories:
     - Academics
@@ -14,7 +13,6 @@ images:
 show_thumbnail: false
 sidebar: right
 toc: true
-homepage_list: true
 widgets:
   - write-for-the-tech
   - editorial

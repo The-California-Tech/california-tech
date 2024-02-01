@@ -1,5 +1,5 @@
 ---
-title: "Chemist? Nah, Definitely A Secretary or Pageant Lady (Lessons In Chemistry Apple TV+ series: Season 1 Episode 1: Little Miss Hastings)"
+title: "Chemist? Nah, Definitely A Secretary or Pageant Lady"
 authors: 
     - Victoria Davis | Managing Editor
 date: 2024-01-16
@@ -14,7 +14,6 @@ images:
 show_thumbnail: false
 sidebar: right
 toc: true
-homepage_list: true
 widgets:
   - write-for-the-tech
   - editorial
@@ -22,6 +21,7 @@ widgets:
   - categories
   - recent
 summary: >-
+    (Lessons In Chemistry Apple TV+ series: Season 1 Episode 1: Little Miss Hastings)
     The novel was picked up by Apple TV+ and turned into an eight-episode mini series starring Brie Larson. This recurring column will review each episode from my perspective as an actual woman in chemistry. 
 ---
 

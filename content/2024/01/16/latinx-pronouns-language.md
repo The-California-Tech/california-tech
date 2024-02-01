@@ -14,7 +14,6 @@ images:
 show_thumbnail: false
 sidebar: right
 toc: true
-homepage_list: true
 widgets:
   - write-for-the-tech
   - editorial
@@ -22,7 +21,7 @@ widgets:
   - categories
   - recent
 summary: >-
-    You have probably heard the term _latinx_. You may have even used it before. And if you’re a friend of mine, you’ve probably heard me complain about it. Designed as a more inclusive and gender-neutral alternative to _latino/latina_, many members of the community it sets out to describe (myself included) have problems with it.
+    You have probably heard the term _latinx_. You may have even used it before. And if you’re a friend of mine, you’ve probably heard me complain about it.
 ---
 
 
