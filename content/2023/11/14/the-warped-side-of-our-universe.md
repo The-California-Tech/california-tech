@@ -4,14 +4,14 @@ authors:
   - Lilia Arrizabalaga
 date: 2023-11-14
 categories:
-  - Universe
+  - Culture
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0
-thumbnail: /default2.jpg
+thumbnail: /img/2023/nov14/original.png
 show_thumbnail: false
 images:
-  - /default2.jpg
+  - /img/2023/nov14/original.png
 sidebar: right
 toc: false
 widgets:

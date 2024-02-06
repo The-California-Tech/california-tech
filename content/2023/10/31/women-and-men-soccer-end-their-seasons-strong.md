@@ -8,10 +8,10 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 4'
 weight: 0
-thumbnail: /img/issues/thumbnails/2023-10-31.jpg
+thumbnail: /default3.jpg
 show_thumbnail: false
 images:
-  - /img/issues/thumbnails/2023-10-31.jpg
+  - /default3.jpg
 sidebar: right
 toc: false
 widgets:

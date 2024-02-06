@@ -4,7 +4,7 @@ authors:
   - Lilia Arrizabalaga
 date: 2023-09-19T07:00:00.000Z
 categories:
-  - Off-Campus
+  - The Outside World
 tags:
   - 'Vol. CXXVII, Issue 1'
 weight: 0

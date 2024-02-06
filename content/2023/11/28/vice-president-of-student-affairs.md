@@ -70,3 +70,6 @@ In response to a previous article in the _Tech_ about the Blacker Potato Cannon,
 But, as Dr. Gilmartin pointed out, the same thing happened in 1960 when Caltech started admitting women for the first time. That upset a lot of alumni too; it was an established 70-year-strong tradition to only admit men. That change was forced on the students whether they liked it or not. But looking back, it was obviously the right thing to do.
 
 Dr. Gilmartin believes that changes in tradition come naturally with a changing world. “Traditions are part of the present. They evolve and change over time as communities do.” 
+
+*Correction: This article incorrectly stated that undergraduate women were first admitted to Caltech in 1960. The correct year is 1970. In fact, Caltech first hired a woman (Professor Emeritus Jenijoy La Belle) as part of the tenure track faculty in 1969, who subsequently had to fight for ten years to obtain tenure.*
+*Additionally, admitting undergraduate women was not a change “forced on students whether they like it or not,” as stated in the article. Rather, it came about as a result of very strong student advocacy as well as support from the faculty and administration in 1967 and a special push by Caltech president Harold Brown in 1970, despite opposition by some alumni. Thanks to Richard Wright (BS ‘68, Fleming) for this info.*

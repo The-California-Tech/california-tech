@@ -4,14 +4,14 @@ authors:
   - Elizabeth Field
 date: 2023-11-14
 categories:
-  - Off-Campus
+  - The Outside World
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0
-thumbnail: /img/2023/nov14/original.png
+thumbnail: /default2.jpg
 show_thumbnail: false
 images:
-  - /img/2023/nov14/original.png
+  - /default2.jpg
 sidebar: right
 toc: false
 widgets:
@@ -21,7 +21,7 @@ widgets:
   - categories
   - recent
 summary: >-
-  In the last couple of years, ChatGPT and other AI chatbots have surged into the spotlight as "hot topics" across various domains. From our daily interactions on social media to headline news, these conversational artificial intelligence entities have become prominent features of our lives as well as in the classroom. They’ve found their way into our academic discussions, created questions on our homework assignments, and routinely make appearances in the fine print at the bottom of course syllabi. The question looming over students is: Does ChatGPT present a gateway for academic dishonesty, allowing students to cheat on assignments and compromise their learning? Conversely, could ChatGPT be a revolutionary tool, providing access to a wealth of information to enhance and facilitate learning?
+  In the last couple of years, ChatGPT and other AI chatbots have surged into the spotlight as "hot topics" across various domains. From our daily interactions on social media to headline news, these conversational artificial intelligence entities have become prominent features of our lives as well as in the classroom.
 ---
 
 In the last couple of years, ChatGPT and other AI chatbots have surged into the spotlight as "hot topics" across various domains. From our daily interactions on social media to headline news, these conversational artificial intelligence entities have become prominent features of our lives as well as in the classroom. They’ve found their way into our academic discussions, created questions on our homework assignments, and routinely make appearances in the fine print at the bottom of course syllabi. The question looming over students is: Does ChatGPT present a gateway for academic dishonesty, allowing students to cheat on assignments and compromise their learning? Conversely, could ChatGPT be a revolutionary tool, providing access to a wealth of information to enhance and facilitate learning?

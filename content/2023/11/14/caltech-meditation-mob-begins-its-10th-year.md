@@ -4,7 +4,7 @@ authors:
   - Lee H. Coleman, Ph.D., ABPP, Senior Clinician, Counseling Services
 date: 2023-11-14
 categories:
-  - Off-Campus
+  - Student Life
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0

@@ -4,7 +4,7 @@ authors:
   - Sascha Goldsmith
 date: 2023-06-13T07:00:00.000Z
 categories:
-  - Off-Campus
+  - The Outside World
   - Student Life
 tags:
   - 'Vol. CXXVI, Issue 7'

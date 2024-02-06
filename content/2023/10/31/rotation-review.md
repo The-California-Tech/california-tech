@@ -4,15 +4,14 @@ authors:
   - Sophie Elam
 date: 2023-10-31
 categories:
-  - IHC Chair
   - Campus
 tags:
   - 'Vol. CXXVII, Issue 4'
 weight: 0
-thumbnail: /img/issues/thumbnails/2023-10-31.jpg
+thumbnail: /default2.jpg
 show_thumbnail: false
 images:
-  - /img/issues/thumbnails/2023-10-31.jpg
+  - /default2.jpg
 sidebar: right
 toc: false
 widgets:
@@ -22,7 +21,7 @@ widgets:
   - categories
   - recent
 summary: >-
-   Let me start by saying, it’s not that deep. It’s just exhausting (as I’m sure you all are aware). As we all look back on Rotation, I imagine there are common themes and experiences we all can identify with. For many, if not all, of the returning students this was our first exposure to a “covid-free” Rotation, and this came with certain obligations to do the years of tradition and culture justice. As an Interhouse Committee, one of our primary concerns was to ensure that we did just so, but it can be difficult to recreate something for someone else that you’ve never experienced yourself. This struggle was amplified by a desire and impetus to make Rotation an inclusive and socially responsible event. Thus, many of us felt the stretching of mental gymnastics necessary to reconcile tradition with responsibility. I am incredibly proud of the ways in which student leaders across campus navigated these difficulties; you were empathetic and receptive to the changes that were being asked of you while advocating for the traditions that define the Caltech undergraduate community. 
+   Let me start by saying, it’s not that deep. It’s just exhausting (as I’m sure you all are aware).
 ---
 
 It’s been a month since Rotation ended and I’m finally ready to talk about it again.

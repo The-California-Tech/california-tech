@@ -1,5 +1,5 @@
 ---
-title: Meet the Red Door Baristas
+title: Meet the Red Door Baristas - Paige
 authors: 
     - Damian Wilson 
 date: 2024-01-16

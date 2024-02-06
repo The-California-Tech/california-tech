@@ -5,7 +5,7 @@ authors:
 date: 2023-04-04
 categories:
   - Humor
-  - World
+  - The Outside World
 tags:
   - Vol. CXXVI, Issue 2
 weight: 0

@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 4'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/issues/thumbnails/2023-10-31.jpg
+thumbnail: /default3.jpg
 images:
-  - /img/issues/thumbnails/2023-10-31.jpg
+  - /default3.jpg
 sidebar: right
 toc: false
 widgets:
@@ -54,3 +54,5 @@ In addition to these emails, the C/GPU claims that some in Caltech staff and fac
 “There has been no effort, nor will there be any future action, by the Caltech administration or members of our community to spread misinformation about unionization. The Institute will not tolerate harassment, bullying, discrimination, or retaliation of any kind. We believe that it is imperative that everyone has accurate, clear information about union representation, and most importantly, that everyone has the right to form their own decision and to share that decision without any pressure from Caltech leadership, their peers, faculty colleagues, or other members of the community.”
 
 Whether or not the C/GPU is successful at unionizing, it will have to be a collective decision, made by a majority of graduate students and postdocs. “At the end of the day,” Chan said, “graduate students and postdocs have to decide for themselves what makes the most sense for them, for their present and future colleagues, and for the campus overall. This is their decision to make.”
+
+*Correction: This article claimed that ¾ survey respondents had personally witnessed or experienced some form of bullying or discrimination. The survey (N=251) actually found that “more than 46% of grad students and postdocs who responded reported experiencing or witnessing bullying behavior, sexual harassment, or discrimination based on gender, sexual orientation, race, disability, or immigration status.” See also: Jessica Goodheart’s January 3rd article in The American Prospect magazine.*

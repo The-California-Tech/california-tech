@@ -4,7 +4,7 @@ authors:
   - Alicia Zhang
 date: 2023-11-14
 categories:
-  - Off-Campus
+  - The Outside World
 tags:
   - 'Vol. CXXVII, Issue 5'
 weight: 0

@@ -5,7 +5,7 @@ authors:
 date: 2023-10-17
 categories:
   - Culture
-  - Off-Campus
+  - The Outside World
 tags:
   - 'Vol. CXXVII, Issue 3'
 weight: 0

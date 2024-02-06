@@ -4,7 +4,7 @@ authors:
   - Alicia Zhang
 date: 2023-11-28
 categories:
-  - Outside News
+  - The Outside World
 tags:
   - 'Vol. CXXVII, Issue 6'
 weight: 0

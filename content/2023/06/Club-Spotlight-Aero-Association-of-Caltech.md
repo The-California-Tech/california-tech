@@ -4,7 +4,7 @@ authors:
   - Adele Basturk
 date: 2023-06-13T07:00:00.000Z
 categories:
-  - Off-Campus
+  - The Outside World
 tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0

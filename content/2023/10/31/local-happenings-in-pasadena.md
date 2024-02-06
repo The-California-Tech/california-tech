@@ -4,14 +4,14 @@ authors:
   - Alicia Zhang
 date: 2023-10-31
 categories:
-  - Off-Campus
+  - The Outside World
 tags:
   - 'Vol. CXXVII, Issue 4'
 weight: 0
-thumbnail: /img/issues/thumbnails/2023-10-31.jpg
+thumbnail: /default5.jpg
 show_thumbnail: false
 images:
-  - /img/issues/thumbnails/2023-10-31.jpg
+  - /default3.jpg
 sidebar: right
 toc: false
 widgets:
@@ -21,7 +21,7 @@ widgets:
   - categories
   - recent
 summary: >-
-  **After 20 years, ArroyoFest comes back!** 
+   This past Sunday, thousands in and around the Pasadena area left their cars at home and dusted off their rollerblades, skateboards, and bikes to take the (hopefully not) once in a lifetime chance to traverse the closed Arroyo Seco Parkway. The six lanes and six miles of the winding freeway were closed to cars from 7 a.m. to 11 a.m on Sunday. 
 ---
 
 **After 20 years, ArroyoFest comes back!** 

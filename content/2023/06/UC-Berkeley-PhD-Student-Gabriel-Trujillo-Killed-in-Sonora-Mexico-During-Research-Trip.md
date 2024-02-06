@@ -5,7 +5,7 @@ title: >-
 authors: []
 date: 2023-06-29T21:47:48.256Z
 categories:
-  - World
+  - The Outside World
 tags:
   - 'Vol. CXXVI, Issue 7'
 weight: 0
