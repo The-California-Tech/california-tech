@@ -14,7 +14,7 @@ thumbnail: /img/2023/june13/13/trebuchet.jpeg
 images:
   - /img/2023/june13/13/trebuchet.jpeg
 sidebar: right
-toc: true
+toc: false
 widgets:
   - write-for-the-tech
   - editorial

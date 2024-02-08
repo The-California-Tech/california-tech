@@ -13,7 +13,7 @@ images:
   - /img/2024/feb06/page_crest_current.jpg
 show_thumbnail: false
 sidebar: right
-toc: true
+toc: false
 widgets:
   - write-for-the-tech
   - editorial

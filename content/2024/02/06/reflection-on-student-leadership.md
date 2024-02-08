@@ -13,7 +13,7 @@ images:
   - /img/2024/feb06/for_rich/frosh_wash.jpg
 show_thumbnail: false
 sidebar: right
-toc: true
+toc: false
 widgets:
   - write-for-the-tech
   - editorial

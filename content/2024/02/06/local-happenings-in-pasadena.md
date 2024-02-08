@@ -13,7 +13,7 @@ images:
   - /img/2023/nov14/pleinair.jpg
 show_thumbnail: false
 sidebar: right
-toc: true
+toc: false
 widgets:
   - write-for-the-tech
   - editorial

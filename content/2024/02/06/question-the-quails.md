@@ -13,7 +13,7 @@ images:
   - /img/2023/oct31/spooky_quail.jpeg
 show_thumbnail: false
 sidebar: right
-toc: true
+toc: false
 widgets:
   - write-for-the-tech
   - editorial
