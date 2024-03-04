@@ -24,12 +24,13 @@ summary: >-
 ---
 
 
+
 # ASCIT Winter Elections
 
 
 ## ASCIT Vice President of Non-Academic Affairs / IHC Chair (2 Candidates)
-![V.P OF NON-ACADEMIC AFFAIRS](/img/2024/feb27/candidate-pics/booker.jpeg)
 
+![](/img/2024/feb27/candidate-pics/booker.jpeg)
 ### Jonathan Booker
 
 Hey everyone! For those of you who don’t know me, my name is Jonathan Booker. I’m a junior in Ricketts Hovse studying Physics and Computer Science. During my time here at Caltech, I’ve had the privilege to serve in many campus-wide leadership roles and have been deeply invested in the well-being and future of our community. I’m extremely eager to bring this passion and dedication to the role of IHC Chair and the accompanying role of ASCIT Vice-President of Non-Academic Affairs. We are in a unique situation now, a couple of years since the pandemic, and the campus has returned to fully functioning; however, we are still reeling from the impacts of the pandemic.
@@ -80,7 +81,7 @@ The only issue is the chaos brought on by the influx of animals. In my lengthy c
 
 ## BoC Chair
 
-![](/img/2024/feb27/candidate-pics/Bryan.png)
+![](/img/2024/feb27/candidate-pics/Bryan-wang.png)
 ### Bryan Wang
 
 Hey there! My name is Bryan Wang, and I’m running to be your next BoC Chair. Over the past year as Lloyd BoC rep, I have sat many cases, and throughout all these cases, I have demonstrated my integrity and my impartiality. In the past year, we have seen faculty waver in their belief of the Honor Code through more in person exams and quizzes, more no-collab questions, and stricter extension policies. 
@@ -104,7 +105,7 @@ Hiya everyone! My name is Belle Chen and I’m a s’more running for BoC Chair 
 
 I believe that honor code affords us many of the few nice things we have at Caltech, and it pains me to say that trust in the honor code and between students in general is at an all-time low. As a member of BoC leadership, I hope to work towards restoring this trust through improvements to the BoC’s function and image. There are admittedly shortcomings to the BoC process, and I hope to make a number of internal improvements to smooth these out, including an overhaul of the BoC representative training process. Additionally, I hope to make the BoC process more transparent through the availability of information concerning BoC procedures, along with more data and statistics concerning BoC rulings. Finally, I will use these changes, along with redoubled efforts of community outreach, to advocate for the efficacy and necessity of the BoC to admin and faculty. I would be honored to serve within BoC leadership and would strongly appreciate your vote. 
 
-![](/img/2024/feb27/candidate-pics/GiuliaMurgia_BoCSecretary.png)
+![](/img/2024/feb27/candidate-pics/GiuliaMurgia.png)
 ### Giulia Murgia
 
 Hello everyone! I'm Giulia Murgia, a sophomore studying Astrophysics, and I'm running to be your next BoC Secretary. Throughout my time at Caltech, I have gained an appreciation for the privileges and communal trust associated with the Honor Code. The current system is something unique to Caltech and as the next BoC Secretary I would work to protect and uphold the academic integrity of the student body. In the past year, I've proudly represented Fleming House on the BoC, gaining valuable insights into the crucial work that protects our community. Recently, I've been gaining experience serving as BoC Secretary, and preparing for the role. I believe my dedication, fairness, and experience uniquely position me to best serve the community as BoC Secretary. Feel free to reach out to me by email (gmurgia@caltech.edu) if you want to ask me anything or have any questions about the BoC. Thanks for taking the time to read my statement!
