@@ -1,7 +1,6 @@
 ---
 title: "ASCIT Winter Elections"
 authors: 
-    - Jonathan Booker
 date: 2024-02-27
 categories:
     - News
@@ -29,7 +28,7 @@ summary: >-
 
 
 ## ASCIT Vice President of Non-Academic Affairs / IHC Chair (2 Candidates)
-
+![V.P OF NON-ACADEMIC AFFAIRS](/img/2024/feb27/candidate-pics/booker.jpeg)
 
 ### Jonathan Booker
 
@@ -63,7 +62,7 @@ Cheers,
 
 Jonathan Booker
 
-
+![](/img/2024/feb27/candidate-pics/Evan.jpeg)
 ### Evan Portnoi
 
 To my dearest constituents. My name is Evan Portnoi. I am a junior Flem studying astrophysics, and I am running to be your next IHC Chair. Over my time at Caltech, I have taken pride in helping to run events rather than just participate. I’ve always preferred to ensure that other students’ experiences come before my own, from sacrificing my time as a waiter during rotations to being on Orange Watch during interhouses. My goal as IHC Chair is essentially to do that on a larger scale. You have elected your presidents and chancellors because they know how to advocate for your best interests; I just want to facilitate their goals and make working with the administration as seamless as possible.
@@ -81,14 +80,14 @@ The only issue is the chaos brought on by the influx of animals. In my lengthy c
 
 ## BoC Chair
 
-
+![](/img/2024/feb27/candidate-pics/Bryan.png)
 ### Bryan Wang
 
 Hey there! My name is Bryan Wang, and I’m running to be your next BoC Chair. Over the past year as Lloyd BoC rep, I have sat many cases, and throughout all these cases, I have demonstrated my integrity and my impartiality. In the past year, we have seen faculty waver in their belief of the Honor Code through more in person exams and quizzes, more no-collab questions, and stricter extension policies. 
 
 As BoC chair, I want to help rebuild faculty’s faith in us as a community and help keep the BoC a student-run organization. The Honor Code is a crucial part of the Caltech community. It allows us to have after-hours access to buildings, lenient extension policies, and take-home exams, among several other benefits. With your support, I am committed to accomplishing these goals and serving as your next BoC chair. 
 
-
+![](/img/2024/feb27/candidate-pics/belle_chen.png)
 ### Belle Chen
 
 Hiya everyone! My name is Belle Chen and I’m a s’more running for BoC Chair and Secretary. Over the past year serving as Blacker’s (only) BoC representative, I have sat on 12 of the 20 cases: twice the required amount and more than any other representative. Additionally, I have participated in numerous discussions with BoC leadership and admin to improve how the BoC functions and to ensure that it remains fair to everybody. I believe this experience has provided me a unique perspective and appreciation for the BoC and its inner workings, and I am ready to step up and play an even larger role within it. 
@@ -98,14 +97,14 @@ I believe that honor code affords us many of the few nice things we have at Calt
 
 ## BoC Secretary
 
-
+![](/img/2024/feb27/candidate-pics/belle_chen.png)
 ### Belle Chen
 
 Hiya everyone! My name is Belle Chen and I’m a s’more running for BoC Chair and Secretary. Over the past year serving as Blacker’s (only) BoC representative, I have sat on 12 of the 20 cases: twice the required amount and more than any other representative. Additionally, I have participated in numerous discussions with BoC leadership and admin to improve how the BoC functions and to ensure that it remains fair to everybody. I believe this experience has provided me a unique perspective and appreciation for the BoC and its inner workings, and I am ready to step up and play an even larger role within it. 
 
 I believe that honor code affords us many of the few nice things we have at Caltech, and it pains me to say that trust in the honor code and between students in general is at an all-time low. As a member of BoC leadership, I hope to work towards restoring this trust through improvements to the BoC’s function and image. There are admittedly shortcomings to the BoC process, and I hope to make a number of internal improvements to smooth these out, including an overhaul of the BoC representative training process. Additionally, I hope to make the BoC process more transparent through the availability of information concerning BoC procedures, along with more data and statistics concerning BoC rulings. Finally, I will use these changes, along with redoubled efforts of community outreach, to advocate for the efficacy and necessity of the BoC to admin and faculty. I would be honored to serve within BoC leadership and would strongly appreciate your vote. 
 
-
+![](/img/2024/feb27/candidate-pics/GiuliaMurgia_BoCSecretary.png)
 ### Giulia Murgia
 
 Hello everyone! I'm Giulia Murgia, a sophomore studying Astrophysics, and I'm running to be your next BoC Secretary. Throughout my time at Caltech, I have gained an appreciation for the privileges and communal trust associated with the Honor Code. The current system is something unique to Caltech and as the next BoC Secretary I would work to protect and uphold the academic integrity of the student body. In the past year, I've proudly represented Fleming House on the BoC, gaining valuable insights into the crucial work that protects our community. Recently, I've been gaining experience serving as BoC Secretary, and preparing for the role. I believe my dedication, fairness, and experience uniquely position me to best serve the community as BoC Secretary. Feel free to reach out to me by email (gmurgia@caltech.edu) if you want to ask me anything or have any questions about the BoC. Thanks for taking the time to read my statement!
@@ -113,7 +112,7 @@ Hello everyone! I'm Giulia Murgia, a sophomore studying Astrophysics, and I'm ru
 
 ## CRC Co-Chair
 
-
+![](/img/2024/feb27/candidate-pics/melissa.JPG)
 ### Melissa Foster
 
 The Honor Code is one of the most important parts of life at Caltech. It’s the reason we can have take-home exams and leave things in lounges and expect them to be there the next day. It’s been a privilege to be part of a community where we have this kind of trust, and I’d like to contribute to upholding it as CRC co-chair. The CRC is integral to the functioning of the Honor Code, as is the collaboration and trust between the students, faculty, and administrators who serve on it. As co-chair I aim to continue to maintain that trust and collaboration and advocate for a fair, equitable response to honor code violations.
