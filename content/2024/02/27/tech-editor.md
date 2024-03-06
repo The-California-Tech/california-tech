@@ -27,7 +27,6 @@ summary: >-
 ---
 
 
-## Tech Editor
 
 
 ### Michael Gutierrez and Lilia Arrizabalaga

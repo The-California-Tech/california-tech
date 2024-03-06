@@ -24,10 +24,6 @@ summary: >-
     When I pinged off my Caltech grad application, a little over a year ago, it started something like: _I am passionate about applying to the California Institute of Technology in order to escape the effing rain._
 ---
 
-# Rain: Secrets from a Brit (Who’s seen it all)
-
-
-## William Feasey
 
 When I pinged off my Caltech grad application, a little over a year ago, it started something like: _I am passionate about applying to the California Institute of Technology in order to escape the effing rain._ 
 

@@ -24,10 +24,6 @@ summary: >-
     Reality is usually stranger than fiction. As a member of the Generation “Zoomer,” I habitually inundate my hopelessly instant gratification addicted brain with an astonishing amount of content, which means it’s exceedingly difficult to surprise me. 
 ---
 
-# Theater Review: EXPLiCIT’s _The Real Inspector Hound_
-
-
-## Michael Gutierrez
 
 Reality is usually stranger than fiction. As a member of the Generation “Zoomer,” I habitually inundate my hopelessly instant gratification addicted brain with an astonishing amount of content, which means it’s exceedingly difficult to surprise me. So when I entered Dabney Lounge on Friday night, utterly and thoroughly burned out after a long day of frantically grinding a problem set (AND scrambling to make this issue of the _Tech_ happen), I wasn’t expecting much from the experience. And I was _really_ not expecting to be surprised.
 

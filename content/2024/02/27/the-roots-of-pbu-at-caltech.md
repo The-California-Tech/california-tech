@@ -8,9 +8,9 @@ categories:
 tags:
     - 'Vol. CXXVII, Issue 9'
 weight: 0
-thumbnail: /default3.jpg
+thumbnail: /img/2024/feb27/pbu.png
 images:
-  - /default3.jpg
+  - /img/2024/feb27/pbu.png
 show_thumbnail: false
 sidebar: right
 toc: false
@@ -23,12 +23,6 @@ widgets:
 summary: >-
     The global PBU initiative began with the idea that student activism and radicalism have driven some of the most drastic sustainability changes.
 ---
-
-
-# The Roots of PBU at Caltech
-
-
-## Taylor Knapp
 
 
 
