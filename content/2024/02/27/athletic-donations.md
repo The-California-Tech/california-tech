@@ -25,12 +25,6 @@ summary: >-
 ---
 
 
-
-# Athletic Donations: A Call for Fair Play
-
-
-## Anonymous
-
 **_Editor’s note: We offered anonymity because the author feared reprisal from the athletics department if they expressed these views publicly. Given the Tech’s shortage of reporters, this topic would likely never come to light otherwise._**
 
 To the Editor of the California Tech,

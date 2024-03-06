@@ -24,10 +24,6 @@ summary: >-
 ---
 
 
-
-# ASCIT Winter Elections
-
-
 ## ASCIT Vice President of Non-Academic Affairs / IHC Chair (2 Candidates)
 
 ![](/img/2024/feb27/candidate-pics/booker.jpeg)

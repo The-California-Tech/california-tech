@@ -1,5 +1,5 @@
 ---
-title: "Faculty Petition Speaks to Broader Implications for Undergraduate Admissions"
+title: "Letter to the Editor (Re: previous Title IX article)"
 authors: 
     - Editors
 date: 2024-02-27
@@ -25,9 +25,6 @@ summary: >-
 ---
 
 
-# Letter to the Editor (Re: previous Title IX article)
-
-Editors:
 
 It is a sad fact of life that in corporations, the HR department exists to protect the company from the employees.  Based on the article, it seems that the function of the Title IX office is to protect the Institute from females.
 

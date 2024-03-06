@@ -8,9 +8,9 @@ categories:
 tags:
     - 'Vol. CXXVII, Issue 9'
 weight: 0
-thumbnail: /default3.jpg
+thumbnail: /img/2024/feb27/CGPU_election.png
 images:
-  - /default3.jpg
+  - /img/2024/feb27/CGPU_election.png
 show_thumbnail: false
 sidebar: right
 toc: false
@@ -25,10 +25,7 @@ summary: >-
 ---
 
 
-# Faculty Petition Speaks to Broader Implications for Undergraduate Admissions
 
-
-## Mahak Mathur
 
 Hook: 
 
