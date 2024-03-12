@@ -4,7 +4,7 @@ authors:
     - William Feasey
 date: 2024-02-27
 categories:
-    - Opinions
+    - Opinion
 tags:
     - 'Vol. CXXVII, Issue 9'
 weight: 0
