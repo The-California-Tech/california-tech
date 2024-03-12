@@ -5,7 +5,7 @@ authors:
   - Mahak Mathur
 date: 2024-02-27T08:00:00.000Z
 categories:
-  - Campus
+  - News
 tags:
   - 'Vol. CXXVII, Issue 9'
 weight: 0
@@ -26,8 +26,6 @@ summary: >-
   administration a petition calling for the reinstatement of the SAT as a
   criterion for admissions.
 ---
-
-Hook:
 
 Last month, over 140 professorial faculty signed and submitted to the administration a petition calling for the reinstatement of the SAT as a criterion for admissions. In other words, rather than continuing with the testing moratorium which has been in place since 2020, signatories are urging the admissions committee to return to a test-optional platform for future cycles.
 
