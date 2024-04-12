@@ -8,11 +8,11 @@ categories:
 tags:
   - 'Vol. CXXVII, Issue 6'
 weight: -2
-thumbnail: /default3.jpg
+thumbnail: /img/2024/apr12/mit_tech.jpg
 show_thumbnail: false
 slug: unleash-your-inner-prankster
 images:
-  - /default3.jpg
+  - /img/2024/apr12/mit_tech.jpg
 sidebar: right
 toc: false
 widgets:
