@@ -7,9 +7,10 @@ categories:
   - Campus
 tags:
   - 'Vol. CXXVII, Issue 6'
-weight: 0
+weight: -2
 thumbnail: /default3.jpg
 show_thumbnail: false
+slug: unleash-your-inner-prankster
 images:
   - /default3.jpg
 sidebar: right
@@ -48,6 +49,6 @@ summary: >-
 * 
 * Ready to finally add a splash of laughter and some fun to your Caltech experience? Don't miss out on the hilarity—join the Caltech Prank Club today! Because at Caltech, we believe in equations, experiments, and extraordinary pranks!
 * 
-* Look out for an email from us soon ;)
+* Join our discord server (caltech students only): [Discord](https://discord.gg/zzDRsMk4jH)
 * 
 * 
