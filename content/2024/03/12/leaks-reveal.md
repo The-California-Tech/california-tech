@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 10'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2024/mar12/sixthirty.jpg
+thumbnail: /img/2024/mar12/IMG_3281.png
 images:
-  - /img/2024/mar12/sixthirty.jpg
+  - /img/2024/mar12/IMG_3281.png
 sidebar: right
 toc: false
 widgets:
