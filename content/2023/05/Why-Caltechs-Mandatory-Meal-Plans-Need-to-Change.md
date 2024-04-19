@@ -10,7 +10,7 @@ tags:
   - 'Vol. CXXVI, Issue 6'
 weight: 0
 show_thumbnail: false
-thumbnail: /meet.jpg
+thumbnail: /default8.jpg
 sidebar: right
 toc: false
 widgets:
@@ -24,7 +24,7 @@ summary: >-
   default plan will cost $8,259 next year. Joe Kim takes on why this should not
   and does not need to be the case.
 images:
-  - /meet.jpg
+  - /default8.jpg
 ---
 
 “The meal plan should not be required in our housing contract. It is a financial burden—eating out and buying groceries would be cheaper.” – A Freshman Skurve

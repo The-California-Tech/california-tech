@@ -8,9 +8,9 @@ tags:
   - 'Vol. CXXVI, Issue 5'
 weight: 0
 show_thumbnail: false
-thumbnail: /ascitbod.jpg
+thumbnail: /img/2023/may16/ascitbod.jpg
 images:
-  - /ascitbod.jpg
+  - /img/2023/may16/ascitbod.jpg
 sidebar: 'false'
 toc: false
 widgets:

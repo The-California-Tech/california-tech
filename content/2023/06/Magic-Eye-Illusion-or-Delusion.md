@@ -31,7 +31,7 @@ Seeing the Magic Eye illusion (AKA autostereogram) in the May 31st issue of the 
 
 {{% post__image image="/img/2023/may16/31/magic_eye_1.png" %}}
 
-{{% post__image image="/tortle00.png" %}}
+{{% post__image image="/img/2023/june13/13/tortle00.png" %}}
 
 *Last issue's magic eye puzzle and solution*
 

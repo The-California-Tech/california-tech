@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 1'
 weight: 0
 show_thumbnail: false
-thumbnail: /IMG_2015.jpg.jpeg
+thumbnail: /img/2023/sept19/orange.jpeg
 images:
-  - /IMG_2015.jpg.jpeg
+  - /img/2023/sept19/orange.jpeg
 sidebar: right
 toc: false
 widgets:

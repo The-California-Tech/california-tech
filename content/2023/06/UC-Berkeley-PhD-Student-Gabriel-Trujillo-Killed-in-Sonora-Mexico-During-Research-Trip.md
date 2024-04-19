@@ -38,4 +38,4 @@ He will have two funeral services: a traditional one in Fenton, Michigan on July
 
 [https://www.gofundme.com/f/gabriel-trujillos-funeral-celebration-of-life](https://www.gofundme.com/f/gabriel-trujillos-funeral-celebration-of-life) [https://www.sharpfuneralhomes.com/obituaries/gabriel-trujillo](https://www.sharpfuneralhomes.com/obituaries/gabriel-trujillo)
 
-{{% post__image image="/img/2023/june13//gabriel_trujillo_buttonwood_mexico.jpg" %}}
+{{% post__image image="/img/2023/june13/gabriel_trujillo_buttonwood_mexico.jpg" %}}

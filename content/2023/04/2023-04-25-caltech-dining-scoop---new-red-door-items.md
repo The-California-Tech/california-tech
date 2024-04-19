@@ -8,7 +8,7 @@ categories:
 tags:
   - Vol. CXXVI, Issue 4
 weight: 0
-thumbnail: meet.jpg
+thumbnail: /default8.jpg
 show_thumbnail: true
 sidebar: right
 toc: true
@@ -20,7 +20,7 @@ widgets:
   - editorial
 summary: "Regardless of whether you’re an early bird or a night owl, you have probably noticed a difference or two in the Red Door menu this term."
 images:
-  - meet.jpg
+  - /default8.jpg
 ---
 
 Regardless of whether you’re an early bird or a night owl, you have probably noticed a difference or two in the Red Door menu this term. The breakfast menu offers a brand new Blueberry Waffle dish, the Pulled Pork Sandwich was swapped out for a Ham Mozzarella one, and the Corndog has become a new nighttime favorite. What’s up with the sudden change? Are these new items here to stay?

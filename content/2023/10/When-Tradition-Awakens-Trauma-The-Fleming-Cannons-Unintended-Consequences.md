@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 2'
 weight: 0
 show_thumbnail: false
-thumbnail: /cannon.png
+thumbnail: /img/2023/oct03/cannon.png
 images:
-  - /cannon.png
+  - /img/2023/oct03/cannon.png
 sidebar: right
 toc: false
 widgets:

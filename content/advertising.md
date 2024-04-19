@@ -6,4 +6,4 @@ sidebar: 'false'
 
 The advertising deadline is 12 pm on Friday; all advertising should be submitted electronically or as camera ready art, but *The Tech* can also do simple typesetting and arrangement. All advertising inquiries should be directed to the business manager at tech@caltech.edu
 
-![](/img/image.png)![](</img/Tech Advertising Kit2.png>)
+![](/img/general/advertising-1.png)![](</img/general/advertising-2.png>)
