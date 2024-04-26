@@ -21,7 +21,6 @@ widgets:
   - recent
 summary: >-
     Statements from all candidates in the Associated Students of the California Institute of Technology's 2024 Spring Elections.
-
 ---
 
 # OVERVIEW
