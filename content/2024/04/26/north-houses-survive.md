@@ -2,7 +2,7 @@
 title: 'North Houses Survive Encounter with "The Smell"'
 authors:
   - Michael Gutierrez
-date: 2024-04-26
+date: 2024-04-26 08:00:00 -0700
 categories:
   - Brief
 tags:

@@ -2,7 +2,7 @@
 title: 'You Can and Should Do Better, Faculty Members - A Commentary on the Reinstated SAT/ACT Requirement for Undergraduate Admissions'
 authors:
   - Friend of the Students
-date: 2024-04-26
+date: 2024-04-26 08:00:00 -0700
 categories:
   - Opinion
   - Letter to the Community

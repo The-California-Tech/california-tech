@@ -2,7 +2,7 @@
 title: 'Review of Cafes Around Campus'
 authors:
   - Umran Koca
-date: 2024-04-26
+date: 2024-04-26 08:00:00 -0700
 categories:
   - The Outside World
 tags:

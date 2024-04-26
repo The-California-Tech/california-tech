@@ -2,7 +2,7 @@
 title: "Caltech's Title IX Coordinator Hima Vatti Resigns"
 authors:
   - Maxwell Montemayor
-date: 2024-04-26
+date: 2024-04-26 08:00:00 -0700
 categories:
   - News
 tags:

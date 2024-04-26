@@ -2,7 +2,7 @@
 title: 'Caltech Trivia Team Returns to National Tournament After 14 Year Hiatus'
 authors:
   - Carlos Del Angel Aguilar
-date: 2024-04-26
+date: 2024-04-26 08:00:00 -0700
 categories:
   - News
 tags:

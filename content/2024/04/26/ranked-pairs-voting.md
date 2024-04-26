@@ -3,7 +3,7 @@ title: 'On Ranked Pairs Voting'
 authors:
   - Alejandro Lopez
   - Maya Mutic
-date: 2024-04-26
+date: 2024-04-26 08:00:00 -0700
 categories:
   - Letter to the Editor
 tags:

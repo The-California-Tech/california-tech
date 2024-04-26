@@ -2,7 +2,7 @@
 title: 'Tech Opens Survey'
 authors:
   - The California Tech
-date: 2024-04-26
+date: 2024-04-26 08:00:00 -0700
 categories:
 tags:
   - 'Vol. CXXVII, Issue 13'
