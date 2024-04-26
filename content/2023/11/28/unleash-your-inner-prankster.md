@@ -34,11 +34,11 @@ Pranks! (Duh) Caltech has a long history of prank culture:
 
 * [https://www.admissions.caltech.edu/why-caltech/student-life/traditions-pranks/pranks](https://www.admissions.caltech.edu/why-caltech/student-life/traditions-pranks/pranks)
 * [https://en.wikipedia.org/wiki/Caltech%E2%80%93MIT_rivalry#1984_Rose_Bowl_scoreboard_prank](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-* (lol get pranked, u can’t click on the links—just google it lmao)
+* (lol get pranked, u can't click on the links—just google it lmao)
 
-In recent years, pranking has unfortunately died down a bit, but we’re looking to revive that! Come bring glory back to Caltech pranking!!!! Look out for an email from us soon ;)
+In recent years, pranking has unfortunately died down a bit, but we're looking to revive that! Come bring glory back to Caltech pranking!!!! Look out for an email from us soon ;)
 
-Here’s a fun little blurb bingo bongo:
+Here's a fun little blurb bingo bongo:
 
 WHY JOIN US?
 ===
