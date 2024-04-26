@@ -39,6 +39,7 @@ Click on each person's name to jump to their statement!
 # Sophie Elam - ASCIT President Candidacy Statement
 
 ![Photo of Sophie Elam](/img/2024/apr26/elam.JPG)
+{.post__image}
 
 Hello! 
 
@@ -86,6 +87,7 @@ Sophie Elam
 # Thierno Diallo - ASCIT President Candidacy Statement
 
 ![Photo of Thierno Diallo](/img/2024/apr26/diallo.jpg)
+{.post__image}
 
 My name is Thierno H. Diallo, and I am a junior mole from The Bronx, New York running for ASCIT president. A fun fact about me is that I flew a plane before driving a car. Over the past three years, I have served in various leadership positions throughout campus.
 
@@ -103,6 +105,7 @@ With your vote, I will support your Caltech journey as you all strive for your b
 # DirOps - Ava Barbano
 
 ![Photo of Ava Barbano](/img/2024/apr26/barbano.JPG)
+{.post__image}
 
 Hi everyone! I'm Ava Barbano, current sophomore in Ricketts Hovse, studying Computation and Neural Systems. You may recognize me from ASCIT Secretary spam in your inbox… I have so many more sign-offs in mind, so I'm running for the position of Director of Operations for the upcoming 2024-25 term.
 
@@ -123,6 +126,7 @@ I am truly looking forward to working with the ASCIT BoD again this year to serv
 # Social Director - Ashlyn Roice
 
 ![Photo of Ashlyn Roice](/img/2024/apr26/roice.jpeg)
+{.post__image}
 
 Hello everyone!
 
@@ -175,6 +179,7 @@ I would be honored to serve as your ASCIT Social Director next year, and give ba
 # Treasurer - Jonathan Booker
 
 ![Photo of Jonathan Booker](/img/2024/apr26/booker.png)
+{.post__image}
 
 Hello! I'm Jonathan Booker, a junior studying Physics and Computer Science and a member of Ricketts Hovse, running for reelection as ASCIT Treasurer. Having served on the ASCIT Board of Directors for the past two years, I am eager to continue the work that has made a significant impact on our community.
 
@@ -193,6 +198,7 @@ I have really enjoyed serving this school for the past two years by having the o
 # Unaffiliated CRC Rep - Michael Gutierrez
 
 ![Photo of Michael Gutierrez](/img/2024/apr26/gutierrez.png)
+{.post__image}
 
 Hi friends. Some of you may know me from The Tech; or from my frequent ridiculous wardrobes consisting of a "PRESS" fedora, a colorful lab coat, and outside socks; or else from my alarming degree of omnipresence across disparate corners of campus. If I had enough funny left to make a quantum mechanics joke, it would go here. Anyway, this time I'm running to be your Unaffiliated Conduct Review Committee (CRC) Representative. Why? For the same reason I always end up picking up more responsibilities: *no one else was going to do it.*
 
@@ -207,5 +213,6 @@ P.S. — For f\*cks sake, don't break the Honor Code. That would be incredibly c
 # ARC Chair - Jeb Brysacz
 
 ![Photo of Jeb Brysacz](/img/2024/apr26/brysacz.jpg)
+{.post__image}
 
 For the past two years, I have served on the ARC, first as the rep for Page House, then as a campus-wide At-Large rep. Across these two years, I have gotten exposure to the breadth of events that the ARC puts on, as well as having represented undergraduate students at the Core Curriculum Steering Committee of the Faculty Board Committee. This past year, I organized two successful Student Faculty Games, and am currently planning a third (May 21st, please come!), acted as a CS option rep at both option advising events, and have been an ARC liaison for a few course complaints. Currently, I am in the process of implementing a computing-specific PAC tutoring program with the Deans and the current ARC Chair, Alex. This program will be tailored towards non-computing options and will offer course-agnostic tutoring and workshops for learning the basics of scientific computing and associated languages and libraries. If I am elected, I plan to carry this program through to completion. Last year, I co-chaired the Student Faculty Committee special topic, revising the core curriculum. Among other changes, we successfully added CS 1 as a core requirement, and decreased the HSS course requirement from 12 to 11. Both of these changes will be reflected in the newest course catalog. As part of this SFC special topics committee, I developed a professional connection with Dr. Jennifer Jahner, who will soon be the undergraduate Dean. Needless to say, I have both the experience with ARC events and relationships with administrators to represent the undergraduate population in our efforts to improve the academic and research environments at Caltech. If I am elected to ARC Chair, I will be able to utilize my experience and relationships to carry out my duties to the highest of standards and develop new programs and committees to benefit the undergraduate community.
