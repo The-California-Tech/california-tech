@@ -7,7 +7,7 @@ categories:
   - Campus
 tags:
   - 'Vol. CXXVII, Issue 6'
-weight: -2
+weight: 0
 thumbnail: /img/2024/apr12/mit_tech.jpg
 show_thumbnail: false
 slug: unleash-your-inner-prankster

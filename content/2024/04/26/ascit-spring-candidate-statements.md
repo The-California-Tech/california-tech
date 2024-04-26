@@ -1,12 +1,6 @@
 ---
 title: 'ASCIT 2024 Spring Elections: Candidate Statements'
 authors:
-  - Sophie Elam
-  - Thierno Diallo
-  - Ava Barbano
-  - Jonathan Booker
-  - Michael Gutierrez
-  - Jeb Brysacz
 date: 2024-04-26 08:00:00 -0700
 categories:
   - News
@@ -36,6 +30,7 @@ Click on each person's name to jump to their statement!
 
 - ASCIT President (2 candidates): [Sophie Elam](#sophie-elam---ascit-president-candidacy-statement) (Fleming ESE '25), [Thierno Diallo](#thierno-diallo---ascit-president-candidacy-statement) (Blacker CS '25)
 - Director of Operations (1 candidate): [Ava Barbano](#dirops---ava-barbano) (Ricketts CNS '26)
+- Social Director (1 candidate): [Ashlyn Roice](#social-director---ashlyn-roice) (Page/Lloyd CS '26)
 - Treasurer (1 candidate): [Jonathan Booker](#treasurer---jonathan-booker) (Ricketts Ph/CS '25)
 - Unaffiliated CRC Rep (1 candidate): [Michael Gutierrez](#unaffiliated-crc-rep---michael-gutierrez) (Dabney/Ricketts Ay '25)
 - ARC Chair (1 candidate): [Jeb Brysacz](#arc-chair---jeb-brysacz) (Page CS '25)
@@ -123,6 +118,124 @@ I have truly enjoyed working with the ASCIT Board of Directors this year and sup
 **Publications**: This year, I also plan to continue the post-pandemic support of campus publications. Ankita set a fantastic English-major precedent to managing them, and I will do my best to keep up the momentum of their efforts and set up our publications to thrive.
 
 I am truly looking forward to working with the ASCIT BoD again this year to serve the student body. Please reach out if you have any questions via Messenger or at [abarbano@caltech.edu](mailto:abarbano@caltech.edu).
+
+------
+
+# Social Director - Ashlyn Roice
+
+![Photo of Ashlyn Roice](/img/2024/apr26/roice.jpeg)
+
+Hello everyone!
+
+My name is Ashlyn Roice, and I am running to be your ASCIT Social
+Director next year! I am currently a member of both Page and Lloyd
+House, and I am also the current ASCIT Social Media Manager. My role
+entails creating posts and stories for our Instagram account to maintain
+an interactive platform of communication with the undergraduate
+population.
+
+This past year, I have gone beyond my position as Social Media Manager
+and have assisted with the execution of various events, from ASCIT
+Halloween to the Multicultural Fashion Show. I have worked one-on-one
+with Snigdha Saha, the current ASCIT Social Director, this past term and
+have trained for this position extensively under her guidance.
+Additionally, I have attended all ASCIT meetings since my term as Social
+Media Manager started and have educated myself on the roles and work of
+all members of the ASCIT BoD. These are some of the events and
+activities I have been involved in as ASCIT's social media manager:
+
+-   I was in charge of the Valentine's Day midterms destressing event. I
+    spearheaded event execution, which included finalizing the budget,
+    developing all the stations and the menu, creating promotional
+    material, setting up for the event, taking photos, and cleaning up
+    after the event.
+
+-   I have photographed for and created social media posts for every
+    ASCIT event that has occurred in the past year.
+
+-   I have assisted with setting up for and cleaning up after multiple
+    alternative Interhouses and other ASCIT events and have full
+    knowledge of what must be done to successfully execute and manage
+    one.
+
+-   Through my work with ASCIT, I have built relationships with Tom
+    Mannion and several offices on campus, including OSE and the CCID.
+
+My experiences with ASCIT in the past year have allowed me to gain full
+insight into what this position holds, and I am capable of managing all
+aspects of responsibility that come with the role, holding student
+satisfaction at the center of my work.
+
+As ASCIT Social Director, I will prioritize the inclusion of
+multicultural identities for campus events and creating more widespread
+student destressing events. Further elaboration on these ideas is below:
+
+-   **Multicultural Inclusion Initiatives**: As your ASCIT Social
+    Director, I want to ensure that the voices of students from
+    underrepresented cultural backgrounds are heard in the process of
+    event development and execution. This would involve the creation of
+    a council composed of students of various nationalities so that
+    holiday celebrations for students of various religions, cultural
+    backgrounds, etc. can be organized through ASCIT (e.g. Ramadan,
+    Persian New Year, etc). I will work alongside the CCID to facilitate
+    and gain funding for these events.
+
+-   **Student Destressing Events**: Morale is not always high for a
+    Caltech student, so I hope to host more activities, such as the
+    Valentine's Day event I created, to further motivate and energize
+    students.
+
+    -   *Themed Movie Nights*: Using our projector, I'll host outdoor
+        movie nights (weather permitting, otherwise they'll be moved to
+        the Hameetman MPR) for students every month. They'll be themed based on the season or the
+        holiday of the month (ex: Christmas). ASCIT will provide snacks and
+        refreshment and gain student feedback on what movie should be shown.
+
+-   *Midterms Destressing Events*: We currently have Midnight Donuts as
+    a finals destressing event, but I would like to start hosting
+    midterms destressing events as well. The Valentine's Day event was a
+    success, and so I would like to host similar holiday-themed events
+    to destress students around midterms week first and third term. For
+    the first term, we can host a Thanksgiving event, and for spring, we
+    can host a small celebration, such as a Spring Fling.
+
+-   *Additional Events*: Additional smaller events I am considering
+    hosting are:
+
+    -   *Food Truck Night*: Food trucks around Pasadena would come to
+        Holliston Circle and students could come grab food!
+
+    -   *Astronomy Night*: ASCIT, perhaps collaborating with the
+        Astronomy Department, would host an evening of stargazing using
+        telescopes, accompanied by some light refreshments.
+
+    -   *Noodle Night*: We would set up a noodle bar, similar to that
+        from the Lloyd Alternative Interhouse, and students could grab
+        vegan/non-vegan udon with their friends.
+
+-   **Open Feedback on Student Events**: As your Social Director, I want
+    to be in touch on what events students would like to see on campus.
+    I will not only maintain the feedback form on events (which is
+    currently on our Instagram's LinkTree), but I will also work with
+    OSE and any other relevant student departments to fund experiences
+    that a group of students bring to me. My hope is that a group of 10+
+    students can bring a proposal of an event that can be approved and
+    funded for by ASCIT.
+
+-   **Improving Relationships with House Social Teams**: I hope to
+    elevate ASCIT's relationship with the Houses' respective social
+    teams, so we might mutually support each others' roles and work.
+
+I am also committed to not only maintaining current ASCIT events,
+including ASCIT Formal and the Multicultural Fashion Show/Food Fair, but
+also elevating them for further student enjoyment by continuously
+seeking feedback.
+
+I would be honored to serve as your ASCIT Social Director next year, and
+give back to the school that has given me so much. I am so excited to
+implement my ideas, and if you have any questions, comments, or
+concerns, I am happy to respond through email (aroice@caltech.edu), Instagram
+(@ash.roice), or Facebook Messenger!
 
 ------
 
