@@ -19,6 +19,8 @@ images:
 slug: latest
 ---
 
+{{< issue_feature issue_tag="Vol. CXXVII, Issue 13" date="2024-04-26" >}}
+
 {{< issue_feature issue_tag="Vol. CXXVII, Issue 12" date="2024-04-12" >}}
 
 {{< issue_feature issue_tag="Vol. CXXVII, Issue 11" date="2024-04-04" >}}
