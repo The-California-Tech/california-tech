@@ -21,6 +21,9 @@ widgets:
   - recent
 summary: >-
     Caltech students plan to hold a peaceful protest about the ongoing Israel-Palestine conflict to take place Monday April 29th 10:30am–12:00pm.
+aliases:
+  - /2024/04/26/donuts-sit-in
+  - /2024/04/26/palestine-sit-in
 ---
 
 **Editors' Note: this article will be updated throughout the day as events unfold.**
