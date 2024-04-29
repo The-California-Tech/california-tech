@@ -1,5 +1,5 @@
 ---
-title: "Peaceful Protest for Palestine"
+title: "Peaceful Sit-In for Palestine"
 authors:
 date: 2024-04-29T17:00:00.000Z
 categories:
