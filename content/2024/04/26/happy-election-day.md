@@ -35,7 +35,7 @@ summary: >-
 > 
 > As always, contact me or your Hovse RevComm Rep if you have concerns or questions.
 
-**ASCIT President is the only contested position this time around, so the Tech reached out to the two candidates, Sophie Elam and Thierno Diallo, to learn more about their campaign platforms and plans if elected. Both candidates were emailed the questions Sunday afternoon and given a (flexible) response deadline of 9am Monday. We also contacted both candidates on other platforms to make sure they felt this deadline was reasonable. Only Sophie Elam responded to the questions, as of 9am Monday.**
+**ASCIT President is the only contested position this time around, so the Tech reached out to the two candidates, Sophie Elam and Thierno Diallo, to learn more about their campaign platforms and plans if elected.**
 
 ![Photo of Sophie Elam](/img/2024/apr26/elam.JPG)
 ![Photo of Thierno Diallo](/img/2024/apr26/diallo.jpg)
@@ -55,6 +55,15 @@ Sophie Elam:
 > 
 > Lastly, I want to mention that one of my goals as ASCIT President would be to pursue reviving the non-academic analogue of SFC — SEC, or Student Experience Conference. This conference, which would be held in alternating years from SFC (even numbered years), would seek to achieve similar goals as SFC, but in a non academic capacity. So rather than work within academic divisions, we would form committees to work with specific offices and we would still hold a special topics discussion. The overall vision for SEC would be to enhance a platform for students to have direct, civil collaboration opportunities with administration to better teh Caltech undergraduate Experience. 
 
+Thierno Diallo:
+
+> I plan to work with the current ARC chair to make this a more involved process school-wide as I do not feel this event has enough participation from the student body, the ones with the actual concerns. Through my role as TA and Ombud, I have gained some ground experience from students on how to better support their academic endeavors. My three goals all gathered from student feedback are increasing the effectiveness of the ARC, helping faculty better incorporate TQFR feedback, and increasing accessibility to the houses:
+>
+> - One major complaint students had was regarding the effectiveness of the ARC committee as many professors have been “ARCed,” however, it did not change much or anything for the students. Therefore, I hope to discuss at this conference how the ARC can be more effective in handling these cases.
+>
+> - Another topic I would like to bring up at this conference is how we can better incorporate and enforce TQFR feedback, which in most cases is ignored without consequence, as some professors will receive the same suggestions for improvement each year. Therefore, I want to utilize the TQFR feedback to suggest additional training for certain faculty on how to better effectively communicate with students. There is no doubt that Caltech is home to the greatest minds in the world, and helping these minds better pass on their immense knowledge will be key to Caltech’s future. With so many amazing and intellectual professors on campus, students should not be skipping lectures and the opportunity to further their growth because of teaching quality.
+>
+> - Lastly, outside of academic goals, the topic of accessibility was brought up to me in the discussion, and I think it would make for a great focal point at this conference. As a mole in Blacker, I always dreaded walking up and down the “Hell” stairs every day. This feeling intensified when I strained my hamstring that year and could barely walk. However, as Blacker had no elevators or ramps, I had to walk up and down those hellish stairs every day. Therefore, I want to make my house and others more accessible to everyone, so we can all fully immerse in and enjoy the houses.
 
 # Finances
 
@@ -68,6 +77,11 @@ Sophie Elam:
 > 
 > This brings me to your question regarding club funding. I have complete faith in Ava Barbano (unopposed Director of Operations) and Jonathan Booker to see to the details of club funding, because this is their area of expertise. However, this is not to say I will be detached, as I recognize this is a very important issue, and seeing as it falls under ASCIT purview, it is inherently a presidential responsibility. Thus, one of my first priorities with regards to club funding is working with GSC (Grad Student Council) to see where we overlap and how we can best support one another in our joint efforts to fund Caltech's clubs. I am looking forward to this opportunity because my prior interactions with GSC members have been positive and encouraging. I also intend to help streamline club documentation processes to ensure that all clubs are appropriately accounted for so that they may receive funding efficiently. Lastly, I recognize that ASCIT does not have infinite resources to match the demand for club funding. Hence, I plan on collaborating with individual clubs to host unique fundraisers for their student group so that ASCIT can support every group in obtaining the financial means they require to continue enhancing campus culture. 
 
+Thierno Diallo:
+
+> I wish to utilize the new ASCIT funding secured from the ASCIT fund to better support our clubs and organizations on campus. Furthermore, on top of continuing to run our regular events, I hope to use this fund to support more non-athletic inter-house events such as game and trivia nights between houses to allow athletes who are in season and those who are not sports enthusiasts an opportunity to partake in inter-house culture. An issue many students have with ASCIT formal is that tickets are expensive therefore, I hope to use this funding to potentially subsidize formal tickets to allow everyone a chance to attend.
+>
+> To address the demand for club funding, I plan to educate clubs on how to secure funding outside of ASCIT as the Caltech Black Student Union learned to do. ASCIT has over 30 clubs under them and it can be hard to financially support them all, therefore, teaching clubs about con-sponsorships with other organizations, grants, and other funding sources they can apply to will help them become more financially independent so that any additional funding ASCIT provides will be enough. However, to ensure we have the funding to provide, I plan on applying for corporate and government grants tailored to supporting student organizations, and host more fund-raisers with students, alumni, and faculty.
 
 # Formal
 
@@ -79,6 +93,9 @@ Sophie Elam:
 > 
 > Lastly, I intend on working with other offices and hosting fundraisers to subsidize ticket prices further. If at all possible, I also intend on considering strategies to increase the capacity of Formal 2025 to match the growing demand for Formal tickets (maybe even look into supporting students who want to invite plus-ones from off-campus if there is adequate student interest in doing so). 
 
+Thierno Diallo:
+
+> I will make tickets more accessible by finding cheaper venues as the ASCIT formal is more about students bonding and enjoying each other’s company than it is about the venue. I also plan on using our new funding as previously discussed to provide subsidized tickets for students who need the extra support amongst other initiatives.
 
 # Events
 
@@ -90,6 +107,11 @@ Sophie Elam:
 > 
 > As for the Executive Social Committee, I think that ASCIT and the IHC have been able to work together extremely well over the past year, and we can rely on the House presidents to communicate the interests of their members to ASCIT. Further, I trust our Social Team to be in touch with campus and have a sense of both unaffiliated and affiliated student's interests (I will mention that in communications with current ASCIT members we have considered establishing an "Unaffiliated Consultant" who we can go to as an advocate for the desires of unaffiliated students). However, if there is any sense that the student body would like to see the reinstatement of the Executive Social Committee, I will see to gauging this interest and if appropriate, work to see it revitalized. 
 
+Thierno Diallo:
+
+> I plan to continue supporting the houses with inter-house events including but not limited to their yearly campus-wide party, athletic and non-athletic events across houses, and upholding school traditions such as ditch day and rotation.
+>
+> With regards to bringing back the Executive Social Committee, I think that ASCIT and the IHC alongside house officers have done an excellent job thus far, however, this is a matter I would ask the student body about for their input and further discuss with them.
 
 # People
 
@@ -103,6 +125,9 @@ Sophie Elam:
 > 
 > I also intend on being especially supportive of the BoC and our Advocacy Committee in their efforts to work with the Faculty Board and TIX/CCID/CASS offices, respectively. I will encourage representatives to serve as liaisons for students, faculty and administrators. Further, I will promote student and faculty/administration dialogue by inviting others into conversations and meetings to normalize the presence of student voices in the important conversations on campus. 
 
+Thierno Diallo:
+
+> Rebuilding relationships with faculty is important to maintain both strong academic and personal experiences at Caltech. I plan to create more formal and informal events where students and faculty can gather to build both personal and professional relationships. These events include promoting more department mixers, holding a student panel for faculty, and better supporting the Advocacy Committee. I think that the best way to rebuild this bond is through direct communication between students and faculty rather than through intermediaries therefore my focus will be on creating more environments where students and faculty can have these interactions.
 
 # Bonus
 
@@ -111,3 +136,7 @@ Sophie Elam:
 Sophie Elam:
 
 > ABSOLUTELY F\*\*\*\*\*\*\* PSYCHED! Sounds SOOOOO much better than working on a set. Jk. Procrastination is not a strong suit of mine. BUT MANUAL LABOR SURE AS HELL IS!
+
+Thierno Diallo:
+
+> PUMPED as I have been doing this for years!
