@@ -1,6 +1,8 @@
 ---
 title: "Peaceful Sit-In for Palestine"
 authors:
+  - Michael Gutierrez
+  - Ling-Yi Wu
 date: 2024-04-29T17:00:00.000Z
 categories:
   - News
@@ -57,8 +59,39 @@ The termly "Deans and Donuts" event, planned for today at 11am also on the CSS l
 
 The silent protest sat outside the CSS building peacefully until around 11:20. There were about 30 people present, a mix of undergraduates, graduates, and other members of the Caltech community. 
 
+![](/img/2024/apr26/protest_4.webp)
+{.post__image}
+
+![](/img/2024/apr26/protest_8.webp)
+{.post__image}
+
+![](/img/2024/apr26/protest_11.webp)
+{.post__image}
+
+![](/img/2024/apr26/protest_9.webp)
+{.post__image}
+
+*Pictures taken by Julia Ehlert*
+
 The protest garnered the attention of NBC 4 Los Angeles, who briefly featured the protest in their story about similar protests on college campuses.
 
 At 11:20 the group moved to the lawn outside the exit of the Red Door cafe where they grew in number to around 60 people total.
 
 The legal observer from the National Lawyer guild was present but was not able to talk to the press.
+
+![](/img/2024/apr26/protest_5.webp)
+{.post__image}
+
+![](/img/2024/apr26/protest_1.png)
+{.post__image}
+
+![](/img/2024/apr26/protest_2.webp)
+{.post__image}
+
+![](/img/2024/apr26/protest_3.png)
+{.post__image}
+
+![](/img/2024/apr26/protest_6.webp)
+{.post__image}
+
+*Pictures taken by Julia Ehlert and Ling-Yi Wu*
