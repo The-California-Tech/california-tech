@@ -28,7 +28,9 @@ aliases:
 
 **Editors' Note: this article will be updated throughout the day as events unfold.**
 
-**Last updated: 10:15am**
+**Last updated: 12:00pm**
+
+**10:00am:**
 
 According to an Instagram post by @caltechsjp, Caltech students plan to hold a peaceful protest about the ongoing Israel-Palestine conflict to take place Monday April 29th 10:30am–12:00pm. The protest is taking the form of a silent sit-in on the lawn of the Center for Student Services (CSS) building on Holliston Avenue.
 
@@ -47,4 +49,16 @@ The sit-in was organized in response to many similar protests on other college c
 
 The sit-in has been publicized through various social media channels including an Instagram post by Caltech Students for Justice in Palestine (@caltechsjp).
 
+**Update, 10:15am**
+
 The termly "Deans and Donuts" event, planned for today at 11am also on the CSS lawn, was postponed to next Monday. This was announced in an email to undergraduates at 10:15am with no explanation.
+
+**Update, 11:30am**
+
+The silent protest sat outside the CSS building peacefully until around 11:20. There were about 30 people present, a mix of undergraduates, graduates, and other members of the Caltech community. 
+
+The protest garnered the attention of NBC 4 Los Angeles, who briefly featured the protest in their story about similar protests on college campuses.
+
+At 11:20 the group moved to the lawn outside the exit of the Red Door cafe where they grew in number to around 60 people total.
+
+The legal observer from the National Lawyer guild was present but was not able to talk to the press.
