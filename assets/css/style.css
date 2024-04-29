@@ -723,12 +723,10 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	margin: 0 0 20px;
 	margin-bottom: 0 0 1.25rem;
 	display: inline-block;
-	height: 500px;
-	width: 500px;
 }
 
 .post__election_image img {
-	max-width: 50%;
+	height: 500px;
 	display: inline;
 }
 
