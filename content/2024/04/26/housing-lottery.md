@@ -132,8 +132,8 @@ April 25 - 28: HOUSE PICKS
 May 6: Updated lottery numbers posted
 
 Monday, May 13, 2024 -- Bechtel Suite Application Due -- Called **Unaffiliated Suite Lottery Application** on Housing website
-Wednesday, May 15, 2024
-Bechtel Suite Picks
+
+Wednesday, May 15, 2024 -- Bechtel Suite Picks
 
 Friday, May 17, 2024 -- Marks/Braun and Bechtel Single Application Due -- Called **Unaffiliated Double Lottery Application** on Housing website — even though it's also for people who need singles
 

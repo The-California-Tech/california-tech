@@ -1,7 +1,6 @@
 ---
 title: HAPPY ELECTION DAY
 authors:
-  - Michael Gutierrez
 date: 2024-04-29T17:00:00.000Z
 categories:
   - News
