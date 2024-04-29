@@ -1,13 +1,13 @@
 ---
-title: 'The Article About The Housing Lottery'
+title: The Article About The Housing Lottery
 authors:
   - Michael Gutierrez
-date: 2024-04-26 08:00:00 -0700
+date: 2024-04-26T15:00:00.000Z
 categories:
   - News
 tags:
   - 'Vol. CXXVII, Issue 13'
-weight: -1 # change back to zero when next instalment comes out
+weight: -1
 show_thumbnail: false
 thumbnail: /default6.jpg
 images:
@@ -21,8 +21,12 @@ widgets:
   - categories
   - recent
 summary: >-
-    Given recent discourse and proliferation of misinformation regarding the undergraduate fall housing lottery process, the Tech spoke to Interhouse Committee (IHC) Chair Evan Portnoi to clarify some important points.
+  Given recent discourse and proliferation of misinformation regarding the
+  undergraduate fall housing lottery process, the Tech spoke to Interhouse
+  Committee (IHC) Chair Evan Portnoi to clarify some important points.
 ---
+
+***Correction (April 28, 2024 8:02pm) — In the Bechtel Suite Picks section, the original article incorrectly stated that "historically unaffiliated" means unaffiliated during or before Winter Term. According to the emails from Kevin Gilmartin and Joe Bennethum, the cutoff between historically and newly unaffiliated is actually between Fall Term and Winter Term. That is, "historically unaffiliated" actually means exclusively before Winter Term. The text of the online article below has been updated to reflect this.***
 
 Given recent discourse and proliferation of misinformation regarding the undergraduate fall housing lottery process, the *Tech* spoke to Interhouse Committee (IHC) Chair Evan Portnoi to clarify some important points. The following is based on information obtained from the IHC, the April 25 email from Vice President of Student Affairs Kevin Gilmartin, and [the Housing Office website](https://housing.caltech.edu/undergrads/housing-contract-lottery/undergrad-lottery-process).
 
@@ -40,7 +44,7 @@ A number of beds in each house are reserved for incoming freshmen. This year, be
 
 Remaining students who want to live in a Bechtel suite must organize themselves into groups of 4, 6, or 8 (the available suite sizes). Exactly one of the group members must submit an Unaffiliated Suite Lottery Application, due on Monday, May 13. (For groups who do not plan to participate in the unaffiliated-priority suite lottery, described in the next paragraph, it may not be necessary to fill out the application, since the pick order is determined only by the highest lottery number in the group. We have received conflicting information, and recommend submitting the application anyway.) The actual roompicks process for Bechtel suites will occur on May 15. Here is how the pick order will be determined:
 
-The first 10 suites will be filled with a new unaffiliated-priority lottery system, as described in VPSA Kevin Gilmartin's email sent to undergraduates yesterday. Groups will be assigned 1 "point" per Newly Unaffiliated student, and 2 "points" per Historically Unaffiliated student. *Historically Unaffiliated* means the student dropped their house membership(s) during Winter Term 2024 or before. *Newly Unaffiliated* means the student dropped their house membership(s) during Spring Term 2024 (this term). The first 10 groups will pick in order of highest "point" total, with ties broken by the best lottery number out of the group. It is unclear from the email whether the groups will be ranked by *total* points or as a *fraction* out of 2*group size, where the former would give advantage to larger unaffiliated suites.
+The first 10 suites will be filled with a new unaffiliated-priority lottery system, as described in VPSA Kevin Gilmartin's email sent to undergraduates yesterday. Groups will be assigned 1 "point" per Newly Unaffiliated student, and 2 "points" per Historically Unaffiliated student. *Historically Unaffiliated* means the student dropped their house membership(s) during Fall Term 2024 or before. *Newly Unaffiliated* means the student dropped their house membership(s) during Winter Term 2024. The first 10 groups will pick in order of highest "point" total, with ties broken by the best lottery number out of the group. It is unclear from the email whether the groups will be ranked by *total* points or as a *fraction* out of 2\*group size, where the former would give advantage to larger unaffiliated suites.
 
 After the first 10 suites are picked, the remaining suites will pick in order determined only by their best lottery number (irrespective of group members' affiliation statuses).
 
@@ -56,7 +60,7 @@ Remaining groups of students who want to pick into a Marks/Braun double or suite
 
 Remaining students without a housing assignment will be automatically added to a waitlist in order of their lottery number.
 
-------
+***
 
 # The truth about unaffiliation status
 
@@ -66,7 +70,7 @@ Affiliation is ultimately managed and reported by each house's executive committ
 
 The Office of Student Experience (OSE) distributed a Housing Affiliation survey last winter term. Despite the presence of conflicting information in the emails and on [housing.caltech.edu](https://housing.caltech.edu/), the IHC confirmed that this survey was for statistical purposes only. Responses to OSE's Housing Affiliation survey are not reflected in any house's membership roster. According to IHC Chair Evan Portnoi, all house secretaries personally reached out to those students who identified as unaffiliated, asking them to confirm their desire to unaffiliate. Anyone who did not respond or otherwise contact their house secretary remains a member.
 
-------
+***
 
 # What about the incoming frosh?
 
@@ -74,7 +78,7 @@ The situation last year was exacerbated by the historically high yield rate (66%
 
 This year, in contrast, there were only 315 frosh admitted to the class of 2028. Even if the yield rate turns out higher, the class of 2028 will still end up around the target size of 215-225.
 
-------
+***
 
 # Is there an advantage to unaffiliating? (No.)
 
@@ -88,7 +92,7 @@ Also new this year is the change to the unaffiliated-priority Bechtel Suite Pick
 
 According to VPSA Gilmartin's email, for next year's lottery he "will work with the IHC and other student leaders, and with unaffiliated student stakeholders, to ensure a lottery system that meets the needs of unaffiliated students, and prevents the regrettable current strategy by which students unaffiliate as a matter of convenience, to gain preferential access to Bechtel."
 
-------
+***
 
 # So is there a risk of underfilling the houses?
 
@@ -96,20 +100,20 @@ The results of the OSE affiliation survey indicated that over 100 students dropp
 
 Even so, it is still possible for a house to have more beds than full members who opt into House Picks. In such a situation, there would be vacancies remaining even with reserved frosh rooms. According to IHC Chair Evan Portnoi, the Housing Office plans to fill any such vacancies with upperclassmen house members who haven't picked into a room yet.
 
-| House | Estimated Available Beds (Not Reserved for Frosh) | Full Members |
-|-|-|-|
-| Lloyd | 56 | 75 |
-| Page | 59 | 84 |
-| Ricketts | 45 | 74 |
-| Venerable | 58 | 82 |
-| Avery | 99 | 111 |
-| Dabney | 44 | 68 |
-| Blacker | 40 | 75 |
-| Fleming | 54 | 77 |
+| House     | Estimated Available Beds (Not Reserved for Frosh) | Full Members |
+| --------- | ------------------------------------------------- | ------------ |
+| Lloyd     | 56                                                | 75           |
+| Page      | 59                                                | 84           |
+| Ricketts  | 45                                                | 74           |
+| Venerable | 58                                                | 82           |
+| Avery     | 99                                                | 111          |
+| Dabney    | 44                                                | 68           |
+| Blacker   | 40                                                | 75           |
+| Fleming   | 54                                                | 77           |
 
 Table 1: Estimated Available Beds vs. Full Members eligible to pick into those beds, by house. Numbers provided by IHC, updated Monday April 22.
 
-------
+***
 
 # I thought we were guaranteed 4 years of housing?
 
@@ -119,7 +123,7 @@ The Housing Office makes the 2-year promise clear in their Resident Guide and Ho
 
 The confusion stems from language in the 2020 and 2021 Caltech Catalogs which vaguely refer to a "four-year residency expectation." Bennethum clarified in an interview with the Tech that, in this case, "residency" simply refers to "enrollment." This language was removed for the 2022 catalog.
 
-------
+***
 
 # Timeline
 
@@ -127,10 +131,10 @@ April 25 - 28: HOUSE PICKS
 
 May 6: Updated lottery numbers posted
 
-Monday, May 13, 2024 -- Bechtel Suite Application Due -- Called __**Unaffiliated Suite Lottery Application**__ on Housing website
+Monday, May 13, 2024 -- Bechtel Suite Application Due -- Called **Unaffiliated Suite Lottery Application** on Housing website
 Wednesday, May 15, 2024
 Bechtel Suite Picks
 
-Friday, May 17, 2024 -- Marks/Braun and Bechtel Single Application Due -- Called __**Unaffiliated Double Lottery Application**__ on Housing website — even though it's also for people who need singles
+Friday, May 17, 2024 -- Marks/Braun and Bechtel Single Application Due -- Called **Unaffiliated Double Lottery Application** on Housing website — even though it's also for people who need singles
 
 Monday, May 20 - Tuesday, May 21, 2024: Marks/Braun and Bechtel Single Picks
