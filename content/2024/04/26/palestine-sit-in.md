@@ -30,7 +30,7 @@ aliases:
 
 **Editors' Note: this article will be updated throughout the day as events unfold.**
 
-**Last updated: 12:00pm**
+**Last updated: Tuesday, April 30**
 
 **10:00am:**
 
@@ -75,6 +75,9 @@ The silent protest sat outside the CSS building peacefully until around 11:20. T
 
 The protest garnered the attention of NBC 4 Los Angeles, who briefly featured the protest in their story about similar protests on college campuses.
 
+![](/img/2024/apr26/channel4.png)
+{.post__image}
+
 At 11:20 the group moved to the lawn outside the exit of the Red Door cafe where they grew in number to around 60 people total.
 
 The legal observer from the National Lawyer guild was present but was not able to talk to the press.
@@ -95,3 +98,11 @@ The legal observer from the National Lawyer guild was present but was not able t
 {.post__image}
 
 *Pictures taken by Julia Ehlert and Ling-Yi Wu*
+
+**Update, 12:00pm**
+
+People are leaving one by one (event was originally set to end at this time) but still about 40 people are left.
+
+**Update, 12:30pm**
+
+The group has largely dispersed. A handful of people are left (about 5 or 6) but the silent protest outside Red Door seems to have ended.
