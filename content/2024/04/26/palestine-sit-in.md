@@ -7,7 +7,7 @@ date: 2024-04-29T17:00:00.000Z
 categories:
   - News
 tags:
-  - 'Vol. CXXVII, Issue 13'
+#  - 'Vol. CXXVII, Issue 13'
 weight: -2
 show_thumbnail: false
 thumbnail: /img/2024/apr26/protest_instagram.png

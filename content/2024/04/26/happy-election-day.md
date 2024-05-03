@@ -5,7 +5,7 @@ date: 2024-04-29T17:00:00.000Z
 categories:
   - News
 tags:
-  - 'Vol. CXXVII, Issue 13'
+#  - 'Vol. CXXVII, Issue 13'
 weight: -2
 show_thumbnail: false
 thumbnail: /default2.jpg
@@ -59,11 +59,11 @@ Thierno Diallo:
 
 > I plan to work with the current ARC chair to make this a more involved process school-wide as I do not feel this event has enough participation from the student body, the ones with the actual concerns. Through my role as TA and Ombud, I have gained some ground experience from students on how to better support their academic endeavors. My three goals all gathered from student feedback are increasing the effectiveness of the ARC, helping faculty better incorporate TQFR feedback, and increasing accessibility to the houses:
 >
-> - One major complaint students had was regarding the effectiveness of the ARC committee as many professors have been “ARCed,” however, it did not change much or anything for the students. Therefore, I hope to discuss at this conference how the ARC can be more effective in handling these cases.
+> - One major complaint students had was regarding the effectiveness of the ARC committee as many professors have been "ARCed," however, it did not change much or anything for the students. Therefore, I hope to discuss at this conference how the ARC can be more effective in handling these cases.
 >
-> - Another topic I would like to bring up at this conference is how we can better incorporate and enforce TQFR feedback, which in most cases is ignored without consequence, as some professors will receive the same suggestions for improvement each year. Therefore, I want to utilize the TQFR feedback to suggest additional training for certain faculty on how to better effectively communicate with students. There is no doubt that Caltech is home to the greatest minds in the world, and helping these minds better pass on their immense knowledge will be key to Caltech’s future. With so many amazing and intellectual professors on campus, students should not be skipping lectures and the opportunity to further their growth because of teaching quality.
+> - Another topic I would like to bring up at this conference is how we can better incorporate and enforce TQFR feedback, which in most cases is ignored without consequence, as some professors will receive the same suggestions for improvement each year. Therefore, I want to utilize the TQFR feedback to suggest additional training for certain faculty on how to better effectively communicate with students. There is no doubt that Caltech is home to the greatest minds in the world, and helping these minds better pass on their immense knowledge will be key to Caltech's future. With so many amazing and intellectual professors on campus, students should not be skipping lectures and the opportunity to further their growth because of teaching quality.
 >
-> - Lastly, outside of academic goals, the topic of accessibility was brought up to me in the discussion, and I think it would make for a great focal point at this conference. As a mole in Blacker, I always dreaded walking up and down the “Hell” stairs every day. This feeling intensified when I strained my hamstring that year and could barely walk. However, as Blacker had no elevators or ramps, I had to walk up and down those hellish stairs every day. Therefore, I want to make my house and others more accessible to everyone, so we can all fully immerse in and enjoy the houses.
+> - Lastly, outside of academic goals, the topic of accessibility was brought up to me in the discussion, and I think it would make for a great focal point at this conference. As a mole in Blacker, I always dreaded walking up and down the "Hell" stairs every day. This feeling intensified when I strained my hamstring that year and could barely walk. However, as Blacker had no elevators or ramps, I had to walk up and down those hellish stairs every day. Therefore, I want to make my house and others more accessible to everyone, so we can all fully immerse in and enjoy the houses.
 
 # Finances
 
@@ -95,7 +95,7 @@ Sophie Elam:
 
 Thierno Diallo:
 
-> I will make tickets more accessible by finding cheaper venues as the ASCIT formal is more about students bonding and enjoying each other’s company than it is about the venue. I also plan on using our new funding as previously discussed to provide subsidized tickets for students who need the extra support amongst other initiatives.
+> I will make tickets more accessible by finding cheaper venues as the ASCIT formal is more about students bonding and enjoying each other's company than it is about the venue. I also plan on using our new funding as previously discussed to provide subsidized tickets for students who need the extra support amongst other initiatives.
 
 # Events
 
