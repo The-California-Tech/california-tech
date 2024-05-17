@@ -8,7 +8,7 @@ categories:
   - Letter to the Community
 tags:
   - 'Vol. CXXVII, Issue 13'
-weight: -1 # change back to zero when next instalment comes out
+weight: 0
 show_thumbnail: false
 thumbnail: /default7.jpg
 images:

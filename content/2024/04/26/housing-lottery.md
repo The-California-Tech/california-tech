@@ -7,7 +7,7 @@ categories:
   - News
 tags:
   - 'Vol. CXXVII, Issue 13'
-weight: -1
+weight: 0
 show_thumbnail: false
 thumbnail: /default6.jpg
 images:

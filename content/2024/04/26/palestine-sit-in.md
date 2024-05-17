@@ -8,7 +8,7 @@ categories:
   - News
 tags:
 #  - 'Vol. CXXVII, Issue 13'
-weight: -2
+weight: 0
 show_thumbnail: false
 thumbnail: /img/2024/apr26/protest_instagram.png
 images:

@@ -108,7 +108,8 @@ paginate = "24"
     "2024-04-01",
     "2024-04-04",
     "2024-04-12",
-    "2024-04-26"
+    "2024-04-26",
+    "2024-05-17"
   ]
   publicationTags = [
     "Vol. CXXVI, Issue 1",
@@ -130,5 +131,6 @@ paginate = "24"
     "Vol. CXXVII, Issue 10",
     "Vol. CXXVII, Issue 11",
     "Vol. CXXVII, Issue 12",
-    "Vol. CXXVII, Issue 13"
+    "Vol. CXXVII, Issue 13",
+    "Vol. CXXVII, Issue 14"
   ]
