@@ -62,3 +62,8 @@ slug: latest
 {{< issue_feature issue_tag="Vol. CXXVI, Issue 2" date="2023-04-04" >}}
 
 {{< issue_feature issue_tag="Vol. CXXVI, Issue 1" date="2023-03-03" >}}
+
+# Archives
+The Caltech Library has PDFs of most issues of *The California Tech* dating back to 1946. You can view them [here](http://campuspubs.library.caltech.edu/view/publication/California_Tech/California_Tech.html).
+
+There is also a GitHub mirror of the archives [here](https://github.com/The-California-Tech/all-the-california-techs).
