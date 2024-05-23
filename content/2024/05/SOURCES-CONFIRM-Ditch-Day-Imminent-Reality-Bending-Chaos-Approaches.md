@@ -13,6 +13,7 @@ images:
   - /default7.jpg
 sidebar: right
 toc: false
+slug: sources-confirm-ditch-day-imminent
 widgets:
   - recent
   - categories
