@@ -7,7 +7,7 @@ categories:
   - News
 tags:
   - 'Vol. CXXVII, Issue 14'
-weight: -2
+weight: -1
 show_thumbnail: false
 thumbnail: /img/2024/may17/protest_1.webp
 images:
