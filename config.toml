@@ -109,7 +109,8 @@ paginate = "24"
     "2024-04-04",
     "2024-04-12",
     "2024-04-26",
-    "2024-05-17"
+    "2024-05-17",
+    "2024-05-31",
   ]
   publicationTags = [
     "Vol. CXXVI, Issue 1",
@@ -132,5 +133,9 @@ paginate = "24"
     "Vol. CXXVII, Issue 11",
     "Vol. CXXVII, Issue 12",
     "Vol. CXXVII, Issue 13",
-    "Vol. CXXVII, Issue 14"
+    "Vol. CXXVII, Issue 14",
+    "Vol. CXXVII, Issue 15",
   ]
+
+[Params.CaliforniaTech.submitForm]
+  appScriptURL = "https://script.google.com/macros/s/AKfycbxCpDuLEvVQxKPXGAahakw3RuiWvXWJt7TrPonk288P7-RT9vW3Gp-10ewQSf99gi0ETg/exec"
