@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 15'
 weight: 0
 show_thumbnail: false
-thumbnail: /default5.jpg
+thumbnail: /img/2024/jun04/lessons_in_chemistry_thumbnail.png
 images:
-  - /default5.jpg
+  - /img/2024/jun04/lessons_in_chemistry_thumbnail.png
 sidebar: right
 toc: false
 widgets:
@@ -25,6 +25,9 @@ summary: >-
 ---
 
 Well readers, an entire term has gone by and I did not continue my column on the Apple TV+ series, *Lessons In Chemistry* in a timely manner. Apologies. I know you all were dying for more of my ramblings on this very mid show. As it is the last paper of the academic year, I will cram my reviews of each remaining episode of the series into this one column. Lord knows we don’t need to be held in suspense over the summer nor have this column bleed into the next academic year.
+
+![Poster for the show Lessons in Chemistry. It's a picture of the lower half of a woman, holding an old-fashioned TV set that shows her face on the screen. The title fo the show is below it, with the word "In" stylized like the periodic table element indium.](/img/2024/jun04/lessons_in_chemistry.png)
+{.post__image}
 
 To recap, in the past three episodes, we meet Elizabeth Zott, a chemist whose life was derailed by a series of unfortunate events: raped and dismissed from her Ph.D. program, fell in love with a man—Calvin Evans—who dies, had her research stolen, and was fired for getting pregnant out of wedlock. Sometimes life sucks and you hit rock bottom.
 

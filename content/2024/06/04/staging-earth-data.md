@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 15'
 weight: 0
 show_thumbnail: false
-thumbnail: /default5.jpg
+thumbnail: /img/2024/jun04/earth_data_musical.png
 images:
-  - /default5.jpg
+  - /img/2024/jun04/earth_data_musical.png
 sidebar: right
 toc: false
 widgets:
@@ -36,6 +36,11 @@ As time progressed, TeamFlow morphed into a different project altogether. “One
 Central to *Earth Data*’s development was its co-creative spirit, a virtue core to Brophy’s theatrical philosophy. “We’ve been listening to everyone,” Brophy said. “Obviously something worked, because we didn’t lose anybody, really, for seven months. That’s the proof to me [that *Earth Data* was successful]. That we held on to everybody, even when there were odd things or insecurities.” As Brophy sees it, impactful theater is no easy feat. “Working at an emotional level is exhausting at times. Especially if you’re a student who hasn’t explored the human, and just the logical rather than the emotional.” Yet, through empathic collaboration, theater production can access a unique echelon of artistic depth. “Once you get past the skin, and past the bone,” Brophy explains, one approaches the *“tuétano”*: the psychological marrow of theater as media.
 
 The immense value of such co-creativity was similarly emphasized by Emily Shisko, one of the project’s lead musical composers, particularly in working with inexperienced actors and singers. “I see the work as a way to get [people who don’t see themselves as composers] involved in music,” said Shisko. “The compositional process is often the most mysterious to those who don’t do it, and those who aren’t trained in it feel disqualified from it because they feel like they need education to have a say in it. So I love playing that role in music-making,” she continued. “Human beings are just so innately musical.”
+
+![Picture of the cast and crew of Earth Data on stage](/img/2024/jun04/earth_data_musical.png)
+{.post__image}
+
+*Cast and crew of Earth Data, from left to right: Joony Kim, Bradley Gay, Sullivan Braun, Josef Svoboda, Kimberley Rain, Eduardo Nascimento, Anya Janowski, Cole Remmen, Julian Wagner, Karen Shekyan, Maria Azcona Baez, Barbie Insua, Albert “Joey” Jefferson, Solvin Sigurdson, Armin Kleinboehl, Brian Brophy, the author, Eric Smith, Arabella Camuñez, Ariane Helou, Emily Shisko, Boyuan Chen, and Cai Tong Ng. Not pictured is crew member Mateo Delgado.*
 
 Indeed, *Earth Data* was a first exposure to musical theater for much of its cast and crew, and the level of co-creative agency shared by all made it a most invigorating one. Anya Janowski, a CCE staff member, not only played Lorelei—a neurotic-assistant type belonging to the corporate dimension of *Earth Data*’s narrative—but essentially invented the character. “I had no idea *Earth Data* was going on; I just wanted to see if I could be involved with the theater department in some way,” Janowski said. “I kept coming back for every workshop and it kept snowballing from there into this character Lorelei.” Surely enough, it was through Brophy’s co-creative, play-driven approach that Lorelei emerged in the script as an evolution of improv done by one of the actors in an earlier workshop. “We once did this exercise with this character, and I think they liked her so much that they created this irritated, kind of on-edge, slightly deranged assistant as one of the antagonists of the show.”
 

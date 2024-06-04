@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 15'
 weight: 0
 show_thumbnail: false
-thumbnail: /default5.jpg
+thumbnail: /img/2024/jun04/deveon_howard.png
 images:
-  - /default5.jpg
+  - /img/2024/jun04/deveon_howard.png
 sidebar: right
 toc: false
 widgets:
@@ -25,6 +25,8 @@ summary: >-
 ---
 
 Red Door, the campus café so inextricable from Caltech existence that it requires no introduction. How, then, to reword this introduction for the fourth entry in this series? As part of an ongoing effort to make the voices of Red Door staff heard in *The California Tech,* ensuing something of a hiatus in recent issues, the following interview was conducted with Deveon Howard, the Assistant Manager of Red Door.
+
+![Photo of Manager Deveon Howard, standing on the lawn outside Red Door with a smile on his face.](/img/2024/jun04/deveon_howard.png)
 
 **Lovely to meet you, Deveon! If I may begin, how did you come to join Caltech’s most cherished ruby-doored café?**
 

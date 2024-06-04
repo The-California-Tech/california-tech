@@ -44,6 +44,12 @@ If you’re thinking something along the lines of a playlist with consistent gen
 14. Runnin’ — Wings of Desire
 15. This Summer — Maroon 5
 
+![QR code to Apple Music playlist, with picture of a charred marshmallow with eyes and a mouth](/img/2024/jun04/marshmallow_apple.png)
+{.post__image}
+
+![QR code to Spotify playlist, with the same picture](/img/2024/jun04/marshmallow_spotify.png)
+{.post__image}
+
 [Spotify link](https://open.spotify.com/playlist/6VZO4F6yMcxL69tGQ9p7rD?si=qQTmgUimSmuKz0S3U2LFmA&pi=u-rUzGBXDbReKd)
 
 Hot takes from the chef:

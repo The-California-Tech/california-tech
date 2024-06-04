@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 15'
 weight: 0
 show_thumbnail: false
-thumbnail: /default5.jpg
+thumbnail: /img/2024/jun04/kirschvink_1.png
 images:
-  - /default5.jpg
+  - /img/2024/jun04/kirschvink_1.png
 sidebar: right
 toc: false
 widgets:
@@ -30,11 +30,20 @@ Those who choose this path are not looking for comfort. Whether the destination 
 
 Professor Joe Kirschvink is the man behind the madness. Despite the sacred white oak cane he carries around to help with his partially crippled foot, Kirschvink, dressed in his every-day uniform of jeans and a flannel shirt marches swiftly into the field with a timeless exuberance. With a slightly croaky voice, Kirschvink projects to the large group when there is something interesting to be learned about the surrounding rock formations. Kirschvink grew up in Arizona and fostered a love of the American Southwest that has translated into the fiber of Ge 136: Regional Field Geology of the Southwestern United States. Following the tradition of Bob Sharp, Kirschvink is committed to inspiring students to love the outdoors in this unorthodox learning community. Right before every departure, Kirschvink reminds everyone that Sharp created the class, and his methodology remains incredibly effective at teaching students about the geology around them in a way that makes it stick. “I went on every one of Bob Sharp’s trips that I could while I was here… Intellectually stimulating as hell because *the students* were presenting,” said Kirschvink.
 
+![Picture of Professor Joe Kirschvink smiling](/img/2024/jun04/kirschvink_1.png)
+{.post__image}
+
 Kirschvink started his academic career at Caltech, earning his B.S. in biology and M.S. in geology in 1975. Despite their shared legacy of Ge 136, Kirschvink shared that he did not consider Sharp to be a mentor during his time at Caltech. Instead, Kirschvink considered Professors Heinz Lowenstam and Eugene Shoemaker to be his leading influences. Professor Lowenstam was a German immigrant who was denied a PhD in Munich for being a Jew in Nazi Germany, Kirschvink told me with an exasperated roll of his eyes. Professor Shoemaker introduced Kirschvink to the wonderful world of biogenic magnetite, which became a focus of his career. According to Kirschvink, “I came to Caltech naïve…Jean Shoemaker changed the course of my life.” In 1997, Professor Shoemaker lost his life in a high velocity automobile crash in Australia. The experience of losing a mentor “was like having your stomach ripped out, or losing a piece of your brain,” said Kirschvink.
 
 Just as Kirschvink carries on the legacy of Bob Sharp in Ge 136, he also infuses the legacy of the incredible mentors that shaped his own career. From packing a bulging duffle of extra layers for every trip, to shaking tents in the morning to make sure no one falls behind schedule, Kirschvink does his best to make sure everyone is taken care of. In the event of car trouble or another emergency, Joe’s extensive experience leading field excursions both in research expeditions and in his other classes every term enables him to take any challenges that arise in stride. Take for example the time that a vehicle wouldn’t start, and before anybody could grab the jumper cables, Kirschvink had the students lined up rocking the car back and forth. Sure enough, the jammed transmission settled into park, and the car started just like new.
 
+![Photo of many students pushing on a car together](/img/2024/jun04/kirschvink_2.png)
+{.post__image}
+
 In Confusion Canyon of the Confidence Hills in Death Valley, the Bishop tuff layer in the stratigraphic record is exposed. A short hike off the beaten path lies the sampling site of foundational work on the bishop ash done by Caltech Geologists. After incurring minor casualties crossing a small, muddy river, a recent 136 trip revisited the site and recovered an old tag that had been nailed into the outcrop. Students gathered around closely, listening intently to Professor Kirschvink while he taught them about the study and its significance. “It was a rare moment of intellectual excitement – totally worth walking two miles in muddy wet shoes,” said Matteo Kimura, sophomore in the applied math department.
+
+![Students gathered around a cliff face, listening as someone speaks](/img/2024/jun04/kirschvink_3.png)
+{.post__image}
 
 After a long day in the field, the group returns to home base to prepare dinner and rest up for the long day that lies ahead. By this time the air has usually grown cold, but the promise of a warm dinner to combat the chill is enough to motivate campers to get cooking in the camp kitchen. Around the campfire, Kirschvink leads a name game where worst nightmares, fun facts, dreams and superpowers are shared and camaraderie is enjoyed. It requires a special kind of person to unite a group of 30 strangers and make them glad to be together. That is the magic that keeps students returning term after term, even when catching up on sleep or getting ahead on sets may be more convenient.
 
@@ -47,6 +56,9 @@ Kirschvink self-proclaims, “I tend to do things that upset people,” especial
 What Kirschvink considers his greatest contribution to science is the discovery of biogenic magnetite in the human brain. Microbes and other animals have been proven by Kirschvink to use magnetosomes, which are organelles inside cells capable of sensing magnetic fields, to navigate based on the Earth’s magnetic field. Later, he found these same magnetosomes in human brains and further studies have shown that human brain waves are affected by changes in magnetic fields. However, journals refuse to publish these findings because peer reviewers are adamant it cannot be possible. It is clear that what Kirschvink is after is not prestige, but discovery.
 
 The propensity for thinking outside of the box has been the driver for many foundational discoveries in geology, and Kirschvink aims to inspire his students in Ge 11/101b to strive for out of the box thinking. “Joe is one of the professors whoI will remember well beyond leaving campus,” said Megan Robertson, senior in geochemistry. She recalls that, “In Ge 11b, he facilitates a project, called the nut paper, in which a student has to investigate a nutty idea in Geobiology. So much of the field has come about through insane ideas which were not initially recognized, and that was the intention of this project: to show that, although something can be wild and fantastical, with thorough investigation, it can be shown that there is a possibility of its validity.”
+
+![Photo of part of a large circle of students in a mostly deserted parking lot. Prof. Kirschvink stands in the center, spreading his arms wide, cane in one hand](/img/2024/jun04/kirschvink_4.png)
+{.post__image}
 
 When it is finally time to head back to campus, one final Ge 136 tradition must be executed at the very last stop. A call to the deity Seismolani must be made as a group. As everyone forms a large circle, Professor Kirschvink recounts the origins of his sacred white oak cane. While visiting a temple in Shikoku, Japan, with his son for a school trip, the branch of a white oak tree was gifted to him by a monk. This is thought to be the most spiritual tree in Japan, and thus became his tie to the spirit world. The tradition pays homage to Bob Sharp’s connection to Seismolani, goddess of earthquakes. With the hope Seismolani will respond with a quake, everyone in the circle joins hands and jumps once in unison with a firm “move!” And though this has never worked before, the students still have faith that Professor Joe Kirschvink really could shake the Earth if he put his mind to it.
 

@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 15'
 weight: 0
 show_thumbnail: false
-thumbnail: /default5.jpg
+thumbnail: /img/2024/jun04/homage.png
 images:
-  - /default5.jpg
+  - /img/2024/jun04/homage.png
 sidebar: right
 toc: false
 widgets:
@@ -25,6 +25,12 @@ summary: >-
 ---
 
 On May 25, *Homage to Nature* was unveiled at The Huntington Library, Art Museum, and Botanical Gardens. Created by Mineo Mizuno, a California-based Japanese American artist, the sculpture appreciates wood in its natural state while highlighting related climate issues and ramifications.
+
+![](/img/2024/jun04/homage.png)
+{.post__image}
+
+*Mineo Mizuno, Homage to Nature, 2024.*  
+*Photo: Elon Schoenholz/The Huntington Library, Art Museum, and Botanical Gardens*
 
 Mizuno was born in Gifu Prefecture, Japan in 1944. He attended the Chouinard Art Institute in Los Angeles, which has been absorbed into the California Institute of the Arts, where he studied ceramics from 1966-1968. His work has been included in collections of institutions such as the Los Angeles County Museum of Art, the Art Institute of Chicago, and the Smithsonian. In Japan, his work has been exhibited in galleries such as the Shibuya Seibu Art Gallery in Tokyo and the Gallery Kasahara in Osaka. According to Mizuno’s website, after having spent most of his life in urban areas, he is “now currently situated in the wilderness, miles away from society in the foothills of the Sierra Nevada Mountains in Northern California” where he draws inspiration for his work.
 
