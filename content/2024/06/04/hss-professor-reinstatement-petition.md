@@ -1,5 +1,5 @@
 ---
-title: "HSS Professor's Reinstatement Petition"
+title: "Professor Dana Murphy's Reinstatement Petition"
 authors:
   - ChiChi Ifebi
 date: 2024-06-04 08:00:00 -0700
