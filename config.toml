@@ -136,3 +136,6 @@ paginate = "24"
     "Vol. CXXVII, Issue 14",
     "Vol. CXXVII, Issue 15"
   ]
+
+[Params.CaliforniaTech.submitForm]
+  appScriptURL = "https://script.google.com/macros/s/AKfycbxCpDuLEvVQxKPXGAahakw3RuiWvXWJt7TrPonk288P7-RT9vW3Gp-10ewQSf99gi0ETg/exec"
