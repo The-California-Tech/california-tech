@@ -9,7 +9,7 @@ categories:
   - Op-Ed
 tags:
   - 'Vol. CXXVII, Issue 14'
-weight: -1
+weight: 0
 show_thumbnail: false
 thumbnail: /default4.jpg
 images:
