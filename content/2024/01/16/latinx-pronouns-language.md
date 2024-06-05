@@ -1,7 +1,7 @@
 ---
 title: "“Latinx”: Pronouns, language, and gender."
 authors: 
-    - Lilia Arrizabalaga | Managing Editor 
+    - Eneko Arrizabalaga | Managing Editor 
 date: 2024-01-16
 categories:
     - Editorial

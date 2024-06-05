@@ -1,7 +1,7 @@
 ---
 title: "Financial Aid Lawsuit Against Caltech and Other Top Universities Continues"
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2024-04-12
 categories:
   - News

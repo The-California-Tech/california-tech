@@ -1,7 +1,7 @@
 ---
 title: ChatGPT vs. the Honor Code
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2023-06-13T07:00:00.000Z
 categories:
   - Academics

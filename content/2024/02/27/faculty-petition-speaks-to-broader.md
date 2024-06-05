@@ -1,7 +1,7 @@
 ---
 title: Faculty Petition Speaks to Broader Implications for Undergraduate Admissions
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
   - Mahak Mathur
 date: 2024-02-27T08:00:00.000Z
 categories:

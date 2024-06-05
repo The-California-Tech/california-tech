@@ -1,7 +1,7 @@
 ---
 title: Update on Bernoulli the Beaver!
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2023-05-31T07:00:00.000Z
 categories:
   - Culture

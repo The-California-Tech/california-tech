@@ -1,7 +1,7 @@
 ---
 title: The Yam Controversy
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2023-04-04
 categories:
   - Humor

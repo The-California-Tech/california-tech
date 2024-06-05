@@ -1,7 +1,7 @@
 ---
 title: State of the city
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2024-03-12T17:16:30.187Z
 categories:
     - Community

@@ -1,7 +1,7 @@
 ---
 title: "April 29 Palestine Rally"
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2024-05-02T17:00:00.000Z
 categories:
   - News

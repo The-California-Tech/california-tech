@@ -1,7 +1,7 @@
 ---
 title: Local News Beat
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2023-09-19T07:00:00.000Z
 categories:
   - The Outside World

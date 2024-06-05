@@ -1,7 +1,7 @@
 ---
 title: What's With The Turtles?
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2023-04-24
 categories:
   - Campus

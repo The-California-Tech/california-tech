@@ -2,7 +2,7 @@
 title: "President, Provost, VPSA Convene Faculty Advisory Committee on Undergraduate Admissions Policy"
 authors: 
     - Michael Gutierrez 
-    - Lilia Arrizabalaga
+    - Eneko Arrizabalaga
     - Mahak Mathur
 date: 2024-02-06
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Write For the Tech."
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2023-11-28
 categories:
   - Campus

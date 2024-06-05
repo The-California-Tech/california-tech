@@ -1,7 +1,7 @@
 ---
 title: 'Today on: How badly can I represent this data'
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2023-10-03T07:00:00.000Z
 categories:
   - Editorial

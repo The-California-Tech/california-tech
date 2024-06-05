@@ -1,7 +1,7 @@
 ---
 title: THE HOT RIVET Puzzles Section
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
   - Michael Gutierrez
 date: 2023-04-04
 categories:

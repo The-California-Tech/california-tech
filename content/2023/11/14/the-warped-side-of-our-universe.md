@@ -1,7 +1,7 @@
 ---
 title: 'The Warped Side of Our Universe'
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2023-11-14
 categories:
   - Culture

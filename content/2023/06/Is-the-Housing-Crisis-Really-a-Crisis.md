@@ -3,7 +3,7 @@ title: Is the Housing “Crisis” Really a Crisis?
 authors:
   - Shalini Kurinchi-Vendhan
   - Emily Baylock
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
   - Michael Gutierrez
 date: 2023-06-13T07:00:00.000Z
 categories:

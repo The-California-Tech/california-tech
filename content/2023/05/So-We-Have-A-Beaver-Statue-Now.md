@@ -1,7 +1,7 @@
 ---
 title: So We Have A Beaver Statue Now.
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2023-05-16T07:00:00.000Z
 categories:
   - Culture

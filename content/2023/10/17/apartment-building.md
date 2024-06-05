@@ -1,7 +1,7 @@
 ---
 title: 'Housing in Pasadena: A Zero-Sum Game?'
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
   - Priscila Marquez
 date: 2023-10-17T00:00:00.000Z
 categories:

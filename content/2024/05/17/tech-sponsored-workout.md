@@ -1,7 +1,7 @@
 ---
 title: 'The California Tech Sponsored Workout'
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2024-05-17 08:00:00 -0700
 categories:
   - Sports

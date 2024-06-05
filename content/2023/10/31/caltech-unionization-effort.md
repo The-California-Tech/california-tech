@@ -1,7 +1,7 @@
 ---
 title: Caltech Unionization Effort
 authors:
-  - Lilia Arrizabalaga
+  - Eneko Arrizabalaga
 date: 2023-10-31T00:00:00.000Z
 categories:
   - Campus
