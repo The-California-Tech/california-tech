@@ -21,10 +21,10 @@ widgets:
   - categories
   - recent
 summary: >-
-    We, the students of Caltech, are writing a petition to request that Dean Jahner and the Caltech administration reinstate Professor Murphy and recognize the importance of Black studies at Caltech.
+    We, the students of Caltech, are writing a petition to request that the Caltech administration reinstate Professor Murphy and recognize the importance of Black studies at Caltech.
 ---
 
-Hello everyone! In case you haven’t heard, Professor Dana Murphy, Associate Professor of Black Studies and English at Caltech, was recently terminated. We, the students of Caltech, are writing a petition to request that Dean Jahner and the Caltech administration reinstate Professor Murphy and recognize the importance of Black studies at Caltech. We are collecting signatures and/or comments about Professor Murphy to present to these administrators. If you would like to contribute, please fill out the following Google form: https://forms.gle/LJHMwELPPxLhRESk7
+Hello everyone! In case you haven’t heard, Professor Dana Murphy, Associate Professor of Black Studies and English at Caltech, was recently terminated. We, the students of Caltech, are writing a petition to request that the Caltech administration reinstate Professor Murphy and recognize the importance of Black studies at Caltech. We are collecting signatures and/or comments about Professor Murphy to present to these administrators. If you would like to contribute, please fill out the following Google form: https://forms.gle/LJHMwELPPxLhRESk7
 
 Participation is voluntary, and you may remain anonymous if you prefer.
 
