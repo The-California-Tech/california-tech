@@ -26,7 +26,10 @@ summary: >-
 # Elizabeth, Jeb, Santiago
 
 
-![](/img/2024/may17/mello-drama2.jpeg)
+![](/img/2024/jun11/Elizabeth.jpeg)
+![](/img/2024/jun11/Jeb.jpeg)
+![](/img/2024/jun11/Santiago.jpeg)
+
 
 
 
@@ -43,7 +46,7 @@ summary: >-
 
 
 # Jonathan, Guutz, Max
-
+![](/img/2024/jun11/Jonathan_Guutz_Max.jpg)
 
     Hi, friends! We are
 
@@ -83,13 +86,15 @@ summary: >-
     Leadership experience — Parsec President of 2 years and Blacker Head Waiter Motivation — 2 main motivations: avoid mistakes of seniors of old (stack scheduling mistakes, lack of knowledge of campus spaces), and work with admin to enable us to go and do things we’ve only heard tales of (from ditch day to pranks to senior trips). This ticket believes in its mission, has extensive history working with admin, and has the tools and knowledge to make it happen, let’s make senior year great.
 
 
-# Sascha and Sophie
-
+# Sascha and  Sophie
+![](/img/2024/jun11/Sascha.jpeg)
+![](/img/2024/jun11/Sophie.jpeg)
 
     Hey y’all, I’m Sascha Goldsmith, a MechE in Blacker and I’m running for Senior Class Co-President. Currently, I am involved in Cube Sat Club as the mechanical lead, and the
 
 
     President/founder of the Arts Guild Club (maybe you’ve come to one of our Wine and Cheese art nights :) [insert x3 eyes emojies]), and consider myself a relatively active member in campus life. As a representative of the Senior Class, I will work to ensure that our collective interests regarding Ditch Day approvals and stacks, in addition to a _realll _Senior Prank (no tea no shade), AND the most epic Senior Trip ever, get organized and completed in a timely and effective way. If you have any suggestions or questions for me, feel free to reach out on email, messenger, or whatever platform you know me on. My goal is to make sure that I can represent each of the diverse groups on campus be a bridge in presenting their interests to administrators.
+
 
 
     Hey y’all, I’m Sophie Polidoro, a MechE from Avery house and I’m running for Senior Class Co-President. Throughout my time at Caltech, I’ve enjoyed my involvement in groups like Caltech Ballet (where I’ve enjoyed performing in the dance show),
@@ -101,9 +106,8 @@ summary: >-
     mechanical team, and most recently as vice president for the Arts Guild Club. My hope is to have an open dialogue and be able to incorporate a variety of perspectives from students across campus and work on ways to make sure everyone feels heard and included in decisions pertaining to the senior class!
 
 
-# 
-                            Ramzi
-
+# Ramzi
+![](/img/2024/jun11/Ramzi.jpeg)
 
     Hi everyone!! My name is Ramzi Saber, the current Ricketts president and guitarist for the CalTech Band AETHER! I’m super honored to be nominated for this position and more so grateful to have the opportunity to represent and help my class! I make it a passion and investment of mine to be there for people and help in any way I can - that has always been a priority for me. For context, I was senior class president for my high school during peak Covid era. Therefore we had every event canceled. However, during my campaign I made a promise that we will have events that people enjoy, and memories that would last forever - so I decided to go above and beyond. I partnered up with the mayor of my city and board of education to reserve large outside halls, parks, and fields to host events and even senior prom! For our junior prom, everyone complained how lame it was because it was always hosted in the gymnasium. So I reached out to a yacht company and reserved our junior prom to be held there, while also negotiating to reduce the price from 120$ to 40$. I can go on and on about what I can do and what I have done, but I would rather make my intentions clear. I’m very persistent when it comes to making sure people have a good time and make great memories - and I want to do that for the people around me and in my class. We are a small school, and I’m grateful for the fact that there is a possibility to communicate with all of you and hear what you all have to say. No amount of words can express how much it would mean to me to represent you all
 
