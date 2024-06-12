@@ -5,7 +5,7 @@ date: 2024-06-11
 categories:
   - Statements
 tags:
-  - 'Vol. CXXVII, Issue 14'
+  - 'Vol. CXXVII, Issue 15'
 weight: -2
 show_thumbnail: false
 thumbnail: /default7.jpg
@@ -26,8 +26,11 @@ summary: >-
 # Elizabeth, Jeb, Santiago
 
 ![](/img/2024/jun11/Elizabeth.jpeg)
+{.post__image}
 ![](/img/2024/jun11/Jeb.jpeg)
+{.post__image}
 ![](/img/2024/jun11/Santiago.jpeg)
+{.post__image}
 
 We are running to be your Senior Class Co-Presidents. Throughout our time at Caltech, we have been dedicated to building a vibrant, inclusive community, ensuring that our collective experience is both memorable and fulfilling. We have made it a point to integrate ourselves as large part of multiple houses and many groups across campus, both academic, social, and other, as our goal as students is to meet, interact with, and celebrate as many diverse individuals as we can. It is with this commitment that we seek your support to serve as your Senior Class Co-Presidents.
 
@@ -37,9 +40,11 @@ Jeb also began as Page’s Work Frosh and ARC representative, where he quickly f
 
 As your Senior Class Co-Presidents, we are committed to creating a year that is vibrant, inclusive, and unforgettable. We will dedicate our efforts to organizing impactful senior events, engaging campus-wide activities, and facilitate an experience that truly reflects our collective achievements and memories. Our goal is to ensure that every senior feels celebrated and connected during our final year together and that every student on campus is immersed in the unique experience of being part of the Caltech community.
 
+---
 
 # Jonathan, Guutz, Max
 ![](/img/2024/jun11/Jonathan_Guutz_Max.jpg)
+{.post__image}
 
 Hi, friends! We are  
 Michael ‘Guutz’ Gutierrez (Dabney),  
@@ -66,16 +71,46 @@ Leadership experience — Parsec President of 2 years and Blacker Head Waiter
 
 Motivation — 2 main motivations: avoid mistakes of seniors of old (stack scheduling mistakes, lack of knowledge of campus spaces), and work with admin to enable us to go and do things we’ve only heard tales of (from ditch day to pranks to senior trips). This ticket believes in its mission, has extensive history working with admin, and has the tools and knowledge to make it happen, let’s make senior year great.
 
+---
+
 # Sascha and Sophie
 ![](/img/2024/jun11/Sascha.jpeg)
+{.post__image}
 ![](/img/2024/jun11/Sophie.jpeg)
+{.post__image}
 
-Hey y’all, I’m Sascha Goldsmith, a MechE in Blacker and I’m running for Senior Class Co-President. Currently, I am involved in Cube Sat Club as the mechanical lead, and the President/founder of the Arts Guild Club (maybe you’ve come to one of our Wine and Cheese art nights :) [insert x3 eyes emojies]), and consider myself a relatively active member in campus life. As a representative of the Senior Class, I will work to ensure that our collective interests regarding Ditch Day approvals and stacks, in addition to a _realll _Senior Prank (no tea no shade), AND the most epic Senior Trip ever, get organized and completed in a timely and effective way. If you have any suggestions or questions for me, feel free to reach out on email, messenger, or whatever platform you know me on. My goal is to make sure that I can represent each of the diverse groups on campus be a bridge in presenting their interests to administrators.
+Hey y’all, I’m Sascha Goldsmith, a MechE in Blacker and I’m running for Senior Class Co-President. Currently, I am involved in Cube Sat Club as the mechanical lead, and the President/founder of the Arts Guild Club (maybe you’ve come to one of our Wine and Cheese art nights :) [insert x3 eyes emojies]), and consider myself a relatively active member in campus life. As a representative of the Senior Class, I will work to ensure that our collective interests regarding Ditch Day approvals and stacks, in addition to a _realll_ Senior Prank (no tea no shade), AND the most epic Senior Trip ever, get organized and completed in a timely and effective way. If you have any suggestions or questions for me, feel free to reach out on email, messenger, or whatever platform you know me on. My goal is to make sure that I can represent each of the diverse groups on campus be a bridge in presenting their interests to administrators.
 
 Hey y’all, I’m Sophie Polidoro, a MechE from Avery house and I’m running for Senior Class Co-President. Throughout my time at Caltech, I’ve enjoyed my involvement in groups like Caltech Ballet (where I’ve enjoyed performing in the dance show), Engineers Without Borders where I currently serve as secretary, Cube Sat Club's mechanical team, and most recently as vice president for the Arts Guild Club. My hope is to have an open dialogue and be able to incorporate a variety of perspectives from students across campus and work on ways to make sure everyone feels heard and included in decisions pertaining to the senior class!
 
+---
 
 # Ramzi
 ![](/img/2024/jun11/Ramzi.jpeg)
+{.post__image}
 
 Hi everyone!! My name is Ramzi Saber, the current Ricketts president and guitarist for the CalTech Band AETHER! I’m super honored to be nominated for this position and more so grateful to have the opportunity to represent and help my class! I make it a passion and investment of mine to be there for people and help in any way I can — that has always been a priority for me. For context, I was senior class president for my high school during peak Covid era. Therefore we had every event canceled. However, during my campaign I made a promise that we will have events that people enjoy, and memories that would last forever — so I decided to go above and beyond. I partnered up with the mayor of my city and board of education to reserve large outside halls, parks, and fields to host events and even senior prom! For our junior prom, everyone complained how lame it was because it was always hosted in the gymnasium. So I reached out to a yacht company and reserved our junior prom to be held there, while also negotiating to reduce the price from 120$ to 40$. I can go on and on about what I can do and what I have done, but I would rather make my intentions clear. I’m very persistent when it comes to making sure people have a good time and make great memories — and I want to do that for the people around me and in my class. We are a small school, and I’m grateful for the fact that there is a possibility to communicate with all of you and hear what you all have to say. No amount of words can express how much it would mean to me to represent you all — but what I can say is that being able to help and represent you all would be at the top of my priorities — as with any leadership position I have. I also want to use this platform to thank all of those who had the chance to get to know me and those who I created wonderful memories here with. It’s a stressful school, and a difficult environment at times, but I’ve always strived to be someone that people can look to for an escape and sense of joy. Thank you again for the nomination and I hope that I can show what I stand for in a position like this and be there for you all. Much love
+
+---
+
+# Rachael Kim, Sam Small, and Evan Zhang
+![](/img/2024/jun11/rachael.png)
+{.post__image}
+![](/img/2024/jun11/evan_and_sam.jpg)
+{.post__image}
+
+Hey Class of 2025!
+
+It's Rachael Kim, Sam Small, and Evan Zhang here – your dynamic trio of candidates for senior class president! We're on a mission to make our final year at college an epic experience that'll leave us with memories to last a lifetime.
+
+What makes us the perfect team for the job? Well, we've been besties since forever, so we know how to work together seamlessly and have a blast doing it. But more importantly, we're event experts with a talent for turning ordinary days into extraordinary adventures.
+
+Just imagine – senior week activities that'll blow your mind, a graduation ceremony that'll go down in history, and a non-stop schedule of unforgettable experiences in between. We're creative wizards with ideas galore, from innovative fundraisers (dunk tank, anyone?) to mind-blowing campus events that'll keep the good times rolling all year long.
+
+But it's not just about the parties (although let's be real, we're the life of the party). It's about fostering an inclusive, positive atmosphere where everyone feels valued and excited to be a part of the Class of 2025. We'll spread positive vibes and make sure our senior year is the best one yet – a year you'll look back on with a huge smile on your face.
+
+So vote for us, and let's go out with an epic bang that'll cement our legacy at this school forever. We're just getting started on something amazing.
+
+Catch you around campus!
+
+Rachael, Sam, & Evan
