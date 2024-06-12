@@ -8,9 +8,9 @@ tags:
   - 'Vol. CXXVII, Issue 14'
 weight: -2
 show_thumbnail: false
-thumbnail: /default7.jpg
+thumbnail: /default2.jpg
 images:
-  - /default7.jpg
+  - /default2.jpg
 sidebar: right
 toc: false
 widgets:
@@ -78,4 +78,28 @@ Hey y’all, I’m Sophie Polidoro, a MechE from Avery house and I’m running f
 # Ramzi
 ![](/img/2024/jun11/Ramzi.jpeg)
 
-Hi everyone!! My name is Ramzi Saber, the current Ricketts president and guitarist for the CalTech Band AETHER! I’m super honored to be nominated for this position and more so grateful to have the opportunity to represent and help my class! I make it a passion and investment of mine to be there for people and help in any way I can — that has always been a priority for me. For context, I was senior class president for my high school during peak Covid era. Therefore we had every event canceled. However, during my campaign I made a promise that we will have events that people enjoy, and memories that would last forever — so I decided to go above and beyond. I partnered up with the mayor of my city and board of education to reserve large outside halls, parks, and fields to host events and even senior prom! For our junior prom, everyone complained how lame it was because it was always hosted in the gymnasium. So I reached out to a yacht company and reserved our junior prom to be held there, while also negotiating to reduce the price from 120$ to 40$. I can go on and on about what I can do and what I have done, but I would rather make my intentions clear. I’m very persistent when it comes to making sure people have a good time and make great memories — and I want to do that for the people around me and in my class. We are a small school, and I’m grateful for the fact that there is a possibility to communicate with all of you and hear what you all have to say. No amount of words can express how much it would mean to me to represent you all — but what I can say is that being able to help and represent you all would be at the top of my priorities — as with any leadership position I have. I also want to use this platform to thank all of those who had the chance to get to know me and those who I created wonderful memories here with. It’s a stressful school, and a difficult environment at times, but I’ve always strived to be someone that people can look to for an escape and sense of joy. Thank you again for the nomination and I hope that I can show what I stand for in a position like this and be there for you all. Much love
+    Hi everyone!! My name is Ramzi Saber, the current Ricketts president and guitarist for the CalTech Band AETHER! I’m super honored to be nominated for this position and more so grateful to have the opportunity to represent and help my class! I make it a passion and investment of mine to be there for people and help in any way I can - that has always been a priority for me. For context, I was senior class president for my high school during peak Covid era. Therefore we had every event canceled. However, during my campaign I made a promise that we will have events that people enjoy, and memories that would last forever - so I decided to go above and beyond. I partnered up with the mayor of my city and board of education to reserve large outside halls, parks, and fields to host events and even senior prom! For our junior prom, everyone complained how lame it was because it was always hosted in the gymnasium. So I reached out to a yacht company and reserved our junior prom to be held there, while also negotiating to reduce the price from 120$ to 40$. I can go on and on about what I can do and what I have done, but I would rather make my intentions clear. I’m very persistent when it comes to making sure people have a good time and make great memories - and I want to do that for the people around me and in my class. We are a small school, and I’m grateful for the fact that there is a possibility to communicate with all of you and hear what you all have to say. No amount of words can express how much it would mean to me to represent you all
+
+
+    - but what I can say is that being able to help and represent you all would be at the top of my priorities - as with any leadership position I have. I also want to use this platform to thank all of those who had the chance to get to know me and those who I created wonderful memories here with. It’s a stressful school, and a difficult environment at times, but I’ve always strived to be someone that people can look to for an escape and sense of joy. Thank you again for the nomination and I hope that I can show what I stand for in a position like this and be there for you all. Much love
+
+# Rachael, Sam, & Evan
+
+![](/img/2024/jun11/racheal.png)
+![](/img/2024/jun11/sam-evan.jpg)
+
+Hey Class of 2025!
+
+It's Rachael Kim, Sam Small, and Evan Zhang here – your dynamic trio of candidates for senior class president! We're on a mission to make our final year at college an epic experience that'll leave us with memories to last a lifetime.
+
+What makes us the perfect team for the job? Well, we've been besties since forever, so we know how to work together seamlessly and have a blast doing it. But more importantly, we're event experts with a talent for turning ordinary days into extraordinary adventures.
+
+Just imagine – senior week activities that'll blow your mind, a graduation ceremony that'll go down in history, and a non-stop schedule of unforgettable experiences in between. We're creative wizards with ideas galore, from innovative fundraisers (dunk tank, anyone?) to mind-blowing campus events that'll keep the good times rolling all year long.
+
+But it's not just about the parties (although let's be real, we're the life of the party). It's about fostering an inclusive, positive atmosphere where everyone feels valued and excited to be a part of the Class of 2025. We'll spread positive vibes and make sure our senior year is the best one yet – a year you'll look back on with a huge smile on your face.
+
+So vote for us, and let's go out with an epic bang that'll cement our legacy at this school forever. We're just getting started on something amazing.
+
+Catch you around campus!
+
+Rachael, Sam, & Evan
