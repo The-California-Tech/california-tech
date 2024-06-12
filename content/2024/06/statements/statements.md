@@ -3,7 +3,7 @@ title: 'Senior Class Co President statements'
 authors: []
 date: 2024-06-11
 categories:
-  - Statements
+  - Campus
 tags:
   - 'Vol. CXXVII, Issue 14'
 weight: -2
