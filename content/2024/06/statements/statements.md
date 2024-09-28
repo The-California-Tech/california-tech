@@ -6,7 +6,7 @@ categories:
   - Campus
 tags:
   - 'Vol. CXXVII, Issue 15'
-weight: -2
+weight: 0
 show_thumbnail: false
 thumbnail: /default2.jpg
 images:
@@ -96,7 +96,7 @@ Hi everyone!! My name is Ramzi Saber, the current Ricketts president and guitari
 # Rachael Kim, Sam Small, and Evan Zhang
 ![](/img/2024/jun11/rachael.png)
 {.post__image}
-![](/img/2024/jun11/evan_and_sam.jpg)
+![](/img/2024/jun11/sam-evan.jpg)
 {.post__image}
 
 Hey Class of 2025!

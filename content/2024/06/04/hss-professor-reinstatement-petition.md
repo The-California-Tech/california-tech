@@ -7,7 +7,7 @@ categories:
   - Campus
 tags:
   - 'Vol. CXXVII, Issue 15'
-weight: -1
+weight: 0
 show_thumbnail: false
 thumbnail: /default5.jpg
 images:

@@ -1,5 +1,5 @@
 ---
-title: 'Man Vs Manion (Man edition)'
+title: 'Man Vs Mannion (Man edition)'
 authors:
 date: 2024-09-24 08:00:00 -0700
 categories:

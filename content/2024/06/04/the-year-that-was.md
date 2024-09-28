@@ -7,7 +7,7 @@ categories:
   - News
 tags:
   - 'Vol. CXXVII, Issue 15'
-weight: -2
+weight: 0
 show_thumbnail: false
 thumbnail: /default5.jpg
 images:
