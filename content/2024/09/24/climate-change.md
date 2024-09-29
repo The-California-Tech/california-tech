@@ -1,5 +1,5 @@
 ---
-title: 'Climate Change @ huntington'
+title: 'New Huntington Exhibition Examines the Environment Through a Historical Lens'
 authors:
     - Emily Yu
 date: 2024-09-24 08:00:00 -0700
@@ -10,9 +10,9 @@ tags:
   - 'Vol. CXXVII, Issue 16'
 weight: 0
 show_thumbnail: false
-thumbnail: /default7.jpg
+thumbnail: /img/2024/sep24/huntington.png
 images:
-  - /default7.jpg
+  - /img/2024/sep24/huntington.png
 sidebar: right
 toc: false
 widgets:
@@ -39,13 +39,9 @@ To establish links between concerns in the 19th century and the current climate 
 
 Located in the MaryLou and George Boone Gallery, “Storm Cloud” runs through January 6.
 
+![Landscape painting in soft colors showing a factory situated in the mountains, billowing smoke. A person is riding a horse on a path leading to the factory; a dog follows nearby.](/img/2024/sep24/huntington.png)
+{.post__image}
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-
-Caption: Philippe Jacques de Loutherbourg, *Iron Works of Coalbrook Dale *in* The Romantic and Picturesque Scenery of England and Wales*, 1805.
+Caption: Philippe Jacques de Loutherbourg, *Iron Works of Coalbrook Dale*in *The Romantic and Picturesque Scenery of England and Wales*, 1805.
 
 Source: The Huntington Library, Art Museum, and Botanical Gardens.
