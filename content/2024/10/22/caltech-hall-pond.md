@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 18'
 weight: 0
 show_thumbnail: false
-thumbnail: /default2.jpg
+thumbnail: /img/2024/oct24/22/gold-road.png
 images:
-  - /default2.jpg
+  - /img/2024/oct24/22/gold-road.png
 sidebar: right
 toc: false
 widgets:
@@ -29,3 +29,5 @@ For the astute eyes on campus, you may have noticed something different about Ca
 To put it simply, the bridge across Caltech Hall Pond will be closed essentially until the end of Fall term (December 13th), and many of us will have to wait until after the holidays until we can use it again.
 
 At this moment in time however, it seems some are already fed up with the installation, as seen in a photo taken on September 30, 2024 at around 6:00 pm (shown at right).  (Please do not vandalize or commit property destruction). So whether you admire its dancing shimmers under the light or wish it was removed already so you can save a minute of extra walking, *This Moment in Time *is here to stay (again, until December 15th). 
+
+![](/img/2024/oct24/22/gold-road.png)

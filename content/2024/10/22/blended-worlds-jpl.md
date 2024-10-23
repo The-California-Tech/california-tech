@@ -9,9 +9,9 @@ tags:
   - 'Vol. CXXVII, Issue 18'
 weight: 0
 show_thumbnail: false
-thumbnail: /img/2024/oct24/22/gold-road.png
+thumbnail: /default2.jpg
 images:
-  - /img/2024/oct24/22/gold-road.png
+  - /default2.jpg
 sidebar: right
 toc: false
 widgets:
@@ -28,5 +28,5 @@ summary: >-
 
 “We were looking to create imaginative opportunities for people to connect with each other as they connect with the aweinspiring science being conducted today,” said David Delgado, a cultural strategist at JPL. “I know this experience has really opened the eyes of everyone collaborating on the project, and we hope it does the same for people who come to see ‘Blended Worlds.’” 	The exhibit is part of “PST ART: Art & Science Collide.” Organized by the Getty Foundation, PST ART consists of exhibitions, public programs, and other resources that explore the intersections between art and science. The Southern California event aims to foster dialogue on current pressing issues, including climate change, environmental justice, and the future of artificial intelligence. “Blended Worlds” is one of three PST ART projects led by Caltech. As a campus extension of the exhibit, “Earth Data: The Musical,” an original production by Theater Arts at Caltech, aims to portray the experiences of climate scientists, highlighting both the challenges and rewards of their essential research. The musical takes place in Caltech’s Ramo Auditorium from November 1 to 3.“Blended Worlds” is on view until January 4. 
 
-![](/img/2024/oct24/22/gold-road.png)
+
 		
