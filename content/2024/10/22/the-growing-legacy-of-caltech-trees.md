@@ -21,7 +21,7 @@ widgets:
   - categories
   - recent
 summary: >-
-    In the heart of Pasadena, nestled between the evergreen dotted hills and the sprawling cityscape, stands a campus symbolizing human ingenuity and environmental harmony: Caltech. Remarkably, what was once a patch- work of open chaparral and agricultural land has transformed into a living laboratory where science meets sustainability.
+    In the heart of Pasadena, nestled between the evergreen dotted hills and the sprawling cityscape, stands a campus symbolizing human ingenuity and environmental harmony: Caltech. Remarkably, what was once a patchwork of open chaparral and agricultural land has transformed into a living laboratory where science meets sustainability.
 ---
 
 In the heart of Pasadena, nestled between the evergreen dotted hills and the sprawling cityscape, stands a campus symbolizing human ingenuity and environmental harmony: Caltech. Remarkably, what was once a patch- work of open chaparral and agricultural land has transformed into a living laboratory where science meets sustainability. Today, Caltech’s carefully designed landscape reflects this transformation, with treelined avenues such as San Pasqual Walk as living symbols of this balance between nature and innovation. 		 	 	 		
