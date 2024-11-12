@@ -28,7 +28,7 @@ Do you dream of shaping the future of space exploration, working alongside leade
 
 **What is KISS?**
 
-If you’re like me when I arrived at Caltech, you’ve wondered what’s behind those KISS logos floating around campus, suggesting mysterious events closed off to the general public. Founded in 2008 as a joint initiative between Caltech and the Jet Propulsion Laboratory (JPL), KISS operates as both a think tank and a practical research hub, where big ideas about space exploration are born and tested. With a mission to advance space mission concepts and technology, KISS has made its mark on the future of space by fostering collaboration between Caltech researchers, JPL, and international experts. Past projects led to the development of  NASA’s Asteroid Redirect Mission and  helped to build the science case for the  InSight Mars Lander.
+If you’re like me when I arrived at Caltech, you’ve wondered what’s behind those KISS logos floating around campus, suggesting mysterious events closed off to the general public. Founded in 2008 as a joint initiative between Caltech and the Jet Propulsion Laboratory (JPL), KISS operates as both a think tank and a practical research hub, where big ideas about space exploration are born and tested. With a mission to advance space mission concepts and technology, KISS has made its mark on the future of space by fostering collaboration between Caltech researchers, JPL, and international experts. Past projects led to the development of  NASA’s Asteroid Redirect Mission and  helped to build the science case for the  InSight Mars Lander.
 
 **The KISS Affiliates Program**
 

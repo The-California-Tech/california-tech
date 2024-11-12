@@ -25,7 +25,7 @@ summary: >-
   Brought to you by the one and only California Tech.
 ---
 
-Dear Quail, 
+Dear Quail, 
 
 School has been great, and I had such a fun time during my years at California Institute of Technology. I love hearing all the hot gossip by red door, but I'm having trouble keeping secrets for my friends. It is getting to the point where they don't want to talk to me anymore because I just keep spilling the beans! Do you have any way to keep my frijoles from getting fried.
 
@@ -46,7 +46,7 @@ Quail
 
 Dear Quail,
 
-I'm a senior that graduated last term, but I still come to campus every day to do research work. I love CDS food, but since I'm not on the meal plan anymore, I can only eat for free at open kitchen. Every day I harass underclassmen to let me into their house so I can satiate my desire for delicious Caltech cuisine, I can't get enough of the stuff! But I'm worried that I won't be able to eat anything else after I move away from campus, how can I learn to be a real adult and cook my own meals before I starve out there in the real world? 
+I'm a senior that graduated last term, but I still come to campus every day to do research work. I love CDS food, but since I'm not on the meal plan anymore, I can only eat for free at open kitchen. Every day I harass underclassmen to let me into their house so I can satiate my desire for delicious Caltech cuisine, I can't get enough of the stuff! But I'm worried that I won't be able to eat anything else after I move away from campus, how can I learn to be a real adult and cook my own meals before I starve out there in the real world? 
 
 Signed,
 
@@ -62,9 +62,9 @@ Congrats on graduating,
 Quail
 
 
-Dear Quail, 
+Dear Quail, 
 
-I have a problem with stealing things. It’s just so exhilarating to take something from bars and restaurants. But this is causing me concern from my friends. What should I do? 
+I have a problem with stealing things. It’s just so exhilarating to take something from bars and restaurants. But this is causing me concern from my friends. What should I do? 
 
 Signed,
 

@@ -35,16 +35,16 @@ The unprecedented high level of freshman enrollment has spurred a housing shorta
 
 **Center for Student Services**: the only service I need is to be provided housing…
 
-**Caltech Hall (floors 2-8)**: does any singular person know what goes on in there? 
+**Caltech Hall (floors 2-8)**: does any singular person know what goes on in there? 
 
 **Dabney Hall of the Humanities**: Dabney Hovse satellite campus, if you will.
 
-**Broad Center for the Biological Sciences**: They already house all those monkeys, plus it’s close to on-campus dining options. I can pay rent by participating in psychological experiments.  
+**Broad Center for the Biological Sciences**: They already house all those monkeys, plus it’s close to on-campus dining options. I can pay rent by participating in psychological experiments.  
 
-**Brown Gym**: Who needs SimpliSafe, the new bronze Beaver can protect us! 
+**Brown Gym**: Who needs SimpliSafe, the new bronze Beaver can protect us! 
 
-**Resnick Sustainability Center Construction Site**: Bechtel Residence 2.0? Call up the architect, it’s not too late to change the plans. 
+**Resnick Sustainability Center Construction Site**: Bechtel Residence 2.0? Call up the architect, it’s not too late to change the plans. 
 
-**Rooftops**: Top-floor penthouse suite, anyone? 
+**Rooftops**: Top-floor penthouse suite, anyone? 
 
-**President Thomas F. Rosenbaum III’s House**: A frequent topic at the Student-Faculty Conference was the lackluster undergraduate advising program. As a solution to this issue, any student being forced to move off campus should be permitted to take up residence in the President’s Caltech-owned house. Don’t misunderstand, we don’t want to kick Rosenbaum out of housing (that would be just as bad as what happened to us), we simply propose creating some double-occupancy rooms and moving in with him! 
+**President Thomas F. Rosenbaum III’s House**: A frequent topic at the Student-Faculty Conference was the lackluster undergraduate advising program. As a solution to this issue, any student being forced to move off campus should be permitted to take up residence in the President’s Caltech-owned house. Don’t misunderstand, we don’t want to kick Rosenbaum out of housing (that would be just as bad as what happened to us), we simply propose creating some double-occupancy rooms and moving in with him! 

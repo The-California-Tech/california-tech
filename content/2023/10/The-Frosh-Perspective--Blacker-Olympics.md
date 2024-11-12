@@ -30,7 +30,7 @@ summary: >-
   lock picking to tug of war.
 ---
 
-“Be there, do stuff,” the rotation activity announcement of Blacker Hovse, left much to be desired in terms of its specificity. Although Blacker is always famously doing a lot of “stuff,” the event in question was the Blacker Olympics, a newly minted annual tradition where lots of “stuff” happened indeed. 
+“Be there, do stuff,” the rotation activity announcement of Blacker Hovse, left much to be desired in terms of its specificity. Although Blacker is always famously doing a lot of “stuff,” the event in question was the Blacker Olympics, a newly minted annual tradition where lots of “stuff” happened indeed. 
 
 &#x9;Following Dabney Boat Tours, Chill at Page, and Ricketts Open Mic Night, the team-based, tournament-style competition centered around the promise of a massive water fight at the end, which participants could use their tickets to prepare for. Up for sale were water guns, tubs of water balloons, and defensive materials like mattresses and cardboard. To earn tickets, participants competed against each other in a series of games - ranging from lock picking to tug of war.
 
@@ -44,7 +44,7 @@ summary: >-
 
 &#x9;And the lounge was hosting a Blacker classic: lockpicking, an event so popular that the table was never lacking people, and at some point even ran out of tension hooks and picks. The puzzle activity – in which students attempted to put together a 100-piece puzzle of the iconic Charlie Brown and Snoopy in a blind obstacle course – was exactly what it sounds like. The paper airplane competition was also a favorite, where participants folded paper airplanes and had to throw them from the 2nd floor library into a target in the courtyard. (Some expert players were ejected due to fear of hyperinflating the ticket economy.)
 
-&#x9;Despite attempts to keep the ticket economy in control and balanced in terms of the teams, some teams came out on top, with the top two holding the majority of the tickets. However, having more tickets didn’t automatically mean victory; although it meant they were able to buy more water guns, water balloons, and defensive materials, it all came down to the strategy that was utilized. And here, the true spirit of collaboration and creative application of Caltech strategy was revealed. 
+&#x9;Despite attempts to keep the ticket economy in control and balanced in terms of the teams, some teams came out on top, with the top two holding the majority of the tickets. However, having more tickets didn’t automatically mean victory; although it meant they were able to buy more water guns, water balloons, and defensive materials, it all came down to the strategy that was utilized. And here, the true spirit of collaboration and creative application of Caltech strategy was revealed. 
 
 After a short strategy meeting within each team, the games began. In between phalanx-like formations - rows of defense with long range weapons, pushing mattresses slowly but surely forward with students’ knees, and dragging buckets of water behind them, victors emerged and the unfortunate faded into obscurity (more accurately, a wet downfall). The fierce battle produced various strategies as time went on, such as a full body suit of armor consisting of cardboard and a clear plastic helmet, a moving fortress, and rushing people. And with the enthusiastic commentary of two Blacker Hovse upperclassmen, Team 3 ultimately emerged victorious.
 

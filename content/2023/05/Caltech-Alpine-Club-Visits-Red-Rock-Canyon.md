@@ -49,4 +49,4 @@ Nick Abel, community member and 1/3 of the Alpine Club’s Trip Planning Consort
 
 {{% post__image image="/img/2023/may16/31/alpine (2).jpg" %}}
 
-If you’d like to get involved with the Alpine Club or learn more about upcoming events, you can join the mailing list by emailing [alpineclub@caltech.edu](). Also make sure to join the Alpine Club Slack (scan QR code below) for discussions about trip plans and spontaneous outings!
+If you’d like to get involved with the Alpine Club or learn more about upcoming events, you can join the mailing list by emailing [alpineclub@caltech.edu](). Also make sure to join the Alpine Club Slack (scan QR code below) for discussions about trip plans and spontaneous outings!

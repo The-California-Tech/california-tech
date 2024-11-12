@@ -28,11 +28,11 @@ slug: bod-meeting-minutes-april-16-2023
 
 Minutes for April 16, 2023. Taken by Jonathan Booker.
 
-**Officers Present:** Kavya Rajagopalan, Gabi Twombly, Shwetha, Matticus Brown, Rachel Ding, Jonathan Booker
+**Officers Present:** Kavya Rajagopalan, Gabi Twombly, Shwetha, Matticus Brown, Rachel Ding, Jonathan Booker
 
 **Floor:** Michael Gutierrez
 
-**Call to Order:** 7:10
+**Call to Order:** 7:10
 
 **Officer’s Reports:**
 

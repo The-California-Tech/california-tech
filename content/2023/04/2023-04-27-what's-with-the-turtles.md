@@ -46,6 +46,6 @@ If you see a turtle wandering around campus, its best to just leave it. Do not t
 ![](/img/2023/apr04/24/turt.jpg)
 {.post__image}
 
-If you are interested in turtles or the turtle pond, Caltech has a turtle club who were very helpful in the writing of this article. This is their second year of operation, and they will have many events in May, the month of international turtle day to celebrate the creatures. Most of their activities are fun but they are also looking into conservation efforts for California’s turtles, who are very endangered. The Caltech turtle club can be contacted at [caltech.turtle.club@gmail.com](mailto:caltech.turtle.club@gmail.com) if you want to join or just want more information.
+If you are interested in turtles or the turtle pond, Caltech has a turtle club who were very helpful in the writing of this article. This is their second year of operation, and they will have many events in May, the month of international turtle day to celebrate the creatures. Most of their activities are fun but they are also looking into conservation efforts for California’s turtles, who are very endangered. The Caltech turtle club can be contacted at [caltech.turtle.club@gmail.com](mailto:caltech.turtle.club@gmail.com) if you want to join or just want more information.
 
 *Photos by Thomas Cleveland. Follow [@caltechtoidals](https://www.instagram.com/caltechtoidals/) on Instagram for more!*

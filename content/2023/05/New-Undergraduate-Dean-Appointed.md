@@ -29,7 +29,7 @@ summary: >-
 
 “I can say that when I was first asked about it, it obviously seemed like a challenging role, but I genuinely believe that I can stand up to the challenge,” chimed Dr. Jennifer Jahner, newly appointed Dean of Undergraduate Students. Despite being in the early days of her tenure, Jahner already shows a promising vision for Caltech's undergraduate program, and an understanding of the need for continual growth and adaptation in this new environment.
 
-In an interview with the Tech, Jahner described her goal for a robust and comprehensive support system for Caltech students. “My priorities will be student welfare and academic progress, from their initial arrival on campus to well after they graduate,” she assured.
+In an interview with the Tech, Jahner described her goal for a robust and comprehensive support system for Caltech students. “My priorities will be student welfare and academic progress, from their initial arrival on campus to well after they graduate,” she assured.
 
 Jahner, who is Caltech’s first-ever female Undergraduate Dean, continued to emphasize her commitment to open communication and maintaining a strong relationship with the student body. approachability, willingness to understand, and address their needs and concerns directly.
 

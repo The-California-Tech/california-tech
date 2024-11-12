@@ -23,7 +23,7 @@ widgets:
 summary: I got paid!!! Parting thoughts from the previous Tech Editor.
 ---
 
-Well, it may have taken 1171 days, but the Tech has finally given me my long-awaited compensation. I’ve been around as one of the Tech’s editors for over three years at this point, but I can comfortably say that this paper is in the best state it’s been since I’ve started working on it. The paper’s biweekly publication schedule doesn’t require the editing team to not sleep the night before publication (Editor’s note: \*), revenue from advertising is finally returning, and the pay rates have increased for the first time in decades! It’s certainly a massive improvement over the year and a half that we spent keeping the paper on life support through digital distribution.
+Well, it may have taken 1171 days, but the Tech has finally given me my long-awaited compensation. I’ve been around as one of the Tech’s editors for over three years at this point, but I can comfortably say that this paper is in the best state it’s been since I’ve started working on it. The paper’s biweekly publication schedule doesn’t require the editing team to not sleep the night before publication (Editor’s note: \*), revenue from advertising is finally returning, and the pay rates have increased for the first time in decades! It’s certainly a massive improvement over the year and a half that we spent keeping the paper on life support through digital distribution.
 
 {{% post__image image="/img/2023/may16/31/kenny_got_paid.jpg" %}}
 

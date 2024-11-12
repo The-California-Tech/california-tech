@@ -25,7 +25,7 @@ summary: ''
 
 On Wednesday, June 7, 2023 at 2:12 p.m., Caltech undergraduates received the following email:
 
-## Caltech Notification System
+## Caltech Notification System
 
 This Timely Warning Bulletin is being issued in compliance with the Jeanne Clery Act. The purpose is to provide preventative information to the campus community to aid members from becoming the victim of a crime.
 

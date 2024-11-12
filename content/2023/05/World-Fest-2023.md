@@ -23,7 +23,7 @@ widgets:
 summary: "For the first year since COVID, the Caltech Y and the International Student Programs (ISP) successfully held World Fest 2023. With 22 different countries and regions represented, this year’s annual spring event was sure to brighten the days of the hundreds of community members that came to indulge in diverse foods and music.\_"
 ---
 
-For the first year since COVID, the Caltech Y and the International Student Programs (ISP) successfully held World Fest 2023. With 22 different countries and regions represented, this year’s annual spring event was sure to brighten the days of the hundreds of community members that came to indulge in diverse foods and music. 
+For the first year since COVID, the Caltech Y and the International Student Programs (ISP) successfully held World Fest 2023. With 22 different countries and regions represented, this year’s annual spring event was sure to brighten the days of the hundreds of community members that came to indulge in diverse foods and music. 
 
 World Fest has been a Caltech tradition for over 25 years. A team of staff from the Y and ISP began planning the event months in advance to brainstorm presentation ideas, coordinate finances and logistics, and recruit community members – including Caltech students, staff and community volunteers – to represent a region of their choice with a reimbursable budget of $325 for food handouts and booth decorations.
 

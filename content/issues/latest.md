@@ -18,6 +18,9 @@ summary:
 images:
 slug: latest
 ---
+
+{{< issue_feature issue_tag="Vol. CXXVII, Issue 19" date="2024-11-12" >}}
+
 {{< issue_feature issue_tag="Vol. CXXVII, Issue 18" date="2024-10-22" >}}
 
 {{< issue_feature issue_tag="Vol. CXXVII, Issue 17" date="2024-10-08" >}}

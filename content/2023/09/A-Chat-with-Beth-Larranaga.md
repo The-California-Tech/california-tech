@@ -25,7 +25,7 @@ summary: Profile on Beth Larranaga
 
 PASADENA, CA — It was June 2021. Caltech was preparing to welcome students back to campus for the first time since the pandemic, and tensions were high. Needless to say, these were Unprecedented Times. For incoming frosh and their families, most of whom had never had the opportunity to visit Caltech before committing, the next few months looked especially uncertain. Questions like “Will I have to sleep in a different place every day for rotation?” “When do I register for classes?” and “Will my admission be rescinded if I fail the placement tests?” plagued our minds.
 
-Inboxes were inundated with flurries of onboarding documents and COVID-19 updates, which would have been exhausting even if the world hadn’t been communicating through screens for a year already. But out of the hundreds of impersonal, automated emails we received, exactly one showed a profile picture of the sender. It was Rosemary (“Beth”) Larranaga, the Office Manager for the Dean of Undergraduate Students, reaching out with a smiling face and a convenient, comprehensive to-do list for frosh. It was the first thing resembling a welcome message we’d received from outside the Admissions Office.
+Inboxes were inundated with flurries of onboarding documents and COVID-19 updates, which would have been exhausting even if the world hadn’t been communicating through screens for a year already. But out of the hundreds of impersonal, automated emails we received, exactly one showed a profile picture of the sender. It was Rosemary (“Beth”) Larranaga, the Office Manager for the Dean of Undergraduate Students, reaching out with a smiling face and a convenient, comprehensive to-do list for frosh. It was the first thing resembling a welcome message we’d received from outside the Admissions Office.
 
 For a lot of frosh — and even some sophomores — Beth’s was the first face they put to a name within the Caltech community.
 
@@ -45,7 +45,7 @@ To many undergraduates at Caltech, our administrators — particularly the Deans
 
 {{% post__image image="/img/2023/sept19/beth_profile/image003.jpg" %}}
 
-Actually, that’s probably more true than you’d expect. Something a lot of people don’t realize — the thing that makes Beth, well, Beth — is that she grew up in Pasadena. She has been a member of the Caltech community for literally her entire life. A lot of people left their homes to come here, but for Beth, this is home. It’s the only one she’s ever known. In fact, today Beth and her husband, Erwin, live on the very same plot of land as her childhood home. (The landline number has not changed!) So at what point does the place stop defining the person, and the person start defining the place?
+Actually, that’s probably more true than you’d expect. Something a lot of people don’t realize — the thing that makes Beth, well, Beth — is that she grew up in Pasadena. She has been a member of the Caltech community for literally her entire life. A lot of people left their homes to come here, but for Beth, this is home. It’s the only one she’s ever known. In fact, today Beth and her husband, Erwin, live on the very same plot of land as her childhood home. (The landline number has not changed!) So at what point does the place stop defining the person, and the person start defining the place?
 
 \*\*\*
 
@@ -53,7 +53,7 @@ Beth grew up in a very lively household — all told, there were 9 kids in the f
 
 In fact, many of Beth’s fondest childhood memories take place at locations very familiar to Caltech students; it’s remarkable to consider that she’s known them for far longer than we’ve been alive. As easy as it would be to take it all for granted (and many of us probably already do), Beth still regards every block of her hometown with childlike wonder.
 
-“My family threw my 2nd birthday party at Tournament Park, just down the street on Wilson. Did you know they landed the first ever cross-continental plane flight there \[in 1911]? I just learned that!”
+“My family threw my 2nd birthday party at Tournament Park, just down the street on Wilson. Did you know they landed the first ever cross-continental plane flight there \[in 1911]? I just learned that!”
 
 All this time later, Beth still adores Tournament Park. She’s always looking for an excuse to go there, whether it’s on a walk with her best friend Nancy or for a Prefrosh Welcome event. (Jonathan remembers that event well — it was the first time he talked to Beth one-to-one. He fondly recalled helping her transport 20 Heavy Boxes to the park during his time as a Frosh Camp Counselor earlier this year.)
 
@@ -61,8 +61,8 @@ Beth’s father, William F. Carroll, was a Materials Engineer at NASA’s Jet Pr
 
 Beth rummaged through the display of knick-knacks surrounding her desk (“Sorry, I’m always so cluttered!”), then excitedly presented me with a 11” x 14” picture frame. She beamed as she watched me read the NASA letterhead with widening eyes:
 
-*Office of Public Information 
-Jet Propulsion Laboratory 
+*Office of Public Information 
+Jet Propulsion Laboratory 
 January 26, 1979*
 
 *This recent color picture of Jupiter was taken by Voyager 1’s camera from a distance of 30 million miles…*
@@ -85,7 +85,7 @@ That’s where Beth got to know her best friend, Nancy Paradise, who was her bos
 
 “It was love at first sight,” Nancy said, recalling meeting Beth for the first time. “We became friends instantly. She told you about our tag games, right?”
 
-Of course she had. Beth and Nancy’s workplace shenanigans, often involving large quantities of adhesive dots or sticky notes, would rival those of Jim and Dwight from The Office. “We had way too much fun,” Beth giggled. “They had to separate us!”
+Of course she had. Beth and Nancy’s workplace shenanigans, often involving large quantities of adhesive dots or sticky notes, would rival those of Jim and Dwight from The Office. “We had way too much fun,” Beth giggled. “They had to separate us!”
 
 {{% post__image image="/img/2023/sept19/beth_profile/image005.jpg" %}}
 
@@ -97,7 +97,7 @@ It was also around this time that Beth met her future husband, Erwin, who was an
 
 Beth and her colleagues were all still in their 20s at this point, and they were very much part of Caltech’s broader social scene. There was a softball league, frequent JPL/Caltech crossover happy hours, and of course, the undergraduates’ Interhouse parties.
 
-“I actually never knew about the steam tunnels until I met my husband,” Beth told me. “He took me to an interhouse there once — people had built an entire pirate ship. It was amazing!” Editor’s note: The California Tech disavows any and all knowledge of such “tunnels”.
+“I actually never knew about the steam tunnels until I met my husband,” Beth told me. “He took me to an interhouse there once — people had built an entire pirate ship. It was amazing!” Editor’s note: The California Tech disavows any and all knowledge of such “tunnels”.
 
 Nine years, one wedding, and two kids after she started at the CCU, Beth had made her way up the ladder to Campus Branch Manager. Then she got the news: twin girls on the way! Like any sane human beings, Beth and Erwin were terrified. But in a not-so-crazy coincidence, they ended up getting advice from Linus Pauling’s daughter, Linda, who had also recently had twins. Beth’s girls arrived in 1993, and she promptly “retired” from the CCU in order to focus on her family.
 
@@ -109,7 +109,7 @@ I looked back at Beth after the extra 30 seconds it took me to catch up in my in
 
 {{% post__image image="/img/2023/sept19/beth_profile/image006.jpg" %}}
 
-After her kids got older, Beth decided to return to work. She had a brief stint back at the CCU (“It was so strange to see some of the same people 20 years later!”), then spent a few years in the Bursar’s Office and the Financial Aid Office. In the Spring of 2007, when a vacancy appeared in the Deans’ Office, she hesitated at first — she had no idea if she could do the job. Even today, Beth is self-conscious about not having a college degree, but she applied for the position anyway. Commentary on higher education aside, the past 16 years speak for themselves.
+After her kids got older, Beth decided to return to work. She had a brief stint back at the CCU (“It was so strange to see some of the same people 20 years later!”), then spent a few years in the Bursar’s Office and the Financial Aid Office. In the Spring of 2007, when a vacancy appeared in the Deans’ Office, she hesitated at first — she had no idea if she could do the job. Even today, Beth is self-conscious about not having a college degree, but she applied for the position anyway. Commentary on higher education aside, the past 16 years speak for themselves.
 
 “I just love working in this office,” Beth gleamed. “To be honest, I’m a little bit ‘A.D.D.’ so I have to do different things all the time. Around here, you never know what’s going to happen! It’s so fun and interesting. Good for my brain.”
 
@@ -121,7 +121,7 @@ For Beth, the important things are already right here: a lifetime of friends and
 
 “It’s you guys! You all are amazing. I feel so lucky to get to know everybody and help them along their paths.”
 
-And Beth does know everybody. “When I went to deliver the Tech to the Deans’ Office earlier,” Jonathan told me, “she hadn’t seen me since things started going downhill for me last term, so she was like, ‘Hi! Are You Doing OK??’ (I am now!)”
+And Beth does know everybody. “When I went to deliver the Tech to the Deans’ Office earlier,” Jonathan told me, “she hadn’t seen me since things started going downhill for me last term, so she was like, ‘Hi! Are You Doing OK??’ (I am now!)”
 
 For Beth, it’s a no-brainer. “It’s what I get up in the morning to do. I love it.”
 
