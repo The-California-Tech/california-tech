@@ -2,7 +2,7 @@
 title: 'Caltech Ranks 111th in 2025 FIRE Free Speech College Rankings'
 authors:
     - Unai Arrizabalaga
-date: 2024-03-12 08:00:00 -0700
+date: 2024-12-03 08:00:00 -0700
 categories:
   - News
 tags:

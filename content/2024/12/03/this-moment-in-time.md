@@ -2,7 +2,7 @@
 title: 'This Moment in Time: A Celebration of Ephemerality'
 authors:
   - Michael Gutierrez
-date: 2024-03-12 08:00:00 -0700
+date: 2024-12-03 08:00:00 -0700
 categories:
   - Culture
 tags:

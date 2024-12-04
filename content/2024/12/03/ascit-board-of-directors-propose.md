@@ -2,7 +2,7 @@
 title: 'ASCIT Board of Directors Propose New Bylaws Amendments'
 authors:
     - Sophie Elam
-date: 2024-03-12 08:00:00 -0700
+date: 2024-12-03 08:00:00 -0700
 categories:
   - News
 tags:

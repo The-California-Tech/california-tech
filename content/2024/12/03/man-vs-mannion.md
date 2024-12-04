@@ -2,7 +2,7 @@
 title: 'Man vs. Mannion: HK Macau Bistro'
 authors:
     - Nora Xiao, Tom Mannion
-date: 2024-03-12 08:00:00 -0700
+date: 2024-12-03 08:00:00 -0700
 categories:
   - Food
 tags:

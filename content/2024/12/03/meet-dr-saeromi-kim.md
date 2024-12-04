@@ -2,7 +2,7 @@
 title: 'Meet Dr. Saeromi Kim, the new Director of Counseling Services at SWS'
 authors:
     - Mawell Montemayor
-date: 2024-03-12 08:00:00 -0700
+date: 2024-12-03 08:00:00 -0700
 categories:
   - Humans of Caltech
 tags:

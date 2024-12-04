@@ -2,7 +2,7 @@
 title: 'Local Holiday Events in Pasadena'
 authors:
     - Alicia Zhang
-date: 2024-03-12 08:00:00 -0700
+date: 2024-12-03 08:00:00 -0700
 categories:
   - The Outside World
 tags:
