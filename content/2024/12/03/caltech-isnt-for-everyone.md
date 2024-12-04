@@ -24,7 +24,6 @@ summary: >-
     I'm Antonio. I matriculated as a Caltech undergraduate in 2019. I will not graduate.
 ---
 
-
 I'm Antonio. I matriculated as a Caltech undergraduate in 2019. I will not graduate.
 
 I write to share my perspective. "As scientists, I think we need to own our perspectives rather than pretend that we have some omniscient neutral view of reality." (McGlynn, Terry. "It's really hard to see things from other perspectives." *Science for Everyone.* 2024 August 19.) My story will not reflect the experience of most Caltech undergraduates. The message I want to communicate may fail to resonate with most readers. That makes it no less true and no less valuable.
