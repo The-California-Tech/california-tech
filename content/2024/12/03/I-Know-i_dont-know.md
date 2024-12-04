@@ -6,7 +6,7 @@ date: 2024-03-12 08:00:00 -0700
 categories:
   - Column
 tags:
-  - 'Vol. CXXVII, Issue 19'
+  - 'Vol. CXXVII, Issue 20'
 weight: 0
 show_thumbnail: false
 thumbnail: /img/2024/dec03/socrates.png
