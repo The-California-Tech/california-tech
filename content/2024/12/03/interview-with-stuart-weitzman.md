@@ -2,7 +2,7 @@
 title: 'An Interview with Stuart Weitzman'
 authors:
     - Alicia Zhang
-date: 2024-12-03 08:00:00 -0700
+date: 2024-12-03 05:00:00 -0700
 categories:
   - Culture
 tags:

@@ -2,7 +2,7 @@
 title: 'Question the Quail – December 3, 2024'
 authors:
     - Quail
-date: 2024-12-03 08:00:00 -0700
+date: 2024-12-03 05:00:00 -0700
 categories:
   - Humor
 tags:
