@@ -1,5 +1,5 @@
 ---
-title: 'Caltech Isn't for Everyone'
+title: "Caltech Isn't for Everyone"
 authors:
   - Antonio Caceres
 date: 2024-12-03 05:00:00 -0700
