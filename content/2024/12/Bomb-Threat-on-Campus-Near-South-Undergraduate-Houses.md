@@ -1,6 +1,7 @@
 ---
 title: Bomb Threat on Campus Near South Undergraduate Houses
 authors:
+  - Iris Lubashev
   - Michael Gutierrez
 date: 2024-12-09T15:52:58.958Z
 categories:
