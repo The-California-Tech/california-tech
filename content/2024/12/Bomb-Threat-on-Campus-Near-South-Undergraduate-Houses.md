@@ -26,7 +26,11 @@ summary: >-
   available.
 ---
 
-This article will be updated with the latest information as it becomes available. If you have any information to share, feel free to message me at [magutier@caltech.edu](mailto:magutier@caltech.edu).
+At 10:04, Caltech Security gave the all clear for students to return to the South Houses.
+
+At 10:03, an email from the Housing Office to undergraduates said:
+
+> This morning, December 9, 2024, Caltech received a phone call alleging a bomb threat to campus. During a sweep, a suspicious package was located near undergraduate housing on the south side of campus. Pasadena Police responded and determined that the package was not a bomb or other explosive device.
 
 At 09:13, an email from the Caltech Notification System said:
 
