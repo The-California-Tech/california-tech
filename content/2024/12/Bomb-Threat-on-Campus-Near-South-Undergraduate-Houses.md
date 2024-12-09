@@ -28,6 +28,12 @@ summary: >-
 
 This article will be updated with the latest information as it becomes available. If you have any information to share, feel free to message me at [magutier@caltech.edu](mailto:magutier@caltech.edu).
 
+At 09:13, an email from the Caltech Notification System said:
+
+> Police determined that the package was not a bomb or explosive device.\
+> Blacker, Dabney, Fleming, and Ricketts houses remain closed to all occupants for the time being.\
+> Police continue to assess the area. California Boulevard is closed to road traffic between Arden and Hill.
+
 09:00 -- region south of Olive Walk, as well as Red Door Cafe and Browne Dining Hall, remain closed. Broad Cafe is open and serving food. Students are free to move about campus otherwise.
 
 At 08:42, an email from the Caltech Notification System said:
