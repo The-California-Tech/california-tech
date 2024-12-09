@@ -28,6 +28,10 @@ summary: >-
 
 This article will be updated with the latest information as it becomes available. If you have any information to share, feel free to message me at [magutier@caltech.edu](mailto:magutier@caltech.edu).
 
+At 08:42, an email from the Caltech Notification System said:
+
+> Please continue to remain clear of the area around the south undergraduate houses. Individuals who are not already on campus, should stay away. California Boulevard is closed to road traffic between Arden and Hill.
+
 At 08:04, an email from Caltech Notification System said:
 
 > Caltech Security is still responding to an alleged bomb threat on the south side of campus, near the south undergraduate houses. Pasadena Police are on-site and have identified a suspicious package in the area.
