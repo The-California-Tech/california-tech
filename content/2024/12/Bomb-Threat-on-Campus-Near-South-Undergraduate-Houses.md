@@ -28,6 +28,8 @@ summary: >-
 
 This article will be updated with the latest information as it becomes available. If you have any information to share, feel free to message me at [magutier@caltech.edu](mailto:magutier@caltech.edu).
 
+09:00 -- region south of Olive Walk, as well as Red Door Cafe and Browne Dining Hall, remain closed. Broad Cafe is open and serving food. Students are free to move about campus otherwise.
+
 At 08:42, an email from the Caltech Notification System said:
 
 > Please continue to remain clear of the area around the south undergraduate houses. Individuals who are not already on campus, should stay away. California Boulevard is closed to road traffic between Arden and Hill.
