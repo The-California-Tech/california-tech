@@ -29,7 +29,13 @@ This article will be updated with the latest information as it becomes available
 
 At 06:30, a student in Dabney House saw security with flashlights taking lots of pictures and moving around things in Dabney Backyard, primarily on the ground by the greenhouse.
 
-At 07:19, security pulled the fire alarm in the South Houses and told people in person to go to either Avery dining hall or Bechtel (varying by person).
+At 06:35, Pasadena Police approached a group of students working on a radar project for an electrical engineering class outside on South Holliston Ave. The students explained and demonstrated their project, and the police moved on.
+
+At 06:53, security began searching the trash cans inside Fleming and Dabney House, and blocked off the exits to the Orange Walk.
+
+At 07:19, security pulled the fire alarm in the South Houses and began evacuating the residents. RLCs told people in person to go to either Avery Dining Hall or Bechtel (varying by person).
+
+At 07:53, the Olive Walk was blocked off with security tape. The North Houses were not being evacuated.
 
 At 08:04, an email from Caltech Notification System said:
 
