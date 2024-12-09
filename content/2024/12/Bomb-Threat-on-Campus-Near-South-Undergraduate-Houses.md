@@ -27,9 +27,9 @@ summary: >-
 
 This article will be updated with the latest information as it becomes available. If you have any information to share, feel free to message me at magutier\@caltech.edu.
 
-At 06:30, a student in Dabney House saw security with flashlights taking lots of pictures and moving around things in Dabney Backyard, primarily on the ground by the greenhouse.
+At approximately 05:00, Pasadena Police approached a group of students working on a radar project for an electrical engineering class outside on South Holliston Ave. The students explained and demonstrated their project, and the police moved on.
 
-At 06:35, Pasadena Police approached a group of students working on a radar project for an electrical engineering class outside on South Holliston Ave. The students explained and demonstrated their project, and the police moved on.
+At 06:30, a student in Dabney House saw security with flashlights taking lots of pictures and moving around things in Dabney Backyard, primarily on the ground by the greenhouse.
 
 At 06:53, security began searching the trash cans inside Fleming and Dabney House, and blocked off the exits to the Orange Walk.
 
