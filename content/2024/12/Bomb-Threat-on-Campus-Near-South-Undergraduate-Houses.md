@@ -38,7 +38,7 @@ At 08:04, an email from Caltech Notification System said:
 > Out of an abundance of caution, undergraduate residents in Blacker, Dabney, Fleming, and Ricketts houses have been evacuated. They have been relocated to Bechtel Residence and Avery House. Please remain clear of the area around the south undergraduate houses. Individuals who are not already on campus, should stay away. California Boulevard is closed to road traffic between Arden and Hill.
 > This is an active and developing situation. Updates will follow.
 
-At 07:53, the Olive Walk was blocked off with security tape. The North Houses were not being evacuated.
+At 07:53, the Olive Walk was blocked off with security tape. Red Door Cafe and Browne Dining Hall stopped service and were also evacuated. The North Houses were not being evacuated.
 
 At 07:19, security pulled the fire alarm in the South Houses and began evacuating the residents. RLCs told people in person to go to either Avery Dining Hall or Bechtel (varying by person).
 
