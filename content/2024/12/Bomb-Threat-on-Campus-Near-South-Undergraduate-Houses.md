@@ -26,6 +26,10 @@ summary: >-
   available.
 ---
 
+At 10:08, an email from the Caltech Notification System said:
+
+> Pasadena Police have concluded their search of the Caltech campus and California Blvd. There is no active or continuing threat to campus. Full and unrestricted access to campus has resumed. Students who were evacuated from their residences may return.
+
 At 10:04, Caltech Security gave the all clear for students to return to the South Houses.
 
 At 10:03, an email from the Housing Office to undergraduates said:
