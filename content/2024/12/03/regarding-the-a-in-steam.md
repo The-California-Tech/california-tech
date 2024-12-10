@@ -27,8 +27,7 @@ summary: >-
 This past summer I was walking on campus when in a window I saw something I would not expect to see at a technical school -- a flyer with the following poem printed on it:
 
 
-  > *I don’t care how* **God-damn smart** *these guys are:* **I’m bored.**  
-  > *It’s been raining like hell all day long* *and there’s nothing to do*
+  > *I don’t care how* **God-damn smart** *these guys are:* **I’m bored.** *It’s been raining like hell all day long* *and there’s nothing to do*
 
 and a photo of Caltech’s first and only poet in residence, Richard Brautigan.
 
