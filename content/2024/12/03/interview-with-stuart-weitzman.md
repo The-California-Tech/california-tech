@@ -21,7 +21,7 @@ widgets:
   - categories
   - recent
 summary: >-
-    If you're craving a culinary trip to Hong Kong and Macau without the airfare, HK Macau Bistro in San Gabriel offers a flavor-packed detour. With tables fashioned from mahjong tiles and walls adorned with street signs straight out of Kowloon, the vibe here screams retro nostalgia with a side of quirky charm. The food? A mixed bag of divine delights and comforting mediocrity.
+    It was a bit of an enigma as to why he had chosen to speak at Caltech. A world famous luxury shoe designer, Stuart Weitzman, seems an unlikely visitor. After graduating from the Wharton School in 1963 at the University of Pennsylvania, Weitzman pushed his job offer at Goldman Sachs to pursue women’s shoe designing. In 2019, UPenn named its school of design after him, and now seven years after stepping down from creative director, Weitzman travels around the country lecturing at various universities— and Caltech was next on his list.
 ---
 
 ![](/img/2024/dec03/stuart-weitzman.jpg)
