@@ -21,7 +21,7 @@ widgets:
   - categories
   - recent
 summary: >-
-    On November 13, JPL laid off 325 employees, or 5% of its workforce.
+    Come enjoy the true holiday spirit at one of the oldest Christmas light displays in a tradition going back over a hundred years. 
 ---
 
 
