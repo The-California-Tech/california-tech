@@ -8,7 +8,7 @@ categories:
   - News
 tags:
   - 'Vol. CXXVII, Issue 10'
-weight: -2
+weight: 0
 show_thumbnail: false
 thumbnail: /default7.jpg
 images:
