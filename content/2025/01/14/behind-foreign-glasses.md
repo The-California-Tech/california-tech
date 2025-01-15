@@ -38,7 +38,7 @@ The United States remains and will always remain my second home for me and livin
 The pride you show in your belonging is truly extraordinary, but there are some things I still have to understand. Like, why do they give you two bags instead of one at the supermarket, why do you turn right even when the light is red, why do drinks always have to be so huge? Everything is huge, boxes of medicines that could last for years, cans of fizzy drinks, giant cars (if I drove my polo here it would be dangerous, no one would see me), even the books are huge... even if this is my problem and the choice of university I made 😂.
 
 
-![](/img/2025/jan14/student-life-2.jpg)
+![](/img/2025/jan14/student-life-2.jpeg)
 
 The guys at the EquiScience riding Club watching a wonderful show! CONTACT ME!!! 
 
