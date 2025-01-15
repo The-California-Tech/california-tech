@@ -2,7 +2,7 @@
 title: "Brownian Motion: A Study of Caltech's Lunch Hour Chaos."
 authors: 
     - William Feasey
-date: 2025-01-14
+date: 2025-01-14 05:00:00 -0700
 categories:
     - Food
 tags:

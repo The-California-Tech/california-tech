@@ -2,7 +2,7 @@
 title: "What's up with the Switch 2?"
 authors: 
     - Clare Wu
-date: 2025-01-14
+date: 2025-01-14 05:00:00 -0700
 categories:
     - The Outside World
 tags:
