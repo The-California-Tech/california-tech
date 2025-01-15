@@ -59,6 +59,6 @@ Here we touch on the crux of the situation, the research that we are all extreme
 
 **Last thing! Hey AI, what do you think of my article?**
 
-The article effectively captures the complexities of living in an* age of rapid technological advancement, particularly regarding AI. It invites readers to reflect on their relationship with technology while acknowledging its potential to enhance human life. By blending personal narrative with broader societal implications, it creates a compelling argument for thoughtful engagement with AI and its role in shaping the future.*
+*The article effectively captures the complexities of living in an age of rapid technological advancement, particularly regarding AI. It invites readers to reflect on their relationship with technology while acknowledging its potential to enhance human life. By blending personal narrative with broader societal implications, it creates a compelling argument for thoughtful engagement with AI and its role in shaping the future.*
 
 Very good, I can consider myself satisfied. What an exciting dialogue!
