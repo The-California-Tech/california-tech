@@ -2,7 +2,7 @@
 title: "Caltech and LA wildfires."
 authors: 
     - Camilla Fezzi
-date: 2024-01-14
+date: 2025-01-14
 categories:
     - The Outside World
 tags:

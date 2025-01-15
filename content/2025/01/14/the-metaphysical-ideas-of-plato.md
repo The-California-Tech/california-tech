@@ -2,7 +2,7 @@
 title: "The Metaphysical Ideas of Plato: Reality or Imagination"
 authors: 
     - Camilla Fezzi
-date: 2024-01-14
+date: 2025-01-14
 categories:
     - Column
 tags:

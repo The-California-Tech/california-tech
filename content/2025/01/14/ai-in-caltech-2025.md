@@ -2,7 +2,7 @@
 title: "AI at Caltech in 2025, how’s it going? Has it destroyed everything?"
 authors: 
     - Camilla Fezzi
-date: 2024-01-14
+date: 2025-01-14
 categories:
     - Opinion
 tags:

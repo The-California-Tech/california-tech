@@ -2,14 +2,14 @@
 title: "Eaton Fire Scorches the Caltech and Pasadena Community"
 authors: 
     - Victoria Davis
-date: 2024-01-14
+date: 2025-01-14
 categories:
     - News
 tags:
     - 'Vol. CXXVII, Issue 21'
 weight: 0
 thumbnail: /img/2025/jan14/image9.jpg
-images:
+images: 
   - /img/2025/jan14/image9.jpg
 show_thumbnail: false
 sidebar: right

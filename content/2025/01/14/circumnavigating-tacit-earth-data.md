@@ -2,7 +2,7 @@
 title: "Circumnavigating TACIT’s Earth Data: The Musical — A Retrospective"
 authors: 
     - Damian R. Wilson
-date: 2024-01-14
+date: 2025-01-14
 categories:
     - Culture
 tags:

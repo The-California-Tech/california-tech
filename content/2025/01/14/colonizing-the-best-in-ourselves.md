@@ -2,7 +2,7 @@
 title: "As Below, So Above: Colonizing the Best in Ourselves"
 authors: 
     - Theodore Havel
-date: 2024-01-14
+date: 2025-01-14
 categories:
     - Column
 tags:
