@@ -8,9 +8,9 @@ categories:
 tags:
     - 'Vol. CXXVII, Issue 21'
 weight: 0
-thumbnail: /img/2025/jan14/browne.jpeg
+thumbnail: /img/2025/jan14/browne.jpg
 images:
-  - /img/2025/jan14/browne.jpeg
+  - /img/2025/jan14/browne.jpg
 show_thumbnail: false
 sidebar: right
 toc: false
