@@ -7,7 +7,7 @@ categories:
     - Student Life
 tags:
     - 'Vol. CXXVII, Issue 21'
-weight: 0
+weight: -2
 thumbnail: /img/2025/jan14/student-life.jpg
 images:
   - /img/2025/jan14/student-life.jpg
