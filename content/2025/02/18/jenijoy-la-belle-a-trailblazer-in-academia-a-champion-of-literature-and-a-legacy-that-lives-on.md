@@ -10,7 +10,7 @@ tags:
 weight: 0
 thumbnail: /img/2025/feb18/trailblazer1.png
 images:
-  - /img/2025/feb18/trailblazer2.png
+  - /img/2025/feb18/trailblazer1.png
 show_thumbnail: false
 sidebar: right
 toc: false

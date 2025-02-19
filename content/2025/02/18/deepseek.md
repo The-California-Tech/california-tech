@@ -7,9 +7,9 @@ categories:
 tags:
     - 'Vol. CXXVII, Issue 23'
 weight: 0
-thumbnail: /img/2025/feb18/deepseek.png
+thumbnail: /img/2025/feb18/deepseek.jpg
 images:
-  - /img/2025/feb18/deepseek.png
+  - /img/2025/feb18/deepseek.jpg
 show_thumbnail: false
 sidebar: right
 toc: false
@@ -23,7 +23,7 @@ summary: >-
     DeepSeek is a new China-based startup that has created a Large Language Model (LLM) chatbot as capable as the current industry standard, ChatGPT. DeepSeek was founded in 2023.
 ---
 
-![](/img/2025/feb18/deepseek.png)
+![](/img/2025/feb18/deepseek.jpg)
 
 
 DeepSeek is a new China-based startup that has created a Large Language Model (LLM) chatbot as capable as the current industry standard, ChatGPT. DeepSeek was founded in 2023.

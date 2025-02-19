@@ -8,9 +8,9 @@ categories:
 tags:
     - 'Vol. CXXVII, Issue 23'
 weight: 0
-thumbnail: /img/2025/feb18/one-life.png
+thumbnail: /img/2025/feb18/one-life.jpg
 images:
-  - /img/2025/feb18/one-life.png
+  - /img/2025/feb18/one-life.jpg
 show_thumbnail: false
 sidebar: right
 toc: false
@@ -25,7 +25,7 @@ summary: >-
 ---
 
 
-![](/img/2025/feb18/one-life.png)
+![](/img/2025/feb18/one-life.jpg)
 
 
 Poster for *One Life*. Credit: Bleecker Street and Warner Bros. Pictures.	 	 	 		
