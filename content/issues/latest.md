@@ -18,6 +18,8 @@ summary:
 images:
 slug: latest
 ---
+{{< issue_feature issue_tag="Vol. CXXVII, Issue 23" date="2025-02-18" >}}
+
 {{< issue_feature issue_tag="Vol. CXXVII, Issue 22" date="2025-01-28" >}}
 
 {{< issue_feature issue_tag="Vol. CXXVII, Issue 21" date="2025-01-14" >}}
