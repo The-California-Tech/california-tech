@@ -118,6 +118,7 @@ paginate = "24"
     "2024-12-03",
     "2025-01-14",
     "2025-01-28",
+    "2025-02-18"
   ]
   publicationTags = [
     "Vol. CXXVI, Issue 1",
@@ -149,6 +150,7 @@ paginate = "24"
     "Vol. CXXVII, Issue 20",
     "Vol. CXXVII, Issue 21",
     "Vol. CXXVII, Issue 22",
+    "Vol. CXXVII, Issue 23",
   ]
 
 [Params.CaliforniaTech.submitForm]
