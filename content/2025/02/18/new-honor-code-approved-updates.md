@@ -7,7 +7,7 @@ categories:
     - News
 tags:
     - 'Vol. CXXVII, Issue 23'
-weight: 0
+weight: -1
 thumbnail: /default.jpg
 images:
   - /default.jpg

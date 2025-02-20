@@ -8,7 +8,7 @@ categories:
     - Opinion
 tags:
     - 'Vol. CXXVII, Issue 22'
-weight: -1
+weight: 0
 thumbnail: /img/2025/jan28/cgpu_logo.png
 images:
   - /img/2025/jan28/cgpu_logo.png

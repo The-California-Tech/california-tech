@@ -7,7 +7,7 @@ categories:
     - Culture
 tags:
     - 'Vol. CXXVII, Issue 23'
-weight: 0
+weight: -2
 thumbnail: /img/2025/feb18/bhm5.png
 images:
   - /img/2025/feb18/bhm4.png
