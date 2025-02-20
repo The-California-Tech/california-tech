@@ -8,9 +8,9 @@ categories:
 tags:
     - 'Vol. CXXVII, Issue 23'
 weight: 0
-thumbnail: /default2.jpg
+thumbnail: /img/2025/feb18/jpl.jpg
 images:
-  - /default2.jpg
+  - /img/2025/feb18/jpl.jpg
 show_thumbnail: false
 sidebar: right
 toc: false
