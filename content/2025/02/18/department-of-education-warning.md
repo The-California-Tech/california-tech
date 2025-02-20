@@ -42,38 +42,4 @@ Caltech is a major destination for federal research spending, with total grants 
 
 *The Caltech Center for Inclusion and Diversity did not immediately respond to a request for comment. Additional updates are expected.*
 
------------------------ draft materials ------------------------
-
-“As a person without any prior research experience, FSRI was a great opportunity to obtain some, with a low-stress program,” a former FSRI student shared, “[but] it’s also a really nice way for people to connect before term starts and for people to get familiar with campus before the school year actually starts.” “FSRI allowed me to become very familiar with the resources on campus, and was helpful for transitioning from high school to the school year. Without FSRI, coming here would have been a lot tougher.”
-
-
-# **This is a section heading. (Add using the ‘Styles’ dropdown.)**
-
-~~This~~ **is** *some* <span style="text-decoration:underline;">formatted</span> ***<span style="text-decoration:underline;">text</span>***. (We can generally only transfer bold/italic/underline/strikethrough text.)
-
-
-
-* This is some bulleted text.
-* This is some bulleted text.
-    * This is some sub-bulleted text.
-
-[Hyperlinks](https://tech.caltech.edu/about) are ok to include, but obviously they will only work on the web version, and will just appear as underlined in print. If you need to cite sources, please do so inline rather than with footnotes (source: tech.caltech.edu/about).
-
-
-
-1. Numbered lists
-2. Are also an option.
-    1. Sub-lists too.
-
-
-![](/img/2025/feb18/rat.png)
- \
-Photos need a brief caption and must credit the source. (Credit: Jessie Gan)
-
-> This is a block quote or other emphasized text. If you have specific requests for formatting, please describe, and we can attempt to accommodate. No promises.
-
-Emojis can be included, but keep them to a reasonable quantity 😃
-
-Reminder that the editors reserve the right to edit and abridge all submissions for any reason. All written work remains property of its author. Maximum word count is 2000 words (check on Google Docs with Ctrl/Cmd-Shift-C). 
-
-See style and voice guidelines at [https://california-tech.notion.site/Style-Guide-for-Writers-7f425fdba4c3464ea6367c6c4993d69f](https://california-tech.notion.site/Style-Guide-for-Writers-7f425fdba4c3464ea6367c6c4993d69f). 
+—TROY ZHANG, THE CALIFORNIA TECH
