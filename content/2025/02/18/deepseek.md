@@ -32,4 +32,4 @@ The new models created were out of necessity made on a much lower budget than mo
 
 DeepSeek-V3 was publicly released on December 26, 2024, and has experienced a major uptick in users over the past few weeks. It was followed by a release of their first reasoning, or “thinking” model, R1, on January 20th of this year. On January 27th the New York Times wrote an article on DeepSeek’s latest model, causing NVIDIA to plummet 17% on the stock market. Other stocks dropped heavily as well. On January 31st, OpenAI (ChatGPT’s parent company) released its o1-mini model, which is considered better than DeepSeek R1. I feel that they are strong in different areas, but I prefer ChatGPT because in my experience DeepSeek’s servers are usually full and not available for use.
 
-*—THEODORE HAVEL, THE CALIFORNIA TECH *
+*—THEODORE HAVEL, THE CALIFORNIA TECH*
