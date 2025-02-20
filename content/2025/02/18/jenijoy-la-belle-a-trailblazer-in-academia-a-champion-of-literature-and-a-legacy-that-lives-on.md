@@ -35,7 +35,7 @@ Jenijoy La Belle in the 1990s. Credit: [Caltech Archives](https://digital.archiv
 Through her courageous battle for tenure, she not only secured her rightful place at Caltech but also became a symbol of perseverance and justice in the academic world. As she reflected on her struggle, she once said during an interview:
 
 
-    *"I have found myself in a highly charged political atmosphere. I have not attempted to match political talents against those with much more experience in such matters. Rather, I chose to do my work to the best of my ability and meet the stated criteria for gaining tenure. Yet each time I met the requirements, they were immediately raised, or narrowed, just enough so that I could not meet them."*
+    "I have found myself in a highly charged political atmosphere. I have not attempted to match political talents against those with much more experience in such matters. Rather, I chose to do my work to the best of my ability and meet the stated criteria for gaining tenure. Yet each time I met the requirements, they were immediately raised, or narrowed, just enough so that I could not meet them."
 
 Despite the obstacles in her path, La Belle never wavered in her dedication to literature, her students, or the principles of fairness and academic freedom. Her story is one of resilience, brilliance, and an unyielding commitment to the pursuit of knowledge.
 
