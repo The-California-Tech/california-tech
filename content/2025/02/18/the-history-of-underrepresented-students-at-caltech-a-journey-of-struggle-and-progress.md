@@ -68,7 +68,7 @@ William D. Hutchinson also worked under Pauling, tackling the complex science of
 
 ### 
 
-![](/img/2025/feb18/bhm3.png)
+![](/img/2025/feb18/bhm3.jpg)
 
  A collage featuring Caltech’s first three Black female students: Karen Maples, MD (BS ‘76), Deanna Hunt (BS ‘76), and Lauretta Carroll (BS ‘77). Credit: [Caltech Magazine](https://magazine.caltech.edu/post/reflections-on-72).
 
