@@ -30,7 +30,7 @@ In our annual review of the ASCIT Bylaws, ASCIT Board of Directors has decided t
 All of the proposed amendments are simply revisions to the existing amendments in the ASCIT Bylaws (which can be found on Donut under the ASCIT -> Publications-> Bylaws tab), and there are no new amendments being recommended in this election. The amendment revisions are outlined below with the revised wording in bold.
 
 
-# **Revision to Article*** ***IV, Section 5**
+# Revision to Article IV, Section 5
 
 
 ## The Board of Directors may pass Resolutions upon approval of four members. The Secretary shall record and make public all Board Resolutions. Resolutions concerning the formation of a committee or office shall require the approval of the Review Committee. Approved staff positions and their duties will be recorded in a Resolution. **Once approved, resolutions passed will stand until inactivated by the Board of Directors or recalled by a ⅔ vote by the Review Committee**
